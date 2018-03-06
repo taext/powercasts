@@ -1,4 +1,4 @@
-# PowerCasts User Guide v1.1
+# PowerCasts User Guide v1.2
 
 <br>
 
@@ -9,6 +9,8 @@
 2. Export OPML XML file from PocketCasts mobile settings
 
 3. Parse the file as described in Setup
+
+4. Change the GetRandomPodcast.ps1 $pathToMp3File default 
 
 <br>
 
