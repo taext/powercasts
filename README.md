@@ -1,4 +1,4 @@
-# PowerCasts User Guide v1.2
+# PowerCasts User Guide v1.3
 
 <br>
 
@@ -10,7 +10,7 @@
 
 3. Parse the file as described in Setup
 
-4. Change the GetRandomPodcast.ps1 $pathToMp3File default 
+4. Change the GetRandomPodcast.ps1 $pathToMp3File default value to .txt file produced above
 
 <br>
 
