@@ -1,4 +1,7 @@
-# PowerCasts User Guide v1.4
+# PowerCasts User Guide v1.5
+march 7th 2018 by d@v1d.dk
+
+(Linux only)
 
 <br>
 
