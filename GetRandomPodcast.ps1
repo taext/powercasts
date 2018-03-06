@@ -4,45 +4,46 @@
 .SYNOPSIS
 Play or download random podcast(s)
 .DESCRIPTION
-Play or download random podcast(s) from PocketCasts 
-OPML 37.000 podcast file podcasts_opml.txt 
+Play or download random podcast(s) from 
+podcast MP3 URL file podcasts_opml.txt 
 or provide alternative filename at runtime.
 #>
 
 Param(
-    [Alias('c','n')]
+    [Alias('count','c','n')]
     # Download multiple MP3s
     [int]
-    $Count = 1,
-    [Alias('file','f')]
+    $mp3FileCount = 1,
+    [Alias('path','file','f')]
     # Define alternative URL list file
     [string]
-    $Path = '/home/dd/Documents/newer_opml_parsing/podcasts_opml.txt',
-    [Alias('d','down','download')]
+    $pathToMp3File = '/home/dd/Documents/newer_opml_parsing/podcasts_opml.txt',
+    [Alias('d','down')]
     # Download file(s) only
     [switch]
-    $DownloadOnly,
+    $downloadOnly,
     [Alias('b')]
     # Define browser
-    $Browser = 'firefox'
+    $browser = 'firefox'
     )
 
-$content = Get-Content $Path
+$allMp3Urls = Get-Content $pathToMp3File
 
-for ($i=0; $i -lt $Count; $i++){
+for ($i=0; $i -lt $mp3FileCount; $i++){
 
 [Object]$Random = New-Object System.Random
-$randInt = $Random.Next(1, $content.Length)
+$randomInt = $Random.Next(1, $allMp3Urls.Length)
 
-$mp3Url = $content[$randInt]
+$mp3Url = $allMp3Urls[$randomInt]
 
-if (-not $DownloadOnly){
-Write-Output "#$randInt $mp3Url"
-& $Browser $mp3Url 2> /dev/null 1> /dev/null
+if (-not $downloadOnly){
+Write-Output "#$randomInt $mp3Url"
+& $browser $mp3Url 2> /dev/null 1> /dev/null
 }
 else {
-    Write-Output "#$randInt $mp3Url"
+    Write-Output "#$randomInt $mp3Url"
     wget -T 10 -t 1 $mp3Url 2> /dev/null 1> /dev/null
 }
 }
 
+ 
