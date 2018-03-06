@@ -1,4 +1,4 @@
-# PowerCasts v1.0
+# PowerCasts User Guide v1.1
 
 <br>
 
@@ -14,23 +14,29 @@
 
 ### Syntax
 
-use `GetRandomPodcast.ps1` to play a random podcast
+To play a random podcast, simply run the PowerShell script:
 
     pwsh GetRandomPodcast.ps1
 
-optionally define which browser to use
+or use any of the following options in combination.
+
+<br>
+
+### Options
+
+define which browser to use:
 
     pwsh GetRandomPodcast.ps1 -b vivaldi
 
-or download only
+download only:
 
     pwsh GetRandomPodcast.ps1 -d
 
-or MP3 file count to download
+how many MP3s to get:
 
-    pwsh GetRandomPodcast.ps1 -c 3
+    pwsh GetRandomPodcast.ps1 -c 3   # or -n
 
-or alternative MP3 URL list file
+alternative MP3 URL list file:
 
     pwsh GetRandomPodcast.ps1 -f myUrls.txt
 
