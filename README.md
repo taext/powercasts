@@ -1,4 +1,4 @@
-# PowerCasts User Guide v1.3
+# PowerCasts User Guide v1.4
 
 <br>
 
@@ -56,7 +56,7 @@ to output `podcasts_opml.json` full-text RSS dictionary and `podcasts_opml.txt` 
 
 Parse `podcasts_opml.json` with `newest.py`:
 
-    python newest.py podcasts_opml.json
+    python newest.py podcasts_opml.json > newest_episodes.txt
 
-to get `newest.txt`, a list of the latest podcast URLs.
+to get `newest_episodes.txt`, a list of the latest podcast URLs.
 
