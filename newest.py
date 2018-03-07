@@ -1,6 +1,6 @@
-import json, re
+import json, re, sys
 
-with open('/home/dd/Documents/newer_opml_parsing/podcasts_opml.json') as infile:
+with open(sys.argv[1]) as infile:
 
     rss_dict = json.load(infile)
 
