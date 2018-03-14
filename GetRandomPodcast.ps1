@@ -24,7 +24,11 @@ Param(
     $downloadOnly,
     [Alias('b')]
     # Define browser
-    $browser = 'firefox'
+    $browser = 'firefox',
+    [Alias('e')]
+    # Get episode count
+    [switch]
+    $episodeCount
     )
 
 $allMp3Urls = Get-Content $pathToMp3File
@@ -35,6 +39,10 @@ for ($i=0; $i -lt $mp3FileCount; $i++){
 $randomInt = $Random.Next(1, $allMp3Urls.Length)
 
 $mp3Url = $allMp3Urls[$randomInt]
+
+if ($episodeCount){
+    Write-Output "Podcast episode count: $($allMp3Urls.Length)"
+}
 
 if (-not $downloadOnly){
 Write-Output "#$randomInt $mp3Url"
