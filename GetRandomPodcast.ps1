@@ -42,6 +42,7 @@ $mp3Url = $allMp3Urls[$randomInt]
 
 if ($episodeCount){
     Write-Output "Podcast episode count: $($allMp3Urls.Length)"
+    $episodeCount = $false  # only print episode count once
 }
 
 if (-not $downloadOnly){
