@@ -17,7 +17,7 @@ Param(
     [Alias('path','file','f')]
     # Define alternative URL list file
     [string]
-    $pathToMp3File = '/home/dd/Documents/newer_opml_parsing/podcasts_opml.txt',
+    $pathToMp3File = './podcasts_opml.txt',
     [Alias('d','down')]
     # Download file(s) only
     [switch]
