@@ -28,7 +28,11 @@ Param(
     [Alias('e')]
     # Get episode count
     [switch]
-    $episodeCount
+    $episodeCount,
+    [Alias('docs','doc','documentation','website','site')]
+    # open github powercasts documentation 
+    [switch]
+    $help
     )
 
 $allMp3Urls = Get-Content $pathToMp3File
@@ -39,6 +43,11 @@ for ($i=0; $i -lt $mp3FileCount; $i++){
 $randomInt = $Random.Next(1, $allMp3Urls.Length)
 
 $mp3Url = $allMp3Urls[$randomInt]
+
+if ($help){
+    & $browser https://github.com/taext/powercasts
+    break
+}
 
 if ($episodeCount){
     Write-Output "Podcast episode count: $($allMp3Urls.Length)"
