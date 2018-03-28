@@ -44,6 +44,8 @@ $randomInt = $Random.Next(1, $allMp3Urls.Length)
 
 $mp3Url = $allMp3Urls[$randomInt]
 
+& qr $mp3Url > qrcode.png
+
 if ($help){
     & $browser https://github.com/taext/powercasts
     break
