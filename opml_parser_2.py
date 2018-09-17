@@ -37,11 +37,10 @@ def main(ifilename):
     all_urls_3 = []
 
     for content in rss_dict.values():
-        m = re.findall('\"(http.+?\.mp3)\"', content)
-        for item in m:
-            if '>' not in item:
-                if '&' not in item:
-                    all_urls_3.append(item)
+        m = re.findall('\"(http\S+?\.(?:mp3|mp4))[\"\?]', content, re.IGNORECASE)
+        if m:
+            for item in m:
+                all_urls_3.append(item)
 
     txt_filename = file_name_wo_end + ".txt"
     f = open(txt_filename,'w')
