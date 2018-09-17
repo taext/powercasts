@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ $# -ge 1 ]         # if (count) argument passed
+then                    # use the value passed
+    cat podcasts_opml.txt | shuf -n $1
+else                    # else default to 1
+    cat podcasts_opml.txt | shuf -n 1
+
+fi
