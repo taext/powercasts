@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python newest.py podcasts_opml.json
+python newest.py podcasts_opml.json > newest.txt
