@@ -1,0 +1,7 @@
+*_orig.txt
+*.json
+stdout.txt
+*test*
+dev/*
+qrcode.png
+old/output*.txt
