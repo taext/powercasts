@@ -1,4 +1,5 @@
 #!/bin/bash
+# play one or more new episodes with VLC
 
 if [ $# -ge 1 ]         # if (count) argument passed
 then                    # use the value passed

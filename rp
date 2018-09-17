@@ -1,4 +1,5 @@
 #!/bin/sh
+# rp - random podcast
 # return one or more random episodes from 
 # full episode list, default 1
 

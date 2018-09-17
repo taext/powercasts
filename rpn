@@ -1,4 +1,5 @@
 #!/bin/sh
+# rpn - random podcast new
 # return one or more random episodes
 # from list of newest episodes,
 # default 1
