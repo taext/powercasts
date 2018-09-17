@@ -1,4 +1,8 @@
 #!/bin/sh
+# return one or more random episodes
+# from list of newest episodes,
+# default 1
+
 
 if [ $# -ge 1 ]         # if (count) argument passed
 then                    # use the value passed
