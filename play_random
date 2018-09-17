@@ -1,4 +1,8 @@
 #!/bin/bash
 
-vlc $(./rp)
-
+if [ $# -ge 1 ]         # if (count) argument passed
+then                    # use the value passed
+    vlc $(./rp $1) 2> /dev/null &
+else                    # else default to 1
+    vlc $(./rp) 2> /dev/null &
+fi
