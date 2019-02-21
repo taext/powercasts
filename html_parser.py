@@ -33,7 +33,7 @@ def read_file_to_list(filename):
 
 if __name__ == '__main__':
     # check for number of arguments
-    if len(sys.argv) > 3:
+    if len(sys.argv) == 3:
         file_content = read_file_to_list(sys.argv[1])
         result = url_list_to_htm(file_content, sys.argv[2])
 
