@@ -1,0 +1,7 @@
+#!/bin/bash
+
+shuf podcasts_opml.txt > shuf_podcasts.txt
+
+./html_parser.py shuf_podcasts.txt shuf.htm
+
+xdg-open shuf.htm
