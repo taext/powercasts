@@ -62,6 +62,7 @@ https://rss.art19.com/episodes/32b72d0c-194c-4848-bd17-1fc9494acb2a.mp3
 https://mcdn.podbean.com/mf/web/4ardcy/Episode018.mp3
 https://aphid.fireside.fm/d/1437767933/028e3ccf-bcdc-4bfb-a066-7a2381be4da4/7c8be617-e166-4b22-b5f9-7f46fe5c0c2e.mp3
 http://media.blubrry.com/engineeringcareercoach/traffic.libsyn.com/civilengineeringpodcast/TCEP123.mp3
+https://feed.pippa.io/public/streams/5d137ece8b774eb816199f63/episodes/5d5237ff64560c2a45c080f3.mp3
 http://feedproxy.google.com/~r/grapplepodcast/~5/B-YaQ5bu94U/grapple20170531.mp3
 http://feeds.soundcloud.com/stream/661980809-elixirtalk-episode-151-feat-dave-thomas-and-brian-mitchell-the-future-of-elixir.mp3
 https://rss.art19.com/episodes/42f28305-e9e3-4c17-ae99-29a0483bb091.mp3
@@ -78,6 +79,7 @@ http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/mythpodcast/MAL_ep150B.mp
 http://www.GeekTalk.ch/podcast/gt3319.mp3
 https://audio.simplecast.com/b67604ea.mp3
 https://www.podtrac.com/pts/redirect.mp3/podcast-assets.wired.co.uk/wireduk430-090919.mp3
+http://traffic.libsyn.com/cashflowninja/John_and_Bryce_mixdown.mp3
 http://traffic.libsyn.com/wtfpod/WTF_-_EPISODE_1044_BASHIR_SALAHUDDIN.mp3
 http://arkiv.radio24syv.dk/49543315/54610865/1293903979513c975a7d98b1db833d44/audio/podcast/54610865-audio.mp3
 https://episodes.castos.com/mobycast/Mobycast-72.mp3
@@ -89,6 +91,7 @@ http://feeds.soundcloud.com/stream/664487798-david-bell-38198445-we-just-watched
 http://www.cbsradionewsfeed.com/eyecast/distribution/podcasts/2636185.mp3
 http://media.tagesschau.de/video/2019/0812/TV-20190812-2021-1701.webxl.h264.mp4
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/digitalt-2019-08-13.mp3
+https://chtbl.com/track/524GE/traffic.megaphone.fm/VMP4681636389.mp3
 http://archive.org/download/cordkillersep279/CordkillersEp279.mp4
 http://traffic.libsyn.com/thinkingpodcast/HVMN_-_Dr._Paul_Saladino_-_AudioCut1.mp3
 http://feedproxy.google.com/~r/AlFiloDeLaRealidad/~5/Isz9XsPre0I/afr-n-238-budismo-antiguo-egipto_mf_39735829_feed_1.mp3
@@ -187,6 +190,7 @@ http://feeds.soundcloud.com/stream/663460313-user-98066669-134-extreme-privacy-p
 https://media.blubrry.com/rusty_spike/content.blubrry.com/rusty_spike/rusty_spike_ep_037.mp3
 https://sverigesradio.se/topsy/ljudfil/itunes/6963045.mp3
 https://dts.podtrac.com/redirect.mp3/media.blubrry.com/99percentinvisible/dovetail.prxu.org/96/c22e3999-d997-482a-8dd2-cd1050fc5713/365_On_Beeing_pt01.mp3
+https://crazy.capital/35/audio.mp3
 https://traffic.libsyn.com/secure/tonyrobbins/Fear_will_destroy_you_or_drive_you___Tony_world-champion_triathlete_Siri_Lindley_and_Free_Solo_s_Sanni_McCandless_on_how_fear_can_fuel_your_fire.mp3
 http://mvod.lvlt.rtve.es/resources/TE_SFALLOD/mp3/4/5/1564742809654.mp3
 http://hackerpublicradio.org/eps/hpr2877.mp3
@@ -309,6 +313,7 @@ https://www.dr.dk/mu/MediaRedirector/WithFileExtension/wagners-ringen-ifoelge-kr
 http://feeds.shallweshow.com/~r/shallweshow/~5/x9SM83KMhZ8/00128-carne-y-arena-vr-virtual-reality-exhibition-podcast-review-shallweshow.mp3
 https://dts.podtrac.com/redirect.mp3/media.blubrry.com/codenewbie/content.blubrry.com/codenewbie/CN_S9E6_E217_peggy_fisher_ADSIN.mp3
 https://traffic.libsyn.com/secure/peoplebehindthescience/514_Susanne_Brander_Final.mp3
+https://traffic.libsyn.com/secure/clairepells/080_Jamie_Jensen_Where_Are_They_Now_Final_copy.mp3
 https://chtbl.com/track/524GE/traffic.megaphone.fm/VMP7451265639.mp3
 https://dts.podtrac.com/redirect.mp3/aw.noxsolutions.com/launchpod/adswizz/327/WC182_o5bb_121be9b7.mp3
 http://feedproxy.google.com/~r/HistoCast/~5/dpvO-saRxEI/EstioCast46-DePostumoATetrico.mp3
@@ -379,6 +384,7 @@ http://dts.podtrac.com/redirect.mp3/kkb-lyd.dk/lydfrakb/media/2019-07-29_dodsski
 https://sverigesradio.se/topsy/ljudfil/itunes/7031912.mp3
 https://chtbl.com/track/524GE/traffic.megaphone.fm/VMP9408305757.mp3
 https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/isometricrelay/disruption-090.mp3
+https://chtbl.com/track/8E527/https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/STU2145230980.mp3
 https://mcdn.podbean.com/mf/web/i94eap/DEUTSCHSTUNDE.mp3
 https://traffic.megaphone.fm/LM8612838996.mp3
 https://traffic.megaphone.fm/LM8612838996.mp3
@@ -405,6 +411,7 @@ https://anchor.fm/s/945ae1c/podcast/play/4139868/https%3A%2F%2Fd3ctxlq1ktw2nl.cl
 https://traffic.megaphone.fm/GLT5980071000.mp3
 http://media.podcasts.ox.ac.uk/maths/oxford-maths/2019-07-03-maths-openday-vella-720.mp4
 https://rss.art19.com/episodes/cc4367f4-0a67-4e4a-8d58-56e0717de6a8.mp3
+https://play.podtrac.com/APM-ThisIsUncomfortable/play.publicradio.org/wp-feed/d/podcast/marketplace/this-is-uncomfortable/2019/08/08/tiu_20190808_128.mp3
 https://rss.art19.com/episodes/78baa4e6-848a-4f1d-a8df-a36232e93c6a.mp3
 https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/anxiety/anxiety042319_cms930202_pod.mp3
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/faking-news-20.mp3
@@ -415,7 +422,6 @@ https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/sidedoor/3fd4adc4-ac23-48
 https://api.spreaker.com/download/episode/18622674/ap_psico_emocion_asco.mp3
 https://traffic.megaphone.fm/LIT9503966585.mp3
 https://rss.art19.com/episodes/8e549acc-3a7b-4533-a617-5bc243ddbaa6.mp3
-http://feeds.soundcloud.com/stream/664704389-buglecall-081219-podcast-epstein-murder-suicide-arkancide-clinton-body-count-hong-kong-deep-state-fake-news.mp3
 https://media.defensivesecurity.org/defensive_security_podcast_episode_236.mp3
 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p07k74wj.mp3
 https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/66/1b6ddb1c-be01-41d9-b178-bf07b40e90e6/TCL_32_Contempt_Power_Part_01.mp3
@@ -440,6 +446,7 @@ http://traffic.libsyn.com/linustechtips/Userbench_CPU_score_DRAMA_-_WAN_Show_Aug
 https://www.melnyks.com/audio/L100.mp3
 https://media.acast.com/pluspluspodcast/plusplus-update/media.mp3
 https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/stown/817df96e-1d5e-48b2-964c-1f31d8c2d7ff/s-town-ch01.mp3
+http://media.blubrry.com/lhspodcast_mp3/bsmarchive.info/lhs/mp3/lhs295.mp3
 http://rf.proxycast.org/1551562158469292032/14726-13.03.2019-ITEMA_22007789-6.mp3
 https://media.acast.com/ft-tech-tonic/bengoertzelonbenevolentrobotsof/media.mp3
 https://dts.podtrac.com/redirect.mp3/www.giantbomb.com/podcasts/download/2776/595__It%27s_Always_the_Cute_Monks-08-06-2019-2356388350.mp3
@@ -465,7 +472,7 @@ https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/serial/818c95d0-865b-4745
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/bagklog-pa-p1-halvarets-bedste-gaester-og-historier-4.mp3
 http://dts.podtrac.com/redirect.mp3/media.blubrry.com/howsound/dovetail.prxu.org/223/7ba59057-6ed6-4ba3-baf8-a6d8cb1fbfee/HowSound_Reviews_Song_Exploder_.mp3
 https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM8022456487.mp3
-http://api.himalaya.com/himalaya-portal/redirect.mp3/1110820/64081793/cdn.himalaya.com/5614be56198743fe9296ffa278e76d13.mp3
+http://api.himalaya.com/himalaya-portal/redirect.mp3/1110820/63349413/cdn.himalaya.com/a2da24cfb5a04bc3a36f4acf206cd6e7.mp3
 http://feeds.soundcloud.com/stream/270496305-1843mag-the-disappearing-second.mp3
 http://traffic.libsyn.com/jjhodgman/jjho_427.mp3
 https://media.blubrry.com/tuxdigital_thisweekinlinux_mp3/mcdn.podbean.com/mf/web/emajyd/this-week-in-linux-episode-78.mp3
