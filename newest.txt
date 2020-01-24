@@ -32,7 +32,6 @@ http://feedproxy.google.com/~r/TheDailyBitcoinShow/~5/y11-tyB4g0A/8405.mp3
 http://traffic.libsyn.com/mixedmentalarts/Perez_INTRO_OUTRO.mp3
 http://feeds.soundcloud.com/stream/745496221-andre-peschke-runde-250.mp3
 https://media.blubrry.com/packetpushers/content.blubrry.com/packetpushers/PQ_162_Edge_Compute_Use_Cases_And_Juniper_s_Contrail_Edge_Cloud_Sponsored_.mp3
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/binge-med-frederik-og-kasper-61.mp3
 https://dts.podtrac.com/redirect.mp3/feed.pippa.io/public/streams/5b0e973cd3bc05df6502fe8e/episodes/5e16350e6989751977cbb8dc.mp3
 http://rf.proxycast.org/8cd42f7e-509b-44c1-aa21-4501ae1b6b9b/14007-19.01.2020-ITEMA_22258645-0.mp3
 http://archive.org/download/match3podcast/01_match3_052615.mp3
@@ -49,7 +48,7 @@ https://rss.art19.com/episodes/5c51847a-a60a-4cf9-815c-93314a61dfa1.mp3
 https://www.podtrac.com/pts/redirect.mp3/www.buzzsprout.com/147669/1012877-59-data-science-r-d-at-td-ameritrade.mp3
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/verdenspressen-91.mp3
 http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/736347982-acmescience-relatively-prime-2019-year-end-review.mp3
-https://media.blubrry.com/packetpushers/content.blubrry.com/packetpushers/HN_498_Creating_A_Single_Source_Of_Truth_For_Network_Automation.mp3
+https://media.blubrry.com/packetpushers/content.blubrry.com/packetpushers/HN_499_Introducing_Cisco_IOS_XR7_Sponsored_.mp3
 https://audioboom.com/posts/7484567.mp3
 http://dts.podtrac.com/redirect.mp3/chtbl.com/track/D33554/traffic.libsyn.com/savvypainter/SP220.mp3
 https://ftp.c3d2.de/pentaradio/pentaradio-2019-12-24.mp3
@@ -93,7 +92,7 @@ https://tracking.feedpress.it/link/8184/13108050/GUR6293086679.mp3
 http://feedproxy.google.com/~r/twist-audio/~5/jCxDZAfYqT0/TWiST-E1021.mp3
 https://datastori.es/podlove/file/6420/s/download/c/buttonlist/153-data-art-and-visual-programming-with-marcin-ignac-from-variable.mp3
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/p1-morgen-2020-01-24.mp3
-https://rf.proxycast.org/551cb02d-e01e-49bb-8e9d-2e14596ca194/13940-24.01.2020-ITEMA_22263674-0.mp3
+http://rf.proxycast.org/551cb02d-e01e-49bb-8e9d-2e14596ca194/13940-24.01.2020-ITEMA_22263674-0.mp3
 https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/7f4782a1-4de8-4337-bd9c-818881560224.mp3
 https://traffic.megaphone.fm/PPY3944255658.mp3
 https://tracking.feedpress.it/link/17413/13179116/FSJ038_Exploring_Kubernetes_And_The_Contour_Project_With_Steve_Sloka.mp3
@@ -128,7 +127,6 @@ https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/skoenlitteratur-pa-p1-2020-01-22.mp3
 http://traffic.libsyn.com/cryptotalk/Crypto_Talk_10_mit_Lars_Muller.mp3
 http://feedproxy.google.com/~r/sakerhetspodcasten/~5/60yCOZ42vGA/2020-01-08_Ostrukturerat.mp3
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/p1-debat-2020-01-23.mp3
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/vidundergrunden-2020-01-17.mp3
 http://tracking.feedpress.it/link/7810/13166312/745038268-cool-tools-209-tywen-kelly.mp3
 http://feeds.soundcloud.com/stream/748675405-superdatascience-sds-334-no-coaching.mp3
@@ -188,7 +186,7 @@ https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c50
 https://cdn.simplecast.com/audio/a0b7ac/a0b7ac00-da1c-4912-9339-ef1b3ac1a783/c50c5be5-92f1-4240-8797-4d34abf45439/sheleads-ep-03-final_tc.mp3
 https://mediavod-lvlt.rtve.es/resources/TE_RSENOEU/mp3/9/9/1579278144899.mp3
 http://traffic.libsyn.com/mererhetoric/Berlin_theory.mp3
-http://traffic.libsyn.com/nsf/nsf464-itunes.mp3
+http://traffic.libsyn.com/nsf/nsf465-itunes.mp3
 http://traffic.libsyn.com/thebutterflyeffect/TLDOA_EP7_POD_warning_181219.mp3
 http://www.podtrac.com/pts/redirect.mp3/frenchspin.com/sites/pixels/audio/pixels_126.mp3
 http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/748502410-talk-chineasy-024-may-you-be-prosperous-in-chinese-with-shaolan-and-entrepreneur-josh-weinstein-2.mp3
@@ -196,7 +194,6 @@ https://traffic.libsyn.com/secure/makingembeddedsystems/embedded-ep318.mp3
 https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/5090fbc5-4e0d-4b52-9f28-aa3200e14bba/3a2b08d1-64d1-4408-bf89-ab47000324b0/audio.mp3
 https://www.dr.dk/mu/MediaRedirector/WithFileExtension/troldspejlet-podcast-5.mp3
 https://chtbl.com/track/E341G/rss.art19.com/episodes/8ef6bf45-5b6d-4d49-b67f-c310207eb878.mp3
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/eksistens-sort-hvid-roed-gul-brun.mp3
 https://tracking.feedpress.it/link/15649/12792476/cc0bd4e0_tc.mp3
 https://static1.squarespace.com/static/54fce1e2e4b0297e0211ac34/t/5b516aca575d1f1420eae570/1532062431098/EASY+CHINESE+IDIOMS+Dumb+Like+Wooden+Rooster.mp3
 http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/iotpodcast/IOT252.mp3
@@ -294,7 +291,6 @@ https://d1pra95f92lrn3.cloudfront.net/audio_lesson/audiolesson_6146ceae7becd4656
 http://feedproxy.google.com/~r/PolygonMinimapDaily/~5/uBdaoc4EOMc/251293783-polygon-minimap-the-division-watch-dogs-the-crew-and-ubisofts-future.mp3
 http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/clean/dchhaddendum/dchh-addendum08-Caesar-at-Hastings.mp3
 https://media.blubrry.com/145610/cdn.twit.tv/video/twiet/twiet0376/twiet0376_h264m_1280x720_1872.mp4
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/wagners-ringen-ifoelge-kristian-leth-v.mp3
 http://feeds.shallweshow.com/~r/shallweshow/~5/x9SM83KMhZ8/00128-carne-y-arena-vr-virtual-reality-exhibition-podcast-review-shallweshow.mp3
 https://dts.podtrac.com/redirect.mp3/media.blubrry.com/codenewbie/content.blubrry.com/codenewbie/CN_S10E8_E227_Colt-Steele.mp3
 https://traffic.libsyn.com/secure/peoplebehindthescience/537_Kristen_Rasmussen_Final.mp3
@@ -308,7 +304,6 @@ https://traffic.libsyn.com/marketingprofs/MarketingSmarts-ep402-Mary-Pat-Donnell
 https://s3-eu-west-1.amazonaws.com/podcast.resoundbristol.co.uk/2016/Amelia+and+Val-+Passionate+for+Prayer-+20171022+podcast.mp3
 https://media.blubrry.com/thisweekindrugs/s3.amazonaws.com/thisweekindrugs.org/Hiatus_143.mp3
 https://tracking.feedpress.it/link/17788/13187573/13b86cb7-c1e7-454e-8452-4eeb1a91acb0.mp3
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/mennesker-og-medier-2020-01-24.mp3
 http://traffic.libsyn.com/dataskeptic/fooling-computer-vision.mp3
 https://anchor.fm/s/176d1e8/podcast/play/1999104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-28%2F7664460-48000-2-c889b05905f23.mp3
 https://www.allthingsgit.com/episodes/audio/allthingsgit-20-learning_a_new_codebase_with_patricia_aas.mp3
@@ -322,7 +317,6 @@ https://traffic.megaphone.fm/GLT5757682031.mp3
 https://podkast.nrk.no/fil/filmpolitiet/dec603c2-24c2-4b32-ac5b-26298be17783_0_ID192MP3.mp3
 https://media.blubrry.com/stilluntitledwithadamsavage/d2rormqr1qwzpz.cloudfront.net/podcast/stilluntitled_20200120.mp3
 http://traffic.libsyn.com/brakeingsecurity/2020-002-liz_fong-honeycomb-incident_response_blogpost.mp3
-https://mcdn.podbean.com/mf/web/z56uy7/0010_Tjekhov.mp3
 https://media.blubrry.com/security_now_video_lo/cdn.twit.tv/video/sn/sn0750/sn0750_h264b_640x368_256.mp4
 http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-124.mp3
 https://tracking.feedpress.it/link/17512/13061496/irl_s5_e07_privacy_profits_vfinal_nosurvey_tc.mp3
@@ -392,7 +386,6 @@ http://media.podcasts.ox.ac.uk/maths/oxford-maths/2019-12-02-maths-rovelli-720.m
 https://media.acast.com/akimbo/sportsmanship/media.mp3
 https://rss.art19.com/episodes/697c0a4f-3055-4b1d-adda-b4310de74242.mp3
 https://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/anxiety/anxiety011620_cms987240_pod.mp3
-https://www.dr.dk/mu/MediaRedirector/WithFileExtension/faking-news-40.mp3
 https://anchor.fm/s/bcc500/podcast/play/7861817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-30%2F31739536-44100-1-c38ec314d28d2.mp3
 http://feeds.soundcloud.com/stream/746455816-idlethumbs-three-moves-ahead-488-the-decade-in-retrospect.mp3
 https://chtbl.com/track/47E579/https://dts.podtrac.com/redirect.mp3/www.2hdp.fr/episodes/s1/2HDP-EP0-Les%20Petits%20Mouchoirs.mp3
