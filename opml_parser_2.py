@@ -27,7 +27,7 @@ def main(ifilename):
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0'}, timeout=15)
         except:
             print("failed: " + url)
-
+# imid, delete me
         rss_dict[name] = r.text
         tqdm.write('Downloaded ' + url + '\n')
     json_filename = file_name_wo_end + ".json"
