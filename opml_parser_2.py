@@ -1,6 +1,7 @@
 #!/home/dd/anaconda3/bin/python
 import re, requests, json, sys
 from more_itertools import unique_everseen
+from tqdm import tqdm
 
 
 def main(ifilename):
@@ -21,14 +22,14 @@ def main(ifilename):
 
 
     rss_dict = {}
-    for name, url in result:
+    for name, url in tqdm(result):
         try:
             r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0'}, timeout=15)
         except:
             print("failed: " + url)
 
         rss_dict[name] = r.text
-        print('Downloaded ' + url + '\n')
+        tqdm.write('Downloaded ' + url + '\n')
     json_filename = file_name_wo_end + ".json"
     with open(json_filename,'w') as outfile:
         json.dump(rss_dict, outfile)
