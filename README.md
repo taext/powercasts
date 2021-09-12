@@ -80,7 +80,7 @@ The VLC Player supports playback of URLs in a text-file. That means the file wit
 
 to playback the newest.txt episodes in random order (shuffle) and 
 
-        $ vlc --random https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt
+    $ vlc --random https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt
 
 to playback `podcasts_opml.txt` with all the episodes.
 
