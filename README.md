@@ -1,5 +1,7 @@
 
-# PowerCasts User Guide v0.2
+# PowerCasts User Guide v0.21
+
+What's New: add description of VLC support for URLs text-file playback
 
 <br>
 
@@ -69,7 +71,19 @@ Run `html_parser.py` with `urls.txt` and `output.htm` arguments:
 
     Wrote file newest.htm
 
+<br>
+
+### 2. Playing podcast episodes with VLC Player
+The VLC Player supports playback of URLs in a text-file. That means the file with newest episodes `newest.txt` and all episodes `podcast_opml.txt` can be played by running VLC with the URL to the file, e.g. the URL to the files in this repo (I recommend adding --random for shuffle playback)
+
+    $ vlc --random https://raw.githubusercontent.com/taext/powercasts/master/newest.txt
+
+to playback the newest.txt episodes in random order (shuffle) and 
+
+        $ vlc --random https://raw.githubusercontent.com/taext/powercasts/master/podcasts_opml.txt
+
+to playback `podcasts_opml.txt` with all the episodes.
 
 <br>
 
-                                            February 21st by d@v1d.dk
+                                            September 12th 2021 by d@v1d.dk
