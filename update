@@ -2,6 +2,6 @@
 
  python opml_parser_2.py podcasts_opml.xml > opml_parsing_result.txt
  ./parse_newest
- git add podcasts_opml.txt newest.txt
+ git add podcasts_opml.txt newest.txt podcasts_opml.txt
  git commit -m "auto updated"
  git push
