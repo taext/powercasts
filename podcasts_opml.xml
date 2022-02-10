@@ -2,8 +2,8 @@
 <opml version="1.0">
   <head>
     <title>PodcastAddict registration feeds</title>
-    <dateCreated>9 Jan 2022 18:05:42</dateCreated>
-    <dateModified>9 Jan 2022 18:05:42</dateModified>
+    <dateCreated>6 Feb 2022 17:57:33</dateCreated>
+    <dateModified>6 Feb 2022 17:57:33</dateModified>
   </head>
   <body>
     <outline text=".NET Rocks!" type="rss" xmlUrl="https://feeds.feedburner.com/netRocksFullMp3Downloads" htmlUrl="http://www.dotnetrocks.com" />
@@ -20,10 +20,9 @@
     <outline text="99% Invisible" type="rss" xmlUrl="https://feeds.simplecast.com/BqbsxVfO" htmlUrl="https://99percentinvisible.org" />
     <outline text="a16z Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/JGE3yC0V" htmlUrl="https://a16z.simplecast.com" />
     <outline text="a16z Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss" htmlUrl="https://a16z.simplecast.com" />
-    <outline text="Actuality" type="rss" xmlUrl="https://legacyfeeds.publicradio.org/marketplace/actuality-by-marketplace-and-quartz/rss.xml" htmlUrl="http://www.marketplace.org/topics/world/actuality-marketplace-and-quartz" />
     <outline text="Adrift with Geoff Lloyd and Annabel Port" type="rss" xmlUrl="https://feeds.acast.com/public/shows/c6d80f60-4ad1-4850-a231-628c674db178" htmlUrl="https://play.acast.com/s/adrift" />
     <outline text="Affaires sensibles" type="rss" xmlUrl="https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_13940.xml" htmlUrl="https://www.franceinter.fr/emissions/affaires-sensibles" />
-    <outline text="Akimbo: A Podcast from Seth Godin" type="rss" xmlUrl="http://rss.acast.com/akimbo" htmlUrl="www.akimbo.link" />
+    <outline text="Akimbo: A Podcast from Seth Godin" type="rss" xmlUrl="https://feeds.acast.com/public/shows/07058b20-e537-4225-9c56-3adf0e2a669a" htmlUrl="www.akimbo.link" />
     <outline text="Al Filo de la Realidad (Podcast)" type="rss" xmlUrl="https://feeds.feedburner.com/AlFiloDeLaRealidad" htmlUrl="https://www.ivoox.com/podcast-al-filo-realidad_sq_f13844_1.html" />
     <outline text="All About Android (Video)" type="rss" xmlUrl="https://feeds.twit.tv/aaa_video_hd.xml" htmlUrl="https://twit.tv/shows/all-about-android" />
     <outline text="All In The Mind" type="rss" xmlUrl="https://www.abc.net.au/radionational/feed/2888650/podcast.xml" htmlUrl="https://www.abc.net.au/radionational/programs/allinthemind/" />
@@ -43,8 +42,8 @@
     <outline text="Ask Noah Show" type="rss" xmlUrl="https://feeds.fireside.fm/asknoah/rss" htmlUrl="https://podcast.asknoahshow.com" />
     <outline text="Auf ein Bier von Gamespodcast.de" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:21436304/sounds.rss" htmlUrl="http://www.gamespodcast.de" />
     <outline text="Aufwachen!" type="rss" xmlUrl="https://aufwachen-podcast.de/feed/itunesarchiv/" htmlUrl="https://aufwachen-podcast.de" />
-    <outline text="Back to Work" type="rss" xmlUrl="http://feeds.5by5.tv/b2w" htmlUrl="http://5by5.tv/b2w" />
-    <outline text="Bagklog på P1" type="rss" xmlUrl="https://www.dr.dk/mu/feed/bagklog-pa-p1.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/bagklog-pa-p1" />
+    <outline text="Back to Work" type="rss" xmlUrl="https://feeds.fireside.fm/backtowork/rss" htmlUrl="https://www.backtowork.limo" />
+    <outline text="Bagklog" type="rss" xmlUrl="https://www.dr.dk/mu/feed/bagklog-pa-p1.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/bagklog-pa-p1" />
     <outline text="Banking Information Security Podcast" type="rss" xmlUrl="http://www.bankinfosecurity.com/itunes_rss_podcasts.php" htmlUrl="https://www.bankinfosecurity.com/interviews.php" />
     <outline text="Bannon's War Room" type="rss" xmlUrl="https://listen.warroom.org/feed.xml" htmlUrl="https://warroomimpeachment.podbean.com" />
     <outline text="Bericht aus Berlin (1280x720)" type="rss" xmlUrl="https://www.tagesschau.de/export/video-podcast/webxl/bab/" htmlUrl="https://www.tagesschau.de" />
@@ -57,7 +56,7 @@
     <outline text="Book Riot - The Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/73f21c02-2ff7-4f9e-8681-ab220127b535/ee240580-02de-42c0-ac16-ab220127b543/podcast.rss" htmlUrl="https://bookriot.com/listen/shows/thepodcast/" />
     <outline text="Borgen unplugged" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:154832827/sounds.rss" htmlUrl="http://borgenunplugged.dk" />
     <outline text="Brakeing Down Security Podcast" type="rss" xmlUrl="https://brakeingsecurity.libsyn.com/rss" htmlUrl="http://www.brakeingsecurity.com" />
-    <outline text="Breaking Math Podcast" type="rss" xmlUrl="https://anchor.fm/s/7a32d64/podcast/rss" htmlUrl="https://anchor.fm/breakingmathpodcast" />
+    <outline text="Breaking Math Podcast" type="rss" xmlUrl="https://anchor.fm/s/7a32d64/podcast/rss" htmlUrl="breakingmathpodcast.app" />
     <outline text="Bret Weinstein | DarkHorse Podcast" type="rss" xmlUrl="https://feeds.buzzsprout.com/424075.rss" htmlUrl="https://bretweinstein.net/" />
     <outline text="Bunga Bunga" type="rss" xmlUrl="https://rss.art19.com/bunga-bunga" htmlUrl="https://wondery.com/shows/Bunga-Bunga/" />
     <outline text="Business Wars" type="rss" xmlUrl="https://rss.art19.com/business-wars" htmlUrl="https://wondery.com/shows/Business-Wars/" />
@@ -92,7 +91,6 @@
     <outline text="Crazy/Genius" type="rss" xmlUrl="https://feeds.megaphone.fm/crazygenius" htmlUrl="https://www.theatlantic.com/podcasts/" />
     <outline text="CRE: Technik, Kultur, Gesellschaft" type="rss" xmlUrl="https://feeds.metaebene.me/cre/m4a" htmlUrl="https://cre.fm" />
     <outline text="Criminal" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP7924981569" htmlUrl="http://thisiscriminal.com/" />
-    <outline text="Crypto Talk by CryptoTicker" type="rss" xmlUrl="https://cryptotalk.libsyn.com/rss" htmlUrl="https://cryptoticker.io/" />
     <outline text="Crypto-Gram Security Podcast" type="rss" xmlUrl="https://crypto-gram.libsyn.com/rss" htmlUrl="http://crypto-gram.libsyn.com" />
     <outline text="Culture Kings" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ed398ce4-deb8-4096-8d27-ab090143a27e/0a5cc439-f4d7-47f9-8b88-ab090143a291/podcast.rss" htmlUrl="https://www.earwolf.com/show/culture-kings/" />
     <outline text="CyberWire Daily" type="rss" xmlUrl="https://feeds.megaphone.fm/cyberwire-daily-podcast" htmlUrl="https://thecyberwire.com/podcasts/daily-podcast" />
@@ -111,7 +109,6 @@
     <outline text="DeepMind: The Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/JT6pbPkg" htmlUrl="https://deepmind.com/podcast" />
     <outline text="Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec" type="rss" xmlUrl="https://defensivesecurity.org/feed/podcast/" htmlUrl="https://defensivesecurity.org" />
     <outline text="defn" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220484243/sounds.rss" htmlUrl="https://soundcloud.com/defn-771544745" />
-    <outline text="Den Korte CoronAvis" type="rss" xmlUrl="https://www.spreaker.com/show/4269133/episodes/feed" htmlUrl="https://www.spreaker.com/show/den-korte-coronavis" />
     <outline text="Den Korte Podcast" type="rss" xmlUrl="https://www.spreaker.com/show/5025652/episodes/feed" htmlUrl="https://www.spreaker.com/show/den-korte-podcast" />
     <outline text="Den Nordiske Odyssé" type="rss" xmlUrl="https://www.dr.dk/mu/feed/den-nordiske-odysse.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/special-radio/den-nordiske-odysse" />
     <outline text="Der Panzerknacker - DER Finanz Podcast von Markus Habermehl" type="rss" xmlUrl="https://panzerknacker.libsyn.com/rss" htmlUrl="https://panzerknacker-podcast.com/" />
@@ -122,11 +119,10 @@
     <outline text="Die Anstalt (VIDEO)" type="rss" xmlUrl="https://www.zdf.de/rss/podcast/video/zdf/comedy/die-anstalt" htmlUrl="https://www.zdf.de/rss/podcast/video/zdf/comedy/die-anstalt" />
     <outline text="DIE ZEIT: Hinter der Geschichte" type="rss" xmlUrl="https://freundederzeit.podigee.io/feed/mp3" htmlUrl="http://verlag.zeit.de/freunde/hinterdergeschichte/" />
     <outline text="Digital Forensic Survival Podcast" type="rss" xmlUrl="https://digitalforensicsurvivalpodcast.libsyn.com/rss" htmlUrl="http://digitalforensicsurvivalpodcast.libsyn.com/podcast" />
-    <outline text="Dillermand og urtekusse" type="rss" xmlUrl="https://www.dr.dk/mu/feed/dillermand-og-urtekusse.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/dillermand-og-urtekusse" />
     <outline text="Displaced" type="rss" xmlUrl="https://feeds.megaphone.fm/displaced" htmlUrl="https://rescue.org/displaced" />
     <outline text="Disruption" type="rss" xmlUrl="https://www.relay.fm/disruption/feed" htmlUrl="https://www.relay.fm/disruption" />
     <outline text="Distillations | Science History Institute" type="rss" xmlUrl="https://chemheritage.libsyn.com/rss" htmlUrl="https://www.sciencehistory.org/distillations/podcast" />
-    <outline text="DLC" type="rss" xmlUrl="http://feeds.5by5.tv/dlc" htmlUrl="http://5by5.tv/dlc" />
+    <outline text="DLC" type="rss" xmlUrl="https://feeds.fireside.fm/dlc/rss" htmlUrl="https://dlc.fireside.fm" />
     <outline text="Do By Friday" type="rss" xmlUrl="https://feeds.simplecast.com/5nKJV82u" htmlUrl="http://dobyfriday.com" />
     <outline text="Down the Security Rabbithole Podcast" type="rss" xmlUrl="http://podcast.wh1t3rabbit.net/rss" htmlUrl="https://blogwh1t3rabbit.medium.com" />
     <outline text="Download" type="rss" xmlUrl="https://www.relay.fm/download/feed" htmlUrl="https://www.relay.fm/download" />
@@ -145,8 +141,8 @@
     <outline text="Europæiske Ideer" type="rss" xmlUrl="https://europaeiskeideer.podbean.com/feed.xml" htmlUrl="https://www.information.dk/podcast/europa" />
     <outline text="Eventual Millionaire Podcast" type="rss" xmlUrl="https://eventualmillionaire.libsyn.com/rss" htmlUrl="https://eventualmillionaire.com" />
     <outline text="Everything is Alive" type="rss" xmlUrl="http://feeds.everythingisalive.com/everythingisalive" htmlUrl="http://www.everythingisalive.com/" />
-    <outline text="Faking News!" type="rss" xmlUrl="https://www.dr.dk/mu/feed/faking-news.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/faking-news" />
     <outline text="Fallo de sistema" type="rss" xmlUrl="http://api.rtve.es/api/programas/46690/audios.rss" htmlUrl="https://www.rtve.es/play/audios/fallo-de-sistema/" />
+    <outline text="Famous Adjacent (formerly Today We Learned)" type="rss" xmlUrl="https://todaywelearned.libsyn.com/rss" htmlUrl="http://todaywelearned.libsyn.com" />
     <outline text="Filmland" type="rss" xmlUrl="https://www.dr.dk/mu/feed/filmland.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/filmland" />
     <outline text="Filmpolitiet" type="rss" xmlUrl="https://podkast.nrk.no/program/filmpolitiet.rss" htmlUrl="https://radio.nrk.no/podkast/filmpolitiet" />
     <outline text="Filosofiska rummet" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/3963" htmlUrl="https://sverigesradio.se/filosofiskarummet" />
@@ -162,7 +158,7 @@
     <outline text="Function with Anil Dash" type="rss" xmlUrl="https://feeds.megaphone.fm/function" htmlUrl="https://glitch.com/culture/function/" />
     <outline text="Functional Design in Clojure" type="rss" xmlUrl="https://clojuredesign.club/index.xml" htmlUrl="https://clojuredesign.club/" />
     <outline text="Futuremakers" type="rss" xmlUrl="https://audioboom.com/channels/4973983.rss" htmlUrl="https://bit.ly/TheHistoryOfPandemics" />
-    <outline text="Gadget Lab: Weekly Tech News" type="rss" xmlUrl="https://feeds.megaphone.fm/gadget-lab" htmlUrl="https://www.wired.com/" />
+    <outline text="Gadget Lab: Weekly Tech News from WIRED" type="rss" xmlUrl="https://feeds.megaphone.fm/gadget-lab" htmlUrl="https://www.wired.com/" />
     <outline text="Game Over, el programa sobre videojuegos más veterano." type="rss" xmlUrl="https://feeds.feedburner.com/portalgameover" htmlUrl="https://www.portalgameover.com" />
     <outline text="Gamefully Unemployed" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:395741505/sounds.rss" htmlUrl="https://soundcloud.com/david-bell-38198445" />
     <outline text="GeekWeek | TechPodcast" type="rss" xmlUrl="https://geek-week.de/feed/podcast/" htmlUrl="https://geek-week.de" />
@@ -179,7 +175,6 @@
     <outline text="Hablando de Tecnología con Orlando Mergal | Podcast En Español | Puerto Rico | Discusión inteligente Una Vez Por Semana" type="rss" xmlUrl="http://www.hablandodetecnologia.com/feed/podcast/" htmlUrl="https://www.hablandodetecnologia.com" />
     <outline text="Hacker Daily" type="rss" xmlUrl="https://pinecast.com/feed/hacker-daily" htmlUrl="http://hackerdaily.co" />
     <outline text="Hacker Public Radio" type="rss" xmlUrl="http://hackerpublicradio.org/hpr_rss.php" htmlUrl="http://hackerpublicradio.org/about.php" />
-    <outline text="Half Hour Intern" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:240068718/sounds.rss" htmlUrl="http://www.halfhourintern.com" />
     <outline text="Hanselminutes with Scott Hanselman" type="rss" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl="https://www.hanselminutes.com" />
     <outline text="happy, holy &amp; confident® Dein Podcast fürs Herz und den Verstand" type="rss" xmlUrl="https://feed.podbean.com/lauraseiler/feed.xml" htmlUrl="https://lauraseiler.podbean.com" />
     <outline text="HBR IdeaCast" type="rss" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl="https://hbr.org/podcasts/ideacast" />
@@ -192,16 +187,15 @@
     <outline text="Hi-Phi Nation" type="rss" xmlUrl="https://feeds.megaphone.fm/hiphination" htmlUrl="http://www.hiphination.org" />
     <outline text="Hidden Brain" type="rss" xmlUrl="https://feeds.simplecast.com/kwWc0lhf" htmlUrl="https://hidden-brain.simplecast.com" />
     <outline text="Hidden Forces" type="rss" xmlUrl="https://hiddenforces.libsyn.com/rss" htmlUrl="https://www.hiddenforces.io" />
+    <outline text="Hidden Forces Premium" type="rss" xmlUrl="https://hiddenforces.supercast.com/feeds/TvJMA4pWQTw7aRHe5PyDZgPQ" htmlUrl="https://supercast.tech/" />
     <outline text="HistoCast" type="rss" xmlUrl="https://feeds.feedburner.com/histocast" htmlUrl="https://www.histocast.com" />
     <outline text="Historier fra virkeligheten" type="rss" xmlUrl="https://podkast.nrk.no/program/radiodokumentaren.rss" htmlUrl="https://radio.nrk.no/podkast/radiodokumentaren" />
-    <outline text="Home Theater Geeks (Video)" type="rss" xmlUrl="https://feeds.twit.tv/htg_video_hd.xml" htmlUrl="https://twit.tv/shows/home-theater-geeks" />
     <outline text="Hondelatte raconte - Christophe Hondelatte" type="rss" xmlUrl="https://www.europe1.fr/rss/podcasts/hondelatte-raconte.xml" htmlUrl="https://www.europe1.fr/emissions/hondelatte-raconte" />
     <outline text="Hörbar Rust" type="rss" xmlUrl="https://www.radioeins.de/rss.xml?beitrag_110178" htmlUrl="https://www.radioeins.de/archiv/podcast/hoerbar_rust.html" />
     <outline text="Hotboxin With Mike Tyson" type="rss" xmlUrl="https://feeds.megaphone.fm/hotboxin" htmlUrl="https://www.podcastone.com/Hotboxin-With-Mike-Tyson" />
     <outline text="How I Built This with Guy Raz" type="rss" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510313/how-i-built-this" />
     <outline text="How to Fix the Internet" type="rss" xmlUrl="https://feeds.eff.org/howtofixtheinternet" htmlUrl="https://www.eff.org/how-to-fix-the-internet-podcast" />
     <outline text="How to Lose Money" type="rss" xmlUrl="https://howtolosemoney.libsyn.com/rss" htmlUrl="http://www.howtolosemoney.com" />
-    <outline text="How to Start a Startup" type="rss" xmlUrl="https://awesound.com/@ycombinator/feed/how-to-start-a-startup" htmlUrl="https://awesound.com/ycombinator/podcast/how-to-start-a-startup" />
     <outline text="HowSound" type="rss" xmlUrl="http://feeds.prx.org/HowSound" htmlUrl="https://transom.org/topics/howsound/" />
     <outline text="Husarrest" type="rss" xmlUrl="https://rss.podplaystudio.com/710.xml" htmlUrl="" />
     <outline text="I Only Listen to the Mountain Goats" type="rss" xmlUrl="http://feeds.nightvalepresents.com/IOnlyListenToTheMountainGoats" htmlUrl="http://ionlylistentothemountaingoats.com/" />
@@ -225,7 +219,6 @@
     <outline text="Kampagnesporet (info)" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/c292b3ac-094e-4616-a956-a99800ed54e9/fec21408-6901-41c5-a176-aa550091499a/c3ca2c04-56a4-4cbb-bf44-ab0500b36b80/podcast.rss" htmlUrl="" />
     <outline text="Klassikere Genfortalt I" type="rss" xmlUrl="https://www.dr.dk/mu/feed/klassikere-genfortalt.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/special-radio/klassikere-genfortalt" />
     <outline text="Konflikt" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/3967" htmlUrl="https://sverigesradio.se/konflikt" />
-    <outline text="Kortsluttet" type="rss" xmlUrl="https://www.dr.dk/mu/feed/kortsluttet.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/kortsluttet" />
     <outline text="L'heure du crime" type="rss" xmlUrl="https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml" htmlUrl="https://www.rtl.fr/emission/l-heure-du-crime" />
     <outline text="La Poudre" type="rss" xmlUrl="https://anchor.fm/s/6a2cdc64/podcast/rss" htmlUrl="https://art19.com/shows/la-poudre" />
     <outline text="Lage der Nation - der Politik-Podcast aus Berlin" type="rss" xmlUrl="https://feeds.lagedernation.org/feeds/ldn-mp3.xml" htmlUrl="https://lagedernation.org" />
@@ -242,7 +235,6 @@
     <outline text="Linear Digressions" type="rss" xmlUrl="https://feeds.feedburner.com/udacity-linear-digressions?format=xml" htmlUrl="http://lineardigressions.com" />
     <outline text="Linux Action News" type="rss" xmlUrl="https://feeds.fireside.fm/linuxactionnews/rss" htmlUrl="https://linuxactionnews.com" />
     <outline text="Linux in the Ham Shack" type="rss" xmlUrl="https://lhspodcast.info/category/podcast-mp3/feed/" htmlUrl="https://lhspodcast.info/category/podcast-mp3/" />
-    <outline text="Liquidmatrix Security Digest Podcast" type="rss" xmlUrl="https://liquidmatrix.libsyn.com/rss" htmlUrl="http://liquidmatrix.libsyn.com" />
     <outline text="Literary Disco" type="rss" xmlUrl="https://feeds.feedburner.com/literarydisco" htmlUrl="https://www.literarydisco.com" />
     <outline text="Little Atoms" type="rss" xmlUrl="https://feeds.acast.com/public/shows/b5fe8d16-7518-4208-861b-e1ec5ce88192" htmlUrl="http://littleatoms.com/" />
     <outline text="Lobo – Der Debatten-Podcast" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/008f004b-055e-4e0c-9fd0-abc000ffb04a/3b93bc3f-52cb-4a3b-91ef-abc000ffb053/podcast.rss" htmlUrl="http://www.spiegel.de/thema/sascha_lobo_podcast/" />
@@ -263,7 +255,7 @@
     <outline text="Mere Rhetoric" type="rss" xmlUrl="https://mererhetoric.libsyn.com/rss" htmlUrl="http://mererhetoric.libsyn.com" />
     <outline text="Mixed Mental Arts" type="rss" xmlUrl="https://mixedmentalarts.libsyn.com/rss" htmlUrl="http://mixedmentalarts.online" />
     <outline text="Mobile Tech Podcast with tnkgrl Myriam Joire" type="rss" xmlUrl="https://feeds.simplecast.com/D6WO3ndr" htmlUrl="http://mobiletechpodcast.com" />
-    <outline text="Mobycast" type="rss" xmlUrl="https://api.timber.fm/feeds/mobycast" htmlUrl="https://mobycast.fm" />
+    <outline text="Mobycast" type="rss" xmlUrl="https://feeds.transistor.fm/mobycast" htmlUrl="https://mobycast.fm" />
     <outline text="Modern Finance" type="rss" xmlUrl="https://pcr.apple.com/id1338620184" htmlUrl="https://www.modern.finance" />
     <outline text="Moe Factz with Adam Curry" type="rss" xmlUrl="http://feed.nashownotes.com/mfrss.xml" htmlUrl="http://moefactz.com/" />
     <outline text="Mogul" type="rss" xmlUrl="https://feeds.megaphone.fm/mogul" htmlUrl="https://gimletmedia.com/mogul/" />
@@ -274,7 +266,6 @@
     <outline text="Moonshot" type="rss" xmlUrl="https://feeds.lawson.media/moonshot" htmlUrl="http://moonshot.audio/" />
     <outline text="More or Less: Behind the Stats" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrss1.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrss1" />
     <outline text="Most Useful Podcast Ever" type="rss" xmlUrl="https://feeds.megaphone.fm/mupe" htmlUrl="http://mostusefulpodcastever.slate.libsynpro.com/podcast" />
-    <outline text="Motley Fool Money" type="rss" xmlUrl="https://fool.libsyn.com/rss" htmlUrl="https://www.fool.com/podcasts/motley-fool-money" />
     <outline text="Moving at the Speed of Creativity Podcasts" type="rss" xmlUrl="https://feeds.feedburner.com/speedofcreativity/podcasts" htmlUrl="https://www.speedofcreativity.org" />
     <outline text="My Favorite Theorem" type="rss" xmlUrl="https://kpknudson.com/my-favorite-theorem?format=rss" htmlUrl="https://kpknudson.com/my-favorite-theorem/" />
     <outline text="Mysteries Abound" type="rss" xmlUrl="https://app.talkshoe.com/rss-mysteries-abound.xml" htmlUrl="https://talkshoe.com/show/mysteries-abound" />
@@ -286,7 +277,7 @@
     <outline text="New Books in History" type="rss" xmlUrl="https://feeds.megaphone.fm/LIT3360275696" htmlUrl="https://newbooksnetwork.com/category/politics-society/history/" />
     <outline text="New Books in Mathematics" type="rss" xmlUrl="https://feeds.megaphone.fm/LIT8989774512" htmlUrl="https://newbooksnetwork.com/category/science-technology/mathematics/" />
     <outline text="New Rustacean" type="rss" xmlUrl="https://newrustacean.com/feed.xml" htmlUrl="https://newrustacean.com" />
-    <outline text="News in Slow French (Intermediate)" type="rss" xmlUrl="https://nsf.libsyn.com/rss" htmlUrl="http://www.newsinslowfrench.com" />
+    <outline text="News in Slow French" type="rss" xmlUrl="https://nsf.libsyn.com/rss" htmlUrl="http://www.newsinslowfrench.com" />
     <outline text="News Roast" type="rss" xmlUrl="https://audioboom.com/channels/4901871.rss" htmlUrl="https://audioboom.com/channel/news-roast" />
     <outline text="Nintendo Power Podcast" type="rss" xmlUrl="http://podcast.nintendopower.com/feed.xml" htmlUrl="https://www.nintendo.com/" />
     <outline text="Nir And Far: Business, Behaviour and the Brain" type="rss" xmlUrl="https://anchor.fm/s/bcc500/podcast/rss" htmlUrl="https://anchor.fm/nirandfar" />
@@ -304,14 +295,12 @@
     <outline text="Off The Hook" type="rss" xmlUrl="https://www.2600.com/oth-broadband.xml" htmlUrl="https://www.2600.com/offthehook" />
     <outline text="Ohhh! TV Podcast" type="rss" xmlUrl="https://ohhhtv.com/feed/podcast/" htmlUrl="https://ohhhtv.com" />
     <outline text="Omnibus" type="rss" xmlUrl="https://feeds.fireside.fm/omnibus/rss" htmlUrl="https://www.omnibusproject.com" />
-    <outline text="Open For Business" type="rss" xmlUrl="http://feeds.megaphone.fm/penorusiness" htmlUrl="http://creative.gimletmedia.com/shows/open-for-business/" />
     <outline text="Open Source Security Podcast" type="rss" xmlUrl="https://opensourcesecuritypodcast.libsyn.com/rss" htmlUrl="http://opensourcesecuritypodcast.com" />
     <outline text="Orientering" type="rss" xmlUrl="https://www.dr.dk/mu/feed/orientering.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/orientering" />
     <outline text="Our Fake History" type="rss" xmlUrl="https://www.podcastone.com/podcast?categoryID2=2142" htmlUrl="https://www.podcastone.com/pd/Our-Fake-History" />
     <outline text="Over the Road" type="rss" xmlUrl="https://feed.overtheroad.fm/" htmlUrl="http://www.overtheroad.fm/" />
     <outline text="Overdue" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/e7707767-fd61-4887-b6ee-ad88014933e3/b9defaac-c62e-4810-bc36-ad88014933fb/podcast.rss" htmlUrl="https://headgum.com/overdue" />
     <outline text="P1 Debat" type="rss" xmlUrl="https://www.dr.dk/mu/feed/p1-debat.xml?format=podcast&amp;limit=500" htmlUrl="https://www.dr.dk/radio/p1/p1-debat" />
-    <outline text="P1 Dokumentar" type="rss" xmlUrl="https://www.dr.dk/mu/feed/p1-dokumentar.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/p1-dokumentar" />
     <outline text="P1 Dokumentär" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/4013" htmlUrl="https://sverigesradio.se/p1dokumentar" />
     <outline text="P1 Morgen" type="rss" xmlUrl="https://www.dr.dk/mu/feed/p1-morgen.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/p1-morgen" />
     <outline text="P3 Dokumentär" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/3966" htmlUrl="https://sverigesradio.se/p3dokumentar" />
@@ -322,10 +311,9 @@
     <outline text="Passive Real Estate Investing via Simple Passive Cashflow" type="rss" xmlUrl="https://feeds.acast.com/public/shows/596ee8b36b3475a168b0d8f5" htmlUrl="http://www.simplepassivecashflow.com" />
     <outline text="Patterson in Pursuit" type="rss" xmlUrl="https://pattersoninpursuit.libsyn.com/rss" htmlUrl="http://steve-patterson.com/podcast" />
     <outline text="Pengeland" type="rss" xmlUrl="https://www.spreaker.com/show/1304456/episodes/feed" htmlUrl="https://www.spreaker.com/show/pengeland" />
-    <outline text="Pengesnakk" type="rss" xmlUrl="https://admin.podkast.no/api/rss/pengesnakk" htmlUrl="https://www.podkast.no/lkemifnl2m3980dmdm19h/#/podcasts/profile/Pengesnakk" />
+    <outline text="Pengesnakk" type="rss" xmlUrl="https://admin.podkast.no/api/rss/pengesnakk" htmlUrl="https://www.podkast.no/lkemifnl2m3980dmdm19h/#/podcasts/profile/108" />
     <outline text="Pentacast" type="rss" xmlUrl="https://www.c3d2.de/pentacast.xml" htmlUrl="https://www.c3d2.de/podcast.html" />
     <outline text="Pentaradio" type="rss" xmlUrl="https://www.c3d2.de/pentaradio.xml" htmlUrl="https://www.c3d2.de/radio.html" />
-    <outline text="People | Process | Technology Podcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:63303345/sounds.rss" htmlUrl="https://jupiterone.com/blog/people-process-technology-the-missing-factor/" />
     <outline text="People Behind the Science Podcast - Stories from Scientists about Science, Life, Research, and Science Careers" type="rss" xmlUrl="https://peoplebehindthescience.libsyn.com/rss" htmlUrl="http://peoplebehindthescience.com/" />
     <outline text="Perpetual Traffic" type="rss" xmlUrl="https://digitalmarketer.libsyn.com/rss" htmlUrl="https://www.digitalmarketer.com/" />
     <outline text="Philosophize This!" type="rss" xmlUrl="https://philosophizethis.libsyn.com/rss" htmlUrl="http://www.philosophizethis.org" />
@@ -341,7 +329,6 @@
     <outline text="Point of Inquiry" type="rss" xmlUrl="https://pointofinquiry.libsyn.com/rss" htmlUrl="http://www.pointofinquiry.org" />
     <outline text="Politics Politics Politics" type="rss" xmlUrl="https://feeds.fireside.fm/politicspoliticspolitics/rss" htmlUrl="https://politicspoliticspolitics.fireside.fm" />
     <outline text="Pretend - a true crime documentary podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/ADV1293150108" htmlUrl="http://www.pretendradio.org" />
-    <outline text="Product People" type="rss" xmlUrl="https://feeds.transistor.fm/product-people" htmlUrl="http://productpeople.tv" />
     <outline text="Product Startup" type="rss" xmlUrl="https://feeds.podcastmirror.com/product-startup" htmlUrl="https://www.makodesign.com/podcast/" />
     <outline text="Programming Electronics Academy Podcast" type="rss" xmlUrl="https://programmingelectronics.libsyn.com/rss" htmlUrl="http://programmingelectronics.libsyn.com/podcast" />
     <outline text="Programming Throwdown" type="rss" xmlUrl="https://feeds.transistor.fm/programming-throwdown" htmlUrl="https://programmingthrowdown.com/" />
@@ -353,7 +340,6 @@
     <outline text="RABBITS" type="rss" xmlUrl="https://rabbits.libsyn.com/rss" htmlUrl="http://rabbitspodcast.com" />
     <outline text="Radio Ambulante" type="rss" xmlUrl="https://feeds.npr.org/510315/podcast.xml" htmlUrl="http://radioambulante.org/" />
     <outline text="Radio Information" type="rss" xmlUrl="https://radioinformation.podbean.com/feed.xml" htmlUrl="https://www.information.dk/podcast/radio-information" />
-    <outline text="Radiofortællinger" type="rss" xmlUrl="https://www.dr.dk/mu/feed/radiofortaellinger.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/radiofortaellinger" />
     <outline text="Radioklassikeren" type="rss" xmlUrl="https://www.dr.dk/mu/feed/radioklassikeren.xml?format=podcast&amp;limit=100" htmlUrl="http://www.dr.dk/P1/Radioklassikeren/20050818101906.htm" />
     <outline text="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts" />
     <outline text="Radioresepsjonen" type="rss" xmlUrl="https://podkast.nrk.no/program/radioresepsjonen.rss" htmlUrl="https://radio.nrk.no/podkast/radioresepsjonen" />
@@ -362,6 +348,8 @@
     <outline text="Reading Glasses" type="rss" xmlUrl="https://feeds.simplecast.com/SMcNunjG" htmlUrl="http://www.maximumfun.org/shows/reading-glasses" />
     <outline text="Recappables: Westworld" type="rss" xmlUrl="https://feeds.megaphone.fm/recappables" htmlUrl="https://art19.com/shows/recappables-true-detective" />
     <outline text="Red Scare" type="rss" xmlUrl="https://redscarepodcast.libsyn.com/rss" htmlUrl="https://redscarepodcast.libsyn.com/" />
+    <outline text="Red Scare" type="rss" xmlUrl="https://www.patreon.com/rss/RedScare?auth=_oJCTYjC-DU3qBy1N8sbhyF7289ix2c8" htmlUrl="https://www.patreon.com/RedScare" />
+    <outline text="Red Scare" type="rss" xmlUrl="https://www.patreon.com/rss/redscare?auth=cwqgyxwlwo5_7lvizdzrvde7aigqfbpp&amp;usg=AOvVaw1XLWA_9gbUIHC86VDdHs2k" htmlUrl="https://www.patreon.com/redscare" />
     <outline text="Relatively Prime: Stories from the Mathematical Domain" type="rss" xmlUrl="https://feeds.feedburner.com/relprime" htmlUrl="http://relprime.com" />
     <outline text="Rendez-vous avec X" type="rss" xmlUrl="https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14726.xml" htmlUrl="https://www.franceinter.fr/emissions/rendez-vous-avec-x" />
     <outline text="Reply All" type="rss" xmlUrl="https://feeds.megaphone.fm/replyall" htmlUrl="http://gimletmedia.com/shows/reply-all" />
@@ -392,7 +380,7 @@
     <outline text="Simon Mayo's Books Of The Year" type="rss" xmlUrl="https://feeds.acast.com/public/shows/31196ed5-9da1-4795-8a2d-7644ab4f4ed7" htmlUrl="https://twitter.com/booksoftheyear" />
     <outline text="Sincerely, X" type="rss" xmlUrl="https://feeds.feedburner.com/SincerelyX" htmlUrl="https://www.ted.com/read/ted-podcasts/sincerely-x" />
     <outline text="SinnSyn" type="rss" xmlUrl="https://feeds.acast.com/public/shows/5b9e7ed2f1badce55455ddad" htmlUrl="https://www.webpsykologen.no/" />
-    <outline text="Skønlitteratur på P1" type="rss" xmlUrl="https://www.dr.dk/mu/feed/skoenlitteratur-pa-p1.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/skoenlitteratur-pa-p1" />
+    <outline text="Skønlitteratur" type="rss" xmlUrl="https://www.dr.dk/mu/feed/skoenlitteratur-pa-p1.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p1/skoenlitteratur-pa-p1" />
     <outline text="Slavoj Žižek - Collected Recordings" type="rss" xmlUrl="http://zizekpodcast.com/category/zizek/feed/" htmlUrl="http://zizekpodcast.com/category/zizek/" />
     <outline text="Snap Judgment" type="rss" xmlUrl="https://snap.feed.snapjudgment.org" htmlUrl="http://snapjudgment.org/" />
     <outline text="Software Engineering Radio - the podcast for professional software developers" type="rss" xmlUrl="https://seradio.libsyn.com/rss" htmlUrl="https://www.se-radio.net" />
@@ -402,6 +390,7 @@
     <outline text="Spirits" type="rss" xmlUrl="https://spiritspodcast.libsyn.com/rss" htmlUrl="https://www.spiritspodcast.com/" />
     <outline text="Språket" type="rss" xmlUrl="https://api.sr.se/api/rss/pod/itunes/4012" htmlUrl="https://sverigesradio.se/spraket" />
     <outline text="Språksnakk" type="rss" xmlUrl="https://podkast.nrk.no/program/spraakteigen.rss" htmlUrl="https://radio.nrk.no/podkast/spraakteigen" />
+    <outline text="SPURGT!" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/e47bda37-ee8c-4962-8b49-ae210080241f/c51840c5-36b8-4029-960a-ae210080a544/podcast.rss" htmlUrl="https://www.radio4.dk/program/spurgt/" />
     <outline text="Stafetten med Clement" type="rss" xmlUrl="https://www.dr.dk/mu/feed/clement-pa-p1-p1d.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/clement-pa-p1-p1d" />
     <outline text="Stay Tuned with Preet" type="rss" xmlUrl="https://feeds.megaphone.fm/VMP5489734702" htmlUrl="http://cafe.com/" />
     <outline text="STEAL THIS SHOW" type="rss" xmlUrl="https://audioboom.com/channels/4983408.rss" htmlUrl="https://stealthisshow.com" />
@@ -421,7 +410,7 @@
     <outline text="Talk Chineasy - Learn Chinese every day with ShaoLan" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:260574053/sounds.rss" htmlUrl="https://www.chineasy.com/talk/" />
     <outline text="Talk Nerdy with Cara Santa Maria" type="rss" xmlUrl="https://www.spreaker.com/show/4530061/episodes/feed" htmlUrl="https://www.spreaker.com/show/talk-nerdy-with-cara-santa-maria" />
     <outline text="Talk Python To Me" type="rss" xmlUrl="https://talkpython.fm/episodes/rss" htmlUrl="https://talkpython.fm/" />
-    <outline text="Talking Biotech Podcast" type="rss" xmlUrl="http://www.talkingbiotechpodcast.com/feed/" htmlUrl="http://www.talkingbiotechpodcast.com" />
+    <outline text="Talking Biotech with Dr. Kevin Folta" type="rss" xmlUrl="https://feeds.transistor.fm/talking-biotech" htmlUrl="https://www.colabra.app/podcasts/talking-biotech/" />
     <outline text="Teaching Python" type="rss" xmlUrl="https://feeds.fireside.fm/teachingpython/rss" htmlUrl="https://www.teachingpython.fm" />
     <outline text="Team Human" type="rss" xmlUrl="https://access.acast.com/rss/58ad887a1608b1752663b04a" htmlUrl="http://teamhuman.fm/feed/episodes" />
     <outline text="Tech Policy Podcast" type="rss" xmlUrl="http://podcast.techfreedom.org/feed.xml" htmlUrl="https://techfreedom.podbean.com" />
@@ -431,7 +420,7 @@
     <outline text="TechTopia" type="rss" xmlUrl="https://tv.ida.dk/audiopodcast?album%5fid=16944635" htmlUrl="https://tv.ida.dk" />
     <outline text="TED Business" type="rss" xmlUrl="https://feeds.feedburner.com/iTunesPodcastTTBusiness" htmlUrl="http://www.ted.com/podcasts" />
     <outline text="TED Radio Hour" type="rss" xmlUrl="https://feeds.npr.org/510298/podcast.xml" htmlUrl="https://www.npr.org/programs/ted-radio-hour/" />
-    <outline text="Teknikveckan" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6ec1ff9b-7486-411a-8d0d-edb10d125ec3" htmlUrl="teknikveckan.se" />
+    <outline text="Teknikveckan med Macradion" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6ec1ff9b-7486-411a-8d0d-edb10d125ec3" htmlUrl="https://teknikveckan.se" />
     <outline text="Teknologimagasinet Aftenposten" type="rss" xmlUrl="https://podcast.stream.schibsted.media/ap/100186?podcast" htmlUrl="https://www.aftenposten.no/digital" />
     <outline text="Test &amp; Code in Python" type="rss" xmlUrl="https://feeds.fireside.fm/testandcode/rss" htmlUrl="https://testandcode.com" />
     <outline text="The All Turtles Podcast" type="rss" xmlUrl="https://allturtles.libsyn.com/rss" htmlUrl="https://www.all-turtles.com/podcast/" />
@@ -440,13 +429,13 @@
     <outline text="The Art of Manliness" type="rss" xmlUrl="https://feeds.simplecast.com/azy33G8_" htmlUrl="https://the-art-of-manliness.simplecast.com" />
     <outline text="The Art of Online Business" type="rss" xmlUrl="https://feeds.buzzsprout.com/1866710.rss" htmlUrl="https://rickmulready.com/category/aoptpodcast/" />
     <outline text="The Audio Long Read" type="rss" xmlUrl="https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml" htmlUrl="https://www.theguardian.com/news/series/the-audio-long-read" />
+    <outline text="The Big Rhetorical Podcast" type="rss" xmlUrl="https://anchor.fm/s/d4f5d28/podcast/rss" htmlUrl="https://www.thebigrhetoricalpodcast.weebly.com" />
     <outline text="The Blacklist Exposed" type="rss" xmlUrl="https://theblacklist.libsyn.com/rss" htmlUrl="http://www.goldenspiralmedia.com/the-blacklist-exposed-podcast" />
     <outline text="The Book Review" type="rss" xmlUrl="https://feeds.simplecast.com/MssIhx9y" htmlUrl="https://the-book-review.simplecast.com" />
     <outline text="The Bugle" type="rss" xmlUrl="https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607" htmlUrl="http://thebuglepodcast.com/" />
     <outline text="The Business" type="rss" xmlUrl="https://www.kcrw.com/culture/shows/the-business/rss.xml" htmlUrl="https://www.kcrw.com/culture/shows/the-business?utm_source=KCRW&amp;utm_medium=RSS&amp;utm_campaign=kcrw-show-rss" />
     <outline text="The Changelog: Software Development, Open Source" type="rss" xmlUrl="https://changelog.com/podcast/feed" htmlUrl="https://changelog.com/podcast" />
     <outline text="The Civil Engineering Podcast" type="rss" xmlUrl="https://engineeringmanagementinstitute.org/category/cep-podcast/feed/" htmlUrl="https://engineeringmanagementinstitute.org/cep-podcast/" />
-    <outline text="The Connected Engineer" type="rss" xmlUrl="https://feeds.buzzsprout.com/79130.rss" htmlUrl="https://www.ptc.com/en/digital-transformation/digital-engineering/connected-engineer-podcast/" />
     <outline text="The Cult of Pedagogy Podcast" type="rss" xmlUrl="https://cultofpedagogy.libsyn.com/rss" htmlUrl="http://www.cultofpedagogy.com/pod" />
     <outline text="The Daily" type="rss" xmlUrl="https://feeds.simplecast.com/54nAGcIl" htmlUrl="https://www.nytimes.com/the-daily" />
     <outline text="The Digital Human" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b01n7094.rss" htmlUrl="http://www.bbc.co.uk/programmes/b01n7094" />
@@ -477,18 +466,16 @@
     <outline text="The Kåss Furuseths" type="rss" xmlUrl="https://podkast.nrk.no/program/the_kaass_furuseths.rss" htmlUrl="https://radio.nrk.no/podkast/the_kaass_furuseths" />
     <outline text="The Kevin Rose Show" type="rss" xmlUrl="https://feeds.simplecast.com/xZuZL16q" htmlUrl="https://podcast.kevinrose.com" />
     <outline text="The Knowledge Project with Shane Parrish" type="rss" xmlUrl="https://theknowledgeproject.libsyn.com/rss" htmlUrl="https://fs.blog/knowledge-project/" />
-    <outline text="The Law of Startups" type="rss" xmlUrl="http://www.thelawofstartups.com/podcast?format=rss" htmlUrl="http://www.thelawofstartups.com/" />
     <outline text="The Lawfare Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c" htmlUrl="http://www.lawfareblog.com" />
     <outline text="The Lazy Genius Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/65728665-4cff-429d-b336-1e34548b49c0" htmlUrl="http://www.thelazygeniuscollective.com/lazy" />
     <outline text="The Let's Talk Bitcoin Network" type="rss" xmlUrl="https://feeds.feedburner.com/TheDailyBitcoinShow" htmlUrl="" />
     <outline text="The LRB Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1" htmlUrl="https://www.lrb.co.uk/" />
-    <outline text="The Martial Arts Business Podcast" type="rss" xmlUrl="https://martialartsbusinessdaily.com/feed/podcast/" htmlUrl="https://www.martialartsbusinessdaily.com/blog/" />
     <outline text="The Moth" type="rss" xmlUrl="https://feeds.feedburner.com/themothpodcast" htmlUrl="http://themoth.org/" />
     <outline text="The Next Picture Show" type="rss" xmlUrl="https://feeds.megaphone.fm/nps" htmlUrl="https://nextpictureshow.net" />
     <outline text="The Numberphile Podcast" type="rss" xmlUrl="https://www.numberphile.com/podcast?format=rss" htmlUrl="https://www.numberphile.com/podcast/" />
+    <outline text="The OWASP Podcast Series" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:63303345/sounds.rss" htmlUrl="https://jupiterone.com/blog/people-process-technology-the-missing-factor/" />
     <outline text="The Penguin Podcast" type="rss" xmlUrl="https://feeds.acast.com/public/shows/d2a69c65-3300-4484-abcb-ea3e7d712478" htmlUrl="https://www.penguin.co.uk/" />
     <outline text="The Phileas Club" type="rss" xmlUrl="https://feeds.acast.com/public/shows/8ca878a6-58f8-4ad1-b61f-c144d8c04486" htmlUrl="http://www.thephileasclub.com" />
-    <outline text="The Pitch" type="rss" xmlUrl="https://feeds.megaphone.fm/thepitch" htmlUrl="https://gimletmedia.com/shows/the-pitch" />
     <outline text="The Portal" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/1713c520-edb6-43a3-b1b9-acb8002fdae7/58e33a0c-f86b-41c5-a11c-acb8002fdaf5/podcast.rss" htmlUrl="https://art19.com/shows/the-portal" />
     <outline text="The PowerShell News Podcast" type="rss" xmlUrl="https://powershellnews.podbean.com/feed.xml" htmlUrl="https://powershellnews.podbean.com" />
     <outline text="The Privacy, Security, &amp; OSINT Show" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" htmlUrl="https://soundcloud.com/user-98066669" />
@@ -496,6 +483,7 @@
     <outline text="The Q&amp;A with Jeff Goldsmith" type="rss" xmlUrl="https://feeds.feedburner.com/TheQaWithJeffGoldsmith" htmlUrl="http://www.theqandapodcast.com/" />
     <outline text="The Random Show Podcast" type="rss" xmlUrl="http://www.squealingrat.org/random/feed/" htmlUrl="http://www.squealingrat.org/random" />
     <outline text="The Real Python Podcast" type="rss" xmlUrl="https://realpython.com/podcasts/rpp/feed" htmlUrl="https://realpython.com/podcasts/rpp/" />
+    <outline text="The Realignment" type="rss" xmlUrl="https://feeds.simplecast.com/BaFYCGSi" htmlUrl="https://the-realignment.simplecast.com" />
     <outline text="The Rewatchables" type="rss" xmlUrl="https://feeds.megaphone.fm/the-rewatchables" htmlUrl="https://www.theringer.com" />
     <outline text="The Secrets of Mathematics" type="rss" xmlUrl="http://mediapub.it.ox.ac.uk/feeds/134618/video.xml" htmlUrl="http://www.maths.ox.ac.uk/about-us/alumni" />
     <outline text="The Shared Security Show" type="rss" xmlUrl="https://sharedsecurity.net/feed/podcast/" htmlUrl="https://sharedsecurity.net" />
@@ -524,12 +512,9 @@
     <outline text="This Week in Startups - Video" type="rss" xmlUrl="http://feeds2.feedburner.com/twistvid" htmlUrl="https://thisweekinstartups.com" />
     <outline text="This Week in Tech (Video)" type="rss" xmlUrl="https://feeds.twit.tv/twit_video_hd.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech" />
     <outline text="Three Moves Ahead" type="rss" xmlUrl="http://www.idlethumbs.net/feeds/3ma" htmlUrl="http://www.idlethumbs.net/3ma" />
-    <outline text="Today We Learned / Mass Hysteria" type="rss" xmlUrl="https://todaywelearned.libsyn.com/rss" htmlUrl="http://todaywelearned.libsyn.com" />
     <outline text="Topical" type="rss" xmlUrl="https://podcasts.jellystyle.com/topical/rss" htmlUrl="http://topical.fm/" />
     <outline text="Trailblazers with Walter Isaacson" type="rss" xmlUrl="https://feeds.podcasts.dell.com/trailblazers" htmlUrl="https://www.delltechnologies.com/trailblazers" />
     <outline text="Transfert" type="rss" xmlUrl="http://feeds.megaphone.fm/transfert" htmlUrl="http://www.slate.fr/podcasts/" />
-    <outline text="Trash Talk" type="rss" xmlUrl="https://feeds.buzzsprout.com/1747003.rss" htmlUrl="http://soundcloud.com/user-5227001" />
-    <outline text="Tribe of Mentors" type="rss" xmlUrl="https://anchor.fm/s/1cf287b4/podcast/rss" htmlUrl="tim.blog/podcat" />
     <outline text="Troldspejlet - podcast" type="rss" xmlUrl="https://www.dr.dk/mu/feed/troldspejlet-podcast.xml?format=podcast" htmlUrl="https://www.dr.dk/radio/p1/troldspejlet-podcast" />
     <outline text="Twenty Thousand Hertz" type="rss" xmlUrl="http://feeds.megaphone.fm/20k" htmlUrl="http://www.20k.org" />
     <outline text="Two White Chicks in China: Live in China | Learn Chinese | Make Money in Asia | Shenzhen" type="rss" xmlUrl="https://www.writtenchinese.com/feed/podcast" htmlUrl="https://www.writtenchinese.com/blog/" />
@@ -546,7 +531,6 @@
     <outline text="Vince in the Bay Podcast" type="rss" xmlUrl="http://thesplashpage.com/VITB_podcast1.xml" htmlUrl="http://www.vinceinthebay.com" />
     <outline text="Vox Conversations" type="rss" xmlUrl="https://feeds.megaphone.fm/theezrakleinshow" htmlUrl="https://www.vox.com/vox-conversations-podcast" />
     <outline text="wach &amp; wichtig" type="rss" xmlUrl="https://www.radioeins.de/archiv/podcast/wachundwichtig.xml/feed=podcast.xml" htmlUrl="https://www.radioeins.de/archiv/podcast/wachundwichtig.html" />
-    <outline text="Wagners Ringen ifølge Kristian Leth" type="rss" xmlUrl="https://www.dr.dk/mu/feed/wagners-ringen-ifoelge-kristian-leth.xml?format=podcast&amp;limit=100" htmlUrl="https://www.dr.dk/radio/p2/wagners-ringen-ifoelge-kristian-leth" />
     <outline text="Waveform: The MKBHD Podcast" type="rss" xmlUrl="https://feeds.megaphone.fm/STU4418364045" htmlUrl="https://www.youtube.com/c/Waveform" />
     <outline text="We Are Influencers" type="rss" xmlUrl="https://feeds.acast.com/public/shows/1c5dde9c-8aeb-470b-864c-5f4805e720a0" htmlUrl="http://weareinfluencers.se" />
     <outline text="We Have Concerns" type="rss" xmlUrl="https://feeds.simplecast.com/2V4dK4EE" htmlUrl="http://wehaveconcerns.com" />
@@ -555,7 +539,6 @@
     <outline text="What's Tech?" type="rss" xmlUrl="https://feeds.megaphone.fm/whats-tech" htmlUrl="https://www.theverge.com/whatstech" />
     <outline text="Who Are These Podcasts?" type="rss" xmlUrl="https://watps.libsyn.com/rss" htmlUrl="http://www.whoarethese.com/" />
     <outline text="Why'd You Push That Button?" type="rss" xmlUrl="https://feeds.megaphone.fm/wyptb" htmlUrl="https://www.theverge.com/whyd-you-push-that-button" />
-    <outline text="WILD WILD WEB" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/f78c3acb-1b32-4cc2-8b65-ad480162f7eb/3445e9fb-5909-47d0-93d6-ad480162f7f4/podcast.rss" htmlUrl="https://www.radio4.dk/program/wild-wild-web/" />
     <outline text="Windows Central Podcast" type="rss" xmlUrl="https://windowscentral.libsyn.com/rss" htmlUrl="http://www.windowscentral.com" />
     <outline text="Windows Weekly (Video)" type="rss" xmlUrl="https://feeds.twit.tv/ww_video_hd.xml" htmlUrl="https://twit.tv/shows/windows-weekly" />
     <outline text="Women in Math: The Limit Does Not Exist" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:265080741/sounds.rss" htmlUrl="https://soundcloud.com/damien-adams-662584563" />
