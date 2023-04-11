@@ -144,7 +144,7 @@ https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/7E7E1F/traffi
 https://www.portalgameover.com/programas/go771.mp3
 https://feeds.soundcloud.com/stream/1488834577-david-bell-38198445-we-just-watched-the-super-mario-bros-movie-with-adam-ganser.mp3
 https://feeds.soundcloud.com/stream/1488834577-david-bell-38198445-we-just-watched-the-super-mario-bros-movie-with-adam-ganser.mp3
-https://api.dr.dk/podcasts/v1/assets/urn:dr:radio:episode:63a04079d674a2f103e0025f/7125c519acb403ca41a642994c6d9968b79b1d5df1443c7bf0556696e61874f8.mp3
+https://api.dr.dk/podcasts/v1/assets/urn:dr:radio:episode:63a04079d674a2f103e0025f/ff0b0fdbf8bf8caeeeef3d86ed465f11056b2ef170879a83fac7fd3ee311d913.mp3
 https://traffic.libsyn.com/secure/gettingthingsdone/Episode_202_5_GTD_App_Design_Principles.mp3
 https://sphinx.acast.com/p/acast/s/ghibliotheque/e/63a5cae55cd8cf001054c748/media.mp3
 https://pds.cdnstream1.com/p/kast/giant-bombcast/giant-bombcast-783-jesus-ffdbb9/audio.mp3
@@ -367,7 +367,7 @@ http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1489637668-s
 https://api.dr.dk/podcasts/v1/assets/urn:dr:radio:episode:6413a23f964cacfee5255657/32ffa9d48e85e128ddbd6dd9a67be34b492149db6d068e337aded03667bef809.mp3
 https://dts.podtrac.com/redirect.mp3/chrt.fm/track/8DB4DB/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/06153197-a9a7-48c4-9a15-b9c3af49cf21/audio/128/default.mp3
 https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/01a10738-3608-4dec-883c-ae3c00026b36/0b872b2b-a491-4a82-af4d-afd20103e565/audio.mp3
-https://media.tagesschau.de/video/2023/0411/TV-20230411-2017-3501.webxl.h264.mp4
+https://media.tagesschau.de/video/2023/0411/TV-20230411-2022-5100.webxl.h264.mp4
 http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/1488789871-talk-chineasy-100-teacher-in-chinese-with-shaolan-and-lucid-dreaming-teacher-charlie-morley-6.mp3
 https://dts.podtrac.com/redirect.mp3/pdcn.co/e/api.spreaker.com/download/episode/53487319/episode_449_alexandra_horowitz.mp3
 https://talkpython.fm/episodes/download/410/the-intersection-of-tabular-data-and-generative-ai.mp3
