@@ -9,7 +9,7 @@ all_urls_3 = []
 non_matches = []
 
 for content in rss_dict.values():
-    m = re.findall('\"(http\S+?\.(?:mp3|mp4))[\"\?]', content, re.IGNORECASE)
+    m = re.findall(r'\"(http\S+?\.(?:mp3|mp4))[\"\?]', content, re.IGNORECASE)
     if m:
         for item in m:
             all_urls_3.append(item)
