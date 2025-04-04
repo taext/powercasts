@@ -1,8 +1,3 @@
 #!/usr/bin/env bash
 
- python opml_parser_3.py PodcastAddict_OPML_export_20250404_220434.opml > opml_parsing_result.txt
- cp PodcastAddict_OPML_export_20250404_220434.opml podcasts_opml.json
- ./parse_newest
- git add podcasts_opml.txt newest.txt podcasts_opml.txt
- git commit -m "auto updated"
- git push
+ python opml_parser_3.py PodcastAddict_OPML_export_20250404_220434.opml > opml_parsing_result.txt && ./parse_newest && git add podcasts_opml.txt newest.txt podcasts_opml.txt && git commit -m "auto updated" && git push
