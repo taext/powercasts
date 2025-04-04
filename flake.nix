@@ -17,7 +17,7 @@
 
         pythonPackages = python.withPackages (ps: with ps; [
           requests
-          more_itertools
+          more-itertools
           tqdm
           # Add more as needed
         ]);
