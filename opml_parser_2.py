@@ -17,8 +17,11 @@ def main(ifilename):
 
     result = []
     for i in range(len(m4)):
-        print(m4[i], m3[i])
-        result.append((m4[i], m3[i]))
+        try:
+            print(m4[i], m3[i])
+            result.append((m4[i], m3[i]))
+        except:
+            print(f"failed to show an item {m4[i]}")
 
 
     rss_dict = {}
