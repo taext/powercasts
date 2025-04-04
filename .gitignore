@@ -5,3 +5,5 @@ stdout.txt
 dev/*
 qrcode.png
 old/output*.txt
+.opml_parser_2.py.kate-swp
+opml_parsing_result.txt
