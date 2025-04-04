@@ -1,601 +1,658 @@
-《The Real Story》By 報導者 https://feeds.feedburner.com/netRocksFullMp3Downloads
-/Film Daily https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml
-#EdChat Radio https://daily.slashfilm.com/feed.xml
-#GeekTalk Podcast - News https://www.bamradionetwork.com/feeds/Edchat.xml
-#python https://geektalk.ch/category/podcast/news-podcast/feed/
-#security #python
-2 Heures De Perdues #security
-50 Things That Made the Modern Economy http://www.2hdp.fr/2HDP.xml
-7-Figure Small with Brian Clark https://podcasts.files.bbci.co.uk/p04b1g3c.rss
-8 Bit Book Club https://www.spreaker.com/show/3469652/episodes/feed
-99% Invisible https://www.omnycontent.com/d/playlist/9cedf38b-6ec7-4ba2-a1c6-adb301309160/a093dc3b-ad44-4e38-a9aa-adb301311d22/f4469c60-32af-4058-8a24-adb301311d39/podcast.rss
-a16z Podcast https://feeds.simplecast.com/BqbsxVfO
-a16z Podcast https://feeds.simplecast.com/JGE3yC0V
-Adrift with Geoff Lloyd and Annabel Port http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss
-Affaires sensibles https://feeds.acast.com/public/shows/c6d80f60-4ad1-4850-a231-628c674db178
-Akimbo: A Podcast from Seth Godin https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_13940.xml
-Al Filo de la Realidad (Podcast) https://feeds.acast.com/public/shows/07058b20-e537-4225-9c56-3adf0e2a669a
-All About Android (Video) https://feeds.feedburner.com/AlFiloDeLaRealidad
-All In The Mind https://feeds.twit.tv/aaa_video_hd.xml
-All Jupiter Broadcasting Shows https://www.abc.net.au/radionational/feed/2888650/podcast.xml
-All the Books! https://feed.jupiter.zone/allshows
-All-In with Chamath, Jason, Sacks &amp; Friedberg https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/fe793c6c-d2e8-43cc-a2db-ab220127b4ce/c1b2f8be-226f-47ae-ab66-ab220127b4f4/podcast.rss
-Always Take Notes https://allinchamathjason.libsyn.com/rss
-Analysis https://anchor.fm/s/281d5664/podcast/rss
-Android App Addicts - Podnutz https://podcasts.files.bbci.co.uk/b006r4vz.rss
-Android Central Podcast https://feeds.feedburner.com/androidappaddicts
-Android Developers Backstage https://androidcentral.libsyn.com/rss
-Angeklickt https://adbackstage.libsyn.com/rss
-Angel | hosted by Jason Calacanis https://www1.wdr.de/mediathek/video/podcast/channel-angeklickt-100.podcast
-AppStories https://angelpodcast.libsyn.com/rss
-Aria Code https://appstories.net/episodes/feed/
-ASCD  Learn  Teach  Lead Radio http://feeds.wnyc.org/aria-code
-Ask Noah Show https://www.bamradionetwork.com/feeds/ASCD.xml
-Auf ein Bier von Gamespodcast.de https://feeds.fireside.fm/asknoah/rss
-Aufwachen! https://feeds.soundcloud.com/users/soundcloud:users:21436304/sounds.rss
-Back to Work https://aufwachen-podcast.de/feed/itunesarchiv/
-Bagklog https://feeds.fireside.fm/backtowork/rss
-Banking Information Security Podcast https://www.dr.dk/mu/feed/bagklog-pa-p1.xml?format=podcast&amp;limit=100
-Bannon's War Room http://www.bankinfosecurity.com/itunes_rss_podcasts.php
-Bericht aus Berlin (1280x720) https://listen.warroom.org/feed.xml
-Berlin direkt (VIDEO) https://www.tagesschau.de/export/video-podcast/webxl/bab/
-Best of the Spectator https://www.zdf.de/rss/podcast/video/zdf/politik/berlin-direkt
-Between Worlds https://audioboom.com/channels/4905579.rss
-Biotech 2050 Podcast https://feeds.soundcloud.com/users/soundcloud:users:1241091/sounds.rss
-Blue Moon https://feeds.soundcloud.com/users/soundcloud:users:703839116/sounds.rss
-Bombshell https://www.fritz.de/programm/sendungen/blue_moon.xml/feed=podcast.xml
-Book Riot - The Podcast https://bombshell.libsyn.com/rss
-Borgen unplugged https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/73f21c02-2ff7-4f9e-8681-ab220127b535/ee240580-02de-42c0-ac16-ab220127b543/podcast.rss
-Brakeing Down Security Podcast https://feeds.soundcloud.com/users/soundcloud:users:154832827/sounds.rss
-Breaking Math Podcast https://brakeingsecurity.libsyn.com/rss
-Bret Weinstein | DarkHorse Podcast https://anchor.fm/s/7a32d64/podcast/rss
-Bunga Bunga https://feeds.buzzsprout.com/424075.rss
-Business Wars https://rss.art19.com/bunga-bunga
-Byte Podcast https://rss.art19.com/business-wars
-Ça Vient De Là https://feedpress.me/Byte
-Cashflow Ninja https://feeds.soundcloud.com/users/soundcloud:users:147878999/sounds.rss
-Chaosradio https://cashflowninja.libsyn.com/rss
-Chapo Trap House https://chaosradio.de/feed/m4a
-Chemistry in its element https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss
-China Business Cast https://chemistryinitselement.libsyn.com/rss
-China Tech Talk https://feeds.simplecast.com/WeHw_1yx
-Christopher Kimball’s Milk Street Radio https://feeds.simplecast.com/400uRY7l
-ClandesTime https://rss.acast.com/christopher-kimballs-milk-street-radio
-Clear and Present Danger - A history of free speech https://feeds.feedburner.com/clandestime
-Clear To Send: Wireless Network Engineering https://freespeechhistory.libsyn.com/rss
-Code Switch https://www.cleartosend.net/feed/podcast/
-CodeNewbie https://feeds.npr.org/510312/podcast.xml
-Coder Radio http://feeds.codenewbie.org/cnpodcast.xml
-Coding Blocks https://coder.show/rss
-Cold Call https://www.codingblocks.net/podcast-feed.xml
-Comedy of the Week http://feeds.harvardbusiness.org/harvardbusiness/cold-call
-Command Line Heroes https://podcasts.files.bbci.co.uk/p02pc9x6.rss
-Common Sense with Dan Carlin https://feeds.pacific-content.com/commandlineheroes
-Computer und Kommunikation - Sendung - Deutschlandfunk https://feeds.feedburner.com/dancarlin/commonsense?format=xml
-Conclusiones https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml
-Containers https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/02d506f8-265c-4052-ba18-ab850141c78d/575d2417-888f-470c-8d08-ab850141c79b/podcast.rss
-Conversations with Tyler https://feeds.megaphone.fm/PPY8156500299
-Cool Tools https://cowenconvos.libsyn.com/rss
-Cordkillers (All Audio) https://feedpress.me/cooltoolsshow
-Cordkillers (All Video) https://feeds.feedburner.com/Cordkillers
-Cordua &amp; Steno (info) https://feeds.feedburner.com/VideoCordkillersPodcast
-Crazy/Genius https://www.omnycontent.com/d/playlist/c292b3ac-094e-4616-a956-a99800ed54e9/fec21408-6901-41c5-a176-aa550091499a/bc806937-6743-4d24-b7ac-ab0500b4204f/podcast.rss
-CRE: Technik, Kultur, Gesellschaft https://feeds.megaphone.fm/crazygenius
-Criminal https://feeds.metaebene.me/cre/m4a
-Crypto-Gram Security Podcast https://feeds.megaphone.fm/VMP7924981569
-Culture Kings https://crypto-gram.libsyn.com/rss
-CyberWire Daily https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ed398ce4-deb8-4096-8d27-ab090143a27e/0a5cc439-f4d7-47f9-8b88-ab090143a291/podcast.rss
-Daily Tech Headlines https://feeds.megaphone.fm/cyberwire-daily-podcast
-Daily Tech News Show (Video) https://feeds.feedburner.com/DailyTechHeadlines
-Damn Fine Podcast - A Twin Peaks Podcast https://feeds.feedburner.com/daily_tech_news_show
-Dan Carlin's Hardcore History https://feeds.feedburner.com/damnfinepodcast/qpYn
-Dan Carlin's Hardcore History: Addendum https://feeds.feedburner.com/dancarlin/history?format=xml
-Das Feature - Deutschlandfunk Kultur Hörspielportal https://dchhaddendum.libsyn.com/rss
-Data Engineering Podcast https://www.hoerspielundfeature.de/das-feature-104.xml
-Data Skeptic https://www.dataengineeringpodcast.com/feed/mp3/
-Data Stories https://dataskeptic.libsyn.com/rss
-Data Viz Today https://datastori.es/feed/podcast/
-DataFramed https://dataviztoday.libsyn.com/rss
-Decoder with Nilay Patel https://feeds.buzzsprout.com/147669.rss
-DeepMind: The Podcast https://feeds.megaphone.fm/recodedecode
-Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec https://feeds.simplecast.com/JT6pbPkg
-defn https://defensivesecurity.org/feed/podcast/
-Den Korte Podcast https://feeds.soundcloud.com/users/soundcloud:users:220484243/sounds.rss
-Den Nordiske Odyssé https://www.spreaker.com/show/5025652/episodes/feed
-Der Panzerknacker - DER Finanz Podcast von Markus Habermehl https://www.dr.dk/mu/feed/den-nordiske-odysse.xml?format=podcast
-Desert Island Discs https://panzerknacker.libsyn.com/rss
-Design Matters with Debbie Millman https://podcasts.files.bbci.co.uk/b006qnmr.rss
-Det, vi taler om https://feeds.feedburner.com/DesignMattersWithDebbieMillman
-DH Unplugged https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/7c506dcb-254e-4bcb-ab39-ad0800ae3be4/f4a73d93-4aa2-4676-a568-ad0800ae3bed/podcast.rss
-Die Anstalt (VIDEO) http://feeds.dhunplugged.com/DHUnplugged
-DIE ZEIT: Hinter der Geschichte https://www.zdf.de/rss/podcast/video/zdf/comedy/die-anstalt
-Digital Forensic Survival Podcast https://freundederzeit.podigee.io/feed/mp3
-Displaced https://digitalforensicsurvivalpodcast.libsyn.com/rss
-Disruption https://feeds.megaphone.fm/displaced
-Distillations | Science History Institute https://www.relay.fm/disruption/feed
-DLC https://chemheritage.libsyn.com/rss
-Do By Friday https://feeds.fireside.fm/dlc/rss
-Down the Security Rabbithole Podcast https://feeds.simplecast.com/5nKJV82u
-Download http://podcast.wh1t3rabbit.net/rss
-Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern https://www.relay.fm/download/feed
-Ekko – samfunnspodden https://easygerman.libsyn.com/rss
-El Mapa Secreto https://podkast.nrk.no/program/ekko_-_et_aktuelt_samfunnsprogram.rss
-Elixir Talk http://cloud.gladyspalmera.net/api/sets/35/rss
-Embedded https://feeds.soundcloud.com/users/soundcloud:users:334579745/sounds.rss
-Endless Thread https://makingembeddedsystems.libsyn.com/rss
-Energy Intelligence https://rss.wbur.org/endlessthread/podcast
-Engineering and Leadership Podcast https://energyintelwebinars.podbean.com/feed.xml
-Entiende Tu Mente http://www.engineeringandleadership.com/feed/podcast/
-Entreprogrammers Podcast https://www.spreaker.com/show/2630773/episodes/feed
-Es Salud https://entreprogrammers.libsyn.com/rss
-Essay und Diskurs - Deutschlandfunk https://esradio.libertaddigital.com/es-salud/podcast.xml
-Europæiske Ideer https://www.deutschlandfunk.de/essay-und-diskurs-102.xml
-Eventual Millionaire Podcast https://europaeiskeideer.podbean.com/feed.xml
-Everything is Alive https://eventualmillionaire.libsyn.com/rss
-Fallo de sistema http://feeds.everythingisalive.com/everythingisalive
-Famous Adjacent (formerly Today We Learned) http://api.rtve.es/api/programas/46690/audios.rss
-Filmland https://todaywelearned.libsyn.com/rss
-Filmpolitiet https://www.dr.dk/mu/feed/filmland.xml?format=podcast
-Filosofiska rummet https://podkast.nrk.no/program/filmpolitiet.rss
-FLOSS Weekly (Video) https://api.sr.se/api/rss/pod/itunes/3963
-Forensic Transmissions https://feeds.twit.tv/floss_video_hd.xml
-Foundering http://forensictransmissions.com/feed/podcast
-Founders Talk: Startups, CEOs, Leadership https://feeds.megaphone.fm/BLM3923153289
-Fragmented - The Software Podcast https://changelog.com/founderstalk/feed
-Freakonomics Radio https://feeds.simplecast.com/LpAGSLnY
-Fresh Air https://feeds.simplecast.com/Y8lFbOT4
-FT Tech Tonic https://feeds.npr.org/381444908/podcast.xml
-Full Stack Journey - Packet Pushers http://rss.acast.com/ft-tech-tonic
-Function with Anil Dash https://feeds.packetpushers.net/fullstackjourney/
-Functional Design in Clojure https://feeds.megaphone.fm/function
-Futuremakers https://clojuredesign.club/index.xml
-Gadget Lab: Weekly Tech News from WIRED https://audioboom.com/channels/4973983.rss
-Game Over, el programa sobre videojuegos más veterano. https://feeds.megaphone.fm/gadget-lab
-Gamefully Unemployed https://feeds.feedburner.com/portalgameover
-GeekWeek | TechPodcast https://feeds.soundcloud.com/users/soundcloud:users:395741505/sounds.rss
-Genstart - DR's nyhedspodcast https://geek-week.de/feed/podcast/
-Getting Things Done https://www.dr.dk/mu/feed/genstart.xml?format=podcast
-Ghibliotheque - A Podcast About Studio Ghibli https://gettingthingsdone.libsyn.com/rss
-Giant Bombcast https://feeds.acast.com/public/shows/9b41cd90-c759-4ccb-98b1-16a633915c57
-Giant Robots Smashing Into Other Giant Robots https://www.giantbomb.com/podcast-xml/giant-bombcast/
-Girlboss Radio https://feeds.fireside.fm/giantrobots/rss
-Global From Asia Podcast http://feeds.megaphone.fm/girlbossradio
-Go Time: Golang, Software Engineering https://www.globalfromasia.com/category/podcast/feed/
-Great Night Video Feed https://changelog.com/gotime/feed
-Grownups Read Things They Wrote as Kids https://greatnight.tv/feed/video
-Hablando de Tecnología con Orlando Mergal | Podcast En Español | Puerto Rico | Discusión inteligente Una Vez Por Semana https://feeds.grownupsreadthingstheywroteaskids.com/podcast
-Hacker Daily http://www.hablandodetecnologia.com/feed/podcast/
-Hacker Public Radio https://pinecast.com/feed/hacker-daily
-Hanselminutes with Scott Hanselman http://hackerpublicradio.org/hpr_rss.php
-happy, holy &amp; confident® Dein Podcast fürs Herz und den Verstand https://feeds.simplecast.com/gvtxUiIf
-HBR IdeaCast https://feed.podbean.com/lauraseiler/feed.xml
-Headlong: Running from COPS http://feeds.harvardbusiness.org/harvardbusiness/ideacast
-Health Via Modern Nutrition https://rss.prod.firstlook.media/headlong-cops/podcast.rss
-Heavy Networking from Packet Pushers https://thinkingpodcast.libsyn.com/rss
-Hele historien https://feeds.packetpushers.net/PacketPushersWeeklyPodcast
-Hello Internet https://podkast.nrk.no/program/hele_historien.rss
-Herding Code http://www.hellointernet.fm/podcast?format=rss
-Hi-Phi Nation https://feeds.feedburner.com/herdingcode
-Hidden Brain https://feeds.megaphone.fm/hiphination
-Hidden Forces https://feeds.simplecast.com/kwWc0lhf
-Hidden Forces Premium https://hiddenforces.libsyn.com/rss
-HistoCast https://hiddenforces.supercast.com/feeds/TvJMA4pWQTw7aRHe5PyDZgPQ
-Historier fra virkeligheten https://feeds.feedburner.com/histocast
-Hondelatte raconte - Christophe Hondelatte https://podkast.nrk.no/program/radiodokumentaren.rss
-Hörbar Rust https://www.europe1.fr/rss/podcasts/hondelatte-raconte.xml
-Hotboxin With Mike Tyson https://www.radioeins.de/rss.xml?beitrag_110178
-How I Built This with Guy Raz https://feeds.megaphone.fm/hotboxin
-How to Fix the Internet https://feeds.npr.org/510313/podcast.xml
-How to Lose Money https://feeds.eff.org/howtofixtheinternet
-HowSound https://howtolosemoney.libsyn.com/rss
-Husarrest http://feeds.prx.org/HowSound
-I Only Listen to the Mountain Goats https://rss.podplaystudio.com/710.xml
-ID10T with Chris Hardwick http://feeds.nightvalepresents.com/IOnlyListenToTheMountainGoats
-In Our Time https://rss.art19.com/id10t
-In the Studio https://podcasts.files.bbci.co.uk/b006qykl.rss
-Indie Hackers https://podcasts.files.bbci.co.uk/p05c17wy.rss
-Intelligence Matters https://feeds.transistor.fm/the-indie-hackers-podcast
-Intelligence Squared https://rss.art19.com/intelligence-matters
-Intelligence Squared U.S. Debates https://feeds.megaphone.fm/NSR6363847171
-Intelligent Automation Radio https://feeds.megaphone.fm/PNP1207584390
-Intercepted https://intelautoradio.libsyn.com/rss
-Interview der Woche - Deutschlandfunk https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6
-Invisibilia https://www.deutschlandfunk.de/interviews-110.xml
-IRL - Online Life Is Real Life https://feeds.npr.org/510307/podcast.xml
-Iron Sysadmin Podcast https://feeds.mozilla-podcasts.org/irl
-It's A Thing https://ironsysadmin.libsyn.com/rss
-Jocko Podcast https://feeds.acast.com/public/shows/7f7c57dd-db5b-4209-b1d7-9e934ca4a861
-Judge John Hodgman https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
-JuRY https://feeds.simplecast.com/q8x9cVws
-Kampagnesporet (info) https://feeds.feedburner.com/jurytalks/ldKY
-Klassikere Genfortalt I https://www.omnycontent.com/d/playlist/c292b3ac-094e-4616-a956-a99800ed54e9/fec21408-6901-41c5-a176-aa550091499a/c3ca2c04-56a4-4cbb-bf44-ab0500b36b80/podcast.rss
-Konflikt https://www.dr.dk/mu/feed/klassikere-genfortalt.xml?format=podcast
-L'heure du crime https://api.sr.se/api/rss/pod/itunes/3967
-La Poudre https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml
-Lage der Nation - der Politik-Podcast aus Berlin https://anchor.fm/s/6a2cdc64/podcast/rss
-Land of the Giants https://feeds.lagedernation.org/feeds/ldn-mp3.xml
-Le Cours de l'histoire https://feeds.megaphone.fm/landofthegiants
-Le masque et la plume https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_10076.xml
-Le rendez-vous Tech https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14007.xml
-Le Show https://feeds.acast.com/public/shows/b9e1260d-4777-4c20-bd86-88cf343c8ece
-Learn Chinese | ChineseClass101.com https://www.wwno.org/podcast/le-show/rss.xml
-Learn to Code With Me https://www.chineseclass101.com/wp-feed-audio-video.php
-Les Gentilshommes https://learntocodewithme.libsyn.com/rss
-LeVar Burton Reads https://feeds.acast.com/public/shows/8e09f3b5-d4e2-4486-a690-e861898033fa
-Lex Fridman Podcast https://feeds.simplecast.com/LDNgBXht
-Linear Digressions https://lexfridman.com/feed/podcast/
-Linux Action News https://feeds.feedburner.com/udacity-linear-digressions?format=xml
-Linux in the Ham Shack https://feeds.fireside.fm/linuxactionnews/rss
-Literary Disco https://lhspodcast.info/category/podcast-mp3/feed/
-Little Atoms https://feeds.feedburner.com/literarydisco
-Lobo – Der Debatten-Podcast https://feeds.acast.com/public/shows/b5fe8d16-7518-4208-861b-e1ec5ce88192
-Lore https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/008f004b-055e-4e0c-9fd0-abc000ffb04a/3b93bc3f-52cb-4a3b-91ef-abc000ffb053/podcast.rss
-Lovett or Leave It https://feeds.megaphone.fm/lore
-Lyd fra de københavnske biblioteker https://feeds.megaphone.fm/lovett-or-leave-it
-Machine Learning Street Talk https://feeds.feedburner.com/hbarr
-Make No Law: The First Amendment Podcast https://anchor.fm/s/1e4a0eac/podcast/rss
-Make World https://feeds.megaphone.fm/LTN4153488764
-Marketing Smarts from MarketingProfs https://audioboom.com/channels/4989204.rss
-Marketplace Tech https://feeds.feedburner.com/marketingsmarts
-Martial Arts Media™ Business Podcast https://www.marketplace.org/feed/podcast/marketplace-tech
-Masters of Scale with Reid Hoffman https://martialartsmedia.com/feed/podcast/
-Math &amp; Magic: Stories from the Frontiers of Marketing with Bob Pittman https://rss.art19.com/masters-of-scale
-Mathematical Objects https://feeds.megaphone.fm/HSW3172522270
-Medium Playback https://aperiodical.com/category/main/podcasts/mathematical-objects/feed/?redirect=no
-Mennesker og medier https://feeds.simplecast.com/LNvxlxLx
-Mere Rhetoric https://www.dr.dk/mu/feed/mennesker-og-medier.xml?format=podcast&amp;limit=100
-Mixed Mental Arts https://mererhetoric.libsyn.com/rss
-Mobile Tech Podcast with tnkgrl Myriam Joire https://mixedmentalarts.libsyn.com/rss
-Mobycast https://feeds.simplecast.com/D6WO3ndr
-Modern Finance https://feeds.transistor.fm/mobycast
-Moe Factz with Adam Curry https://pcr.apple.com/id1338620184
-Mogul http://feed.nashownotes.com/mfrss.xml
-Monocle 24: Monocle on Design https://feeds.megaphone.fm/mogul
-Monocle 24: The Entrepreneurs https://feeds.feedburner.com/Monocle24SectionD
-Monocle 24: The Foreign Desk https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/bbd0c3e8-b286-4cad-be8c-a94400ec34c5/077fda1a-01f4-4749-a638-a94400ec34d3/podcast.rss
-Monocle 24: The Monocle Weekly https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/7b9f282e-1b97-4d40-a38f-ab8a0123a4e7/ed6a263e-d325-4e94-a10c-ab8a0123a4ec/podcast.rss
-Moonshot https://feeds.feedburner.com/TheMonocleWeekly
-More or Less: Behind the Stats https://feeds.lawson.media/moonshot
-Most Useful Podcast Ever https://podcasts.files.bbci.co.uk/p02nrss1.rss
-Moving at the Speed of Creativity Podcasts https://feeds.megaphone.fm/mupe
-My Favorite Theorem https://feeds.feedburner.com/speedofcreativity/podcasts
-Mysteries Abound https://kpknudson.com/my-favorite-theorem?format=rss
-Mystery Show https://app.talkshoe.com/rss-mysteries-abound.xml
-Myths and Legends https://feeds.megaphone.fm/mysteryshow
-Nadie Sabe Nada https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/662ff2d4-9b7f-4388-8a94-acb8002fd595/480aa1a5-4ada-4846-ae18-acb8002fd59e/podcast.rss
-Nasjonal sikkerhetsmyndighet (NSM) https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml
-Netzpolitik Podcast – netzpolitik.org https://feeds.soundcloud.com/users/soundcloud:users:466268865/sounds.rss
-New Books in History https://netzpolitik.org/category/netzpolitik-podcast/feed/
-New Books in Mathematics https://feeds.megaphone.fm/LIT3360275696
-New Rustacean https://feeds.megaphone.fm/LIT8989774512
-News in Slow French https://newrustacean.com/feed.xml
-News Roast https://nsf.libsyn.com/rss
-Nintendo Power Podcast https://audioboom.com/channels/4901871.rss
-Nir And Far: Business, Behaviour and the Brain http://podcast.nintendopower.com/feed.xml
-No Agenda https://anchor.fm/s/bcc500/podcast/rss
-No Such Thing As A Fish HTTP://feed.nashownotes.com/rss.xml
-NoLimitSecu https://audioboom.com/channels/2399216.rss
-Nómadas https://www.nolimitsecu.fr/feed/podcast/
-Non Breaking Space Show http://api.rtve.es/api/programas/23730/audios.rss
-Norsken, svensken og dansken https://goodstuff.network/nbsp/feed.xml
-Note to Self https://www.dr.dk/mu/feed/norsken-svensken-og-dansken.xml?format=podcast
-NRK Bok http://feeds.wnyc.org/notetoself-podcast
-NSD-podden flyttet 6. oktober 2020 til NRK - se lenker under https://podkast.nrk.no/program/bok_i_p2.rss
-O'Reilly Programming Podcast - O'Reilly Media Podcast https://feed.pippa.io/public/shows/5dd83adb816cd0600d3bfdcc
-Odd Lots https://cdn.oreillystatic.com/radar/oreilly-programming-podcast/feed.rss
-Off The Hook https://feeds.megaphone.fm/BLM2009837477
-Ohhh! TV Podcast https://www.2600.com/oth-broadband.xml
-Omnibus https://ohhhtv.com/feed/podcast/
-Open Source Security Podcast https://feeds.fireside.fm/omnibus/rss
-Orientering https://opensourcesecuritypodcast.libsyn.com/rss
-Our Fake History https://www.dr.dk/mu/feed/orientering.xml?format=podcast&amp;limit=100
-Over the Road https://www.podcastone.com/podcast?categoryID2=2142
-Overdue https://feed.overtheroad.fm/
-P1 Debat https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/e7707767-fd61-4887-b6ee-ad88014933e3/b9defaac-c62e-4810-bc36-ad88014933fb/podcast.rss
-P1 Dokumentär https://www.dr.dk/mu/feed/p1-debat.xml?format=podcast&amp;limit=500
-P1 Morgen https://api.sr.se/api/rss/pod/itunes/4013
-P3 Dokumentär https://www.dr.dk/mu/feed/p1-morgen.xml?format=podcast&amp;limit=100
-Packet Pushers - Datanauts https://api.sr.se/api/rss/pod/itunes/3966
-Packet Pushers - Priority Queue https://feeds.packetpushers.net/datanauts/
-Part-Time Genius https://feeds.packetpushers.net/PriorityQueue/
-Partially Derivative https://feeds.megaphone.fm/parttimegenius
-Passive Real Estate Investing via Simple Passive Cashflow https://feeds.feedburner.com/PartiallyDerivative
-Patterson in Pursuit https://feeds.acast.com/public/shows/596ee8b36b3475a168b0d8f5
-Pengeland https://pattersoninpursuit.libsyn.com/rss
-Pengesnakk https://www.spreaker.com/show/1304456/episodes/feed
-Pentacast https://admin.podkast.no/api/rss/pengesnakk
-Pentaradio https://www.c3d2.de/pentacast.xml
-People Behind the Science Podcast - Stories from Scientists about Science, Life, Research, and Science Careers https://www.c3d2.de/pentaradio.xml
-Perpetual Traffic https://peoplebehindthescience.libsyn.com/rss
-Philosophize This! https://digitalmarketer.libsyn.com/rss
-Physics Frontiers https://philosophizethis.libsyn.com/rss
-Physics World Stories Podcast https://physicsfrontiers-rantschler.podomatic.com/rss2.xml
-Pixels https://physicsworld.com/podcast
-Planet Money https://feeds.acast.com/public/shows/1b1bc64d-1602-417c-be04-b7fa4f7ccf0f
-pluspluspodcast https://feeds.npr.org/510289/podcast.xml
-Pocketnow Weekly Podcast https://feeds.acast.com/public/shows/7229e56a-60cd-4607-90c0-dd6d3632e742
-Pod Save America https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/b2a57409-1223-4bce-ab04-ab6900026cb6/f21ce965-830c-4e34-a3a6-ab6900026cdc/podcast.rss
-Podcasts – Weird Things https://feeds.megaphone.fm/pod-save-america
-Poetry Unbound https://feeds.feedburner.com/WeirdThingsPodcast
-Point of Inquiry https://feeds.simplecast.com/p9JRgDEG
-Politics Politics Politics https://pointofinquiry.libsyn.com/rss
-Pretend - a true crime documentary podcast https://feeds.fireside.fm/politicspoliticspolitics/rss
-Product Startup https://feeds.megaphone.fm/ADV1293150108
-Programming Electronics Academy Podcast https://feeds.podcastmirror.com/product-startup
-Programming Throwdown https://programmingelectronics.libsyn.com/rss
-PROOF https://feeds.transistor.fm/programming-throwdown
-Psychology of Video Games Podcast https://feeds.megaphone.fm/proof
-Python Bytes https://www.spreaker.com/show/3329893/episodes/feed
-Python on Hardware https://pythonbytes.fm/episodes/rss
-Python Podcast http://adafruit-podcasts.s3.amazonaws.com/python_on_hardware/podcast.xml
-RABBITS https://python-podcast.de/show/feed/podcast/m4a/rss.xml
-Radio Ambulante https://rabbits.libsyn.com/rss
-Radio Information https://feeds.npr.org/510315/podcast.xml
-Radioklassikeren https://radioinformation.podbean.com/feed.xml
-Radiolab https://www.dr.dk/mu/feed/radioklassikeren.xml?format=podcast&amp;limit=100
-Radioresepsjonen http://feeds.wnyc.org/radiolab
-radioWissen https://podkast.nrk.no/program/radioresepsjonen.rss
-Rational Security https://feeds.br.de/radiowissen/feed.xml
-Reading Glasses https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d
-Recappables: Westworld https://feeds.simplecast.com/SMcNunjG
-Red Scare https://feeds.megaphone.fm/recappables
-Red Scare https://redscarepodcast.libsyn.com/rss
-Red Scare https://www.patreon.com/rss/RedScare?auth=_oJCTYjC-DU3qBy1N8sbhyF7289ix2c8
-Relatively Prime: Stories from the Mathematical Domain https://www.patreon.com/rss/redscare?auth=cwqgyxwlwo5_7lvizdzrvde7aigqfbpp&amp;usg=AOvVaw1XLWA_9gbUIHC86VDdHs2k
-Rendez-vous avec X https://feeds.feedburner.com/relprime
-Reply All https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14726.xml
-Resound Podcast https://feeds.megaphone.fm/replyall
-Retroist Retro Podcast https://feeds.feedburner.com/resoundchurchpodcast
-Revisionist History https://retroist.com/category/podcast/feed/
-Rhetoricity https://feeds.megaphone.fm/revisionisthistory
-Risky Business https://rhetoricity.libsyn.com/rss
-Roderick on the Line http://risky.biz/feeds/risky-business/
-Rust Belt Startup HTTP://feeds.feedburner.com/RoderickOnTheLine
-Rust Game Dev https://rustbeltstartup.com/feed/podcast/
-Rustacean Station https://feeds.simplecast.com/C6NQglnL
-Säkerhetspodcasten https://rustacean-station.org/podcast.rss
-Savvy Painter Podcast with Antrese Wood https://sakerhetspodcasten.libsyn.com/rss
-Science Vs https://savvypainter.libsyn.com/rss
-Science Weekly https://feeds.megaphone.fm/sciencevs
-Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas https://www.theguardian.com/science/series/science/podcast.xml
-Security Now (Audio) https://rss.art19.com/sean-carrolls-mindscape
-Security Now (Video) https://feeds.twit.tv/sn.xml
-Security Now (Video) https://feeds.twit.tv/sn_video_hd.xml
-Selfie https://feeds.twit.tv/sn_video_small.xml
-Serial https://feeds.podcastmirror.com/selfie
-Seriously... https://feeds.simplecast.com/xl36XBC2
-Show Me Your Mic https://podcasts.files.bbci.co.uk/p02pc9qx.rss
-Side Hustle School https://goodstuff.network/smym/feed.xml
-Sidedoor https://feeds.megaphone.fm/sidehustleschool
-Siglo 21 http://feeds.si.edu/SmithsonianSidedoor
-Simon Mayo's Books Of The Year http://api.rtve.es/api/programas/2082/audios.rss
-Sincerely, X https://feeds.acast.com/public/shows/31196ed5-9da1-4795-8a2d-7644ab4f4ed7
-SinnSyn https://feeds.feedburner.com/SincerelyX
-Skønlitteratur https://feeds.acast.com/public/shows/5b9e7ed2f1badce55455ddad
-Slavoj Žižek - Collected Recordings https://www.dr.dk/mu/feed/skoenlitteratur-pa-p1.xml?format=podcast&amp;limit=100
-Snap Judgment http://zizekpodcast.com/category/zizek/feed/
-Software Engineering Radio - the podcast for professional software developers https://snap.feed.snapjudgment.org
-Song Exploder https://seradio.libsyn.com/rss
-Source Code Berlin archive http://feed.songexploder.net/SongExploder
-Spectacular Vernacular https://fourble.co.uk/scb-211110-7.rss
-Spirits https://feeds.megaphone.fm/slatelexiconvalley
-Språket https://spiritspodcast.libsyn.com/rss
-Språksnakk https://api.sr.se/api/rss/pod/itunes/4012
-SPURGT! https://podkast.nrk.no/program/spraakteigen.rss
-Stafetten med Clement https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/e47bda37-ee8c-4962-8b49-ae210080241f/c51840c5-36b8-4029-960a-ae210080a544/podcast.rss
-Stay Tuned with Preet https://www.dr.dk/mu/feed/clement-pa-p1-p1d.xml?format=podcast
-STEAL THIS SHOW https://feeds.megaphone.fm/VMP5489734702
-Stephen Fry's 7 Deadly Sins https://audioboom.com/channels/4983408.rss
-Stereo Chemistry https://feeds.acast.com/public/shows/c5991091-ef9c-4c8c-905c-4f66968ff6bd
-Still Untitled: The Adam Savage Project https://stereochemistry.libsyn.com/rss
-Stuff Mom Never Told You https://www.tested.com/podcast-xml/still-untitled-the-adam-savage-project/
-Stuff To Blow Your Mind https://feeds.megaphone.fm/stuffmomnevertoldyou
-Stuff You Missed in History Class https://feeds.megaphone.fm/stufftoblowyourmind
-Stuff You Should Know https://feeds.megaphone.fm/stuffyoumissedinhistoryclass
-Super Data Science https://feeds.megaphone.fm/stuffyoushouldknow
-Supertanker https://feeds.soundcloud.com/users/soundcloud:users:253585900/sounds.rss
-Sway https://www.dr.dk/mu/feed/supertanker.xml?format=podcast
-Switched On https://feeds.simplecast.com/l2i9YnTd
-Table Top Inventing | Connecting Educators &amp; Innovators | Helping Parents Inspire Teens https://feeds.megaphone.fm/BLM3335996561
-Tagesschau (1280x720) http://devinnovators.com/wpdi/?feed=podcast
-Talk Chineasy - Learn Chinese every day with ShaoLan https://www.tagesschau.de/export/video-podcast/webxl/tagesschau/
-Talk Nerdy with Cara Santa Maria https://feeds.soundcloud.com/users/soundcloud:users:260574053/sounds.rss
-Talk Python To Me https://www.spreaker.com/show/4530061/episodes/feed
-Talking Biotech with Dr. Kevin Folta https://talkpython.fm/episodes/rss
-Teaching Python https://feeds.transistor.fm/talking-biotech
-Team Human https://feeds.fireside.fm/teachingpython/rss
-Tech Policy Podcast https://access.acast.com/rss/58ad887a1608b1752663b04a
-Tech Stories from HackerNoon http://podcast.techfreedom.org/feed.xml
-Tech Tent https://feed.podbean.com/podcast.hackernoon.com/feed.xml
-Tech's Message: News &amp; Nostalgia With Nate Lanxon &amp; Ian Morris https://podcasts.files.bbci.co.uk/p01plr2p.rss
-TechTopia https://feeds.acast.com/public/shows/935be082-c794-4143-9f66-179c9d665333
-TED Business https://tv.ida.dk/audiopodcast?album%5fid=16944635
-TED Radio Hour https://feeds.feedburner.com/iTunesPodcastTTBusiness
-Teknikveckan med Macradion https://feeds.npr.org/510298/podcast.xml
-Teknologimagasinet Aftenposten https://feeds.acast.com/public/shows/6ec1ff9b-7486-411a-8d0d-edb10d125ec3
-Test &amp; Code in Python https://podcast.stream.schibsted.media/ap/100186?podcast
-The All Turtles Podcast https://feeds.fireside.fm/testandcode/rss
-The Allusionist https://allturtles.libsyn.com/rss
-The Anthropocene Reviewed https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss
-The Art of Manliness https://feeds.simplecast.com/p7S4nr_h
-The Art of Online Business https://feeds.simplecast.com/azy33G8_
-The Audio Long Read https://feeds.buzzsprout.com/1866710.rss
-The Big Rhetorical Podcast https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml
-The Blacklist Exposed https://anchor.fm/s/d4f5d28/podcast/rss
-The Book Review https://theblacklist.libsyn.com/rss
-The Bugle https://feeds.simplecast.com/MssIhx9y
-The Business https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607
-The Changelog: Software Development, Open Source https://www.kcrw.com/culture/shows/the-business/rss.xml
-The Civil Engineering Podcast https://changelog.com/podcast/feed
-The Cult of Pedagogy Podcast https://engineeringmanagementinstitute.org/category/cep-podcast/feed/
-The Daily https://cultofpedagogy.libsyn.com/rss
-The Digital Human https://feeds.simplecast.com/54nAGcIl
-The Disciplined Investor https://podcasts.files.bbci.co.uk/b01n7094.rss
-The Documentary Podcast https://feeds.feedburner.com/tdicasts
-The Dream https://podcasts.files.bbci.co.uk/p02nq0lx.rss
-The Edge https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/5090fbc5-4e0d-4b52-9f28-aa3200e14bba/f75dd646-aa8d-4472-9b9a-aa3200e14bbf/podcast.rss
-The Engineering Career Coach Podcast https://feeds.soundcloud.com/users/soundcloud:users:562785240/sounds.rss
-The EntreLeadership Podcast https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
-The Failure Factor: Stories of Career Perseverance https://entreleadershippodcast.libsyn.com/rss
-The Fifth Column - Analysis, Commentary, Sedition https://thefailurefactor.libsyn.com/rss
-The Film Riot Podcast https://feeds.acast.com/public/shows/5c3e264f78c059c75c5e8ccf
-The Filmcast (AKA The Slashfilmcast) https://filmriot.libsyn.com/rss
-The Forensic Lunch with David Cowen and Matthew Seyer https://audioboom.com/channels/4997224.rss
-The Get Paid Podcast: The Stark Reality of Entrepreneurship and Being Your Own Boss https://forensiclunch.libsyn.com/rss
-The Goodstuff Morning Show https://clairepells.libsyn.com/rss
-The Grant Williams Podcast https://goodstuff.network/morningshow/feed.xml
-The Grift https://feed.podbean.com/ttmygh/feed.xml
-The Growth Show https://feeds.megaphone.fm/thegrift
-The Guardian Books podcast https://feeds.megaphone.fm/HS8360247339
-The Incomparable https://www.theguardian.com/books/series/books/podcast.xml
-The Indicator from Planet Money https://feeds.theincomparable.com/theincomparable
-The Infinite Monkey Cage https://feeds.npr.org/510325/podcast.xml
-The Intelligence from The Economist https://podcasts.files.bbci.co.uk/b00snr0w.rss
-The Internet of Things Podcast - Stacey On IoT https://rss.acast.com/theintelligencepodcast
-The Joe Rogan Experience https://iotpodcast.com/feed/podcast/
-The Jordan B. Peterson Podcast https://joeroganexp.libsyn.com/rss
-The Kåss Furuseths https://feeds.megaphone.fm/ADV2256857693
-The Kevin Rose Show https://podkast.nrk.no/program/the_kaass_furuseths.rss
-The Knowledge Project with Shane Parrish https://feeds.simplecast.com/xZuZL16q
-The Lawfare Podcast https://theknowledgeproject.libsyn.com/rss
-The Lazy Genius Podcast https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c
-The Let's Talk Bitcoin Network https://feeds.acast.com/public/shows/65728665-4cff-429d-b336-1e34548b49c0
-The LRB Podcast https://feeds.feedburner.com/TheDailyBitcoinShow
-The Moth https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1
-The Next Picture Show https://feeds.feedburner.com/themothpodcast
-The Numberphile Podcast https://feeds.megaphone.fm/nps
-The OWASP Podcast Series https://www.numberphile.com/podcast?format=rss
-The Penguin Podcast https://feeds.soundcloud.com/users/soundcloud:users:63303345/sounds.rss
-The Phileas Club https://feeds.acast.com/public/shows/d2a69c65-3300-4484-abcb-ea3e7d712478
-The Portal https://feeds.acast.com/public/shows/8ca878a6-58f8-4ad1-b61f-c144d8c04486
-The PowerShell News Podcast https://www.omnycontent.com/d/playlist/9b7dacdf-a925-4f95-84dc-ac46003451ff/1713c520-edb6-43a3-b1b9-acb8002fdae7/58e33a0c-f86b-41c5-a11c-acb8002fdaf5/podcast.rss
-The Privacy, Security, &amp; OSINT Show https://powershellnews.podbean.com/feed.xml
-The Python Podcast.__init__ https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
-The Q&amp;A with Jeff Goldsmith https://www.podcastinit.com/feed/mp3/
-The Random Show Podcast https://feeds.feedburner.com/TheQaWithJeffGoldsmith
-The Real Python Podcast http://www.squealingrat.org/random/feed/
-The Realignment https://realpython.com/podcasts/rpp/feed
-The Rewatchables https://feeds.simplecast.com/BaFYCGSi
-The Secrets of Mathematics https://feeds.megaphone.fm/the-rewatchables
-The Shared Security Show http://mediapub.it.ox.ac.uk/feeds/134618/video.xml
-The Social-Engineer Podcast https://sharedsecurity.net/feed/podcast/
-The Specialist https://socialengineer.libsyn.com/rss
-The Sporkful https://feeds.acast.com/public/shows/e579f841-8545-4b67-8420-0e3f76e18742
-The Tim Ferriss Show https://feeds.simplecast.com/n91GPFY5
-The Tobolowsky Files https://rss.art19.com/tim-ferriss-show
-The Truth https://feeds.simplecast.com/3m9JNpFU
-The United States of Anxiety http://feeds.thetruthpodcast.com/thetruthapm
-The University of Chicago Law School Faculty Podcast http://feeds.wnyc.org/unitedstatesofanxiety
-The Vergecast https://feeds.feedburner.com/UChicagoLawFacultyPodcast
-The WAN Show https://feeds.megaphone.fm/vergecast
-The Watercooler https://anchor.fm/s/3cbbb3b8/podcast/rss
-The WIRED Podcast http://ace.noxsolutions.com/podcast?categoryID2=327
-The Writers Panel https://feeds.megaphone.fm/the-wired-podcast
-Third Ear https://feeds.megaphone.fm/thewriterspanel
-This American Life https://thirdear.podbean.com/feed.xml
-This Developer's Life http://feed.thisamericanlife.org/talpodcast
-This Is Uncomfortable https://feeds.feedburner.com/ThisDevelopersLife
-This Week in Enterprise Tech (Audio) https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais
-This Week in Enterprise Tech (Video) https://feeds.twit.tv/twiet.xml
-This Week in Google (Video) https://feeds.twit.tv/twiet_video_hd.xml
-This Week in Linux https://feeds.twit.tv/twig_video_hd.xml
-This Week in Startups https://tuxdigital.com/feed/thisweekinlinux-mp3
-This Week in Startups - Video https://feeds.feedburner.com/twist-audio
-This Week in Tech (Video) http://feeds2.feedburner.com/twistvid
-Three Moves Ahead https://feeds.twit.tv/twit_video_hd.xml
-Topical http://www.idlethumbs.net/feeds/3ma
-Trailblazers with Walter Isaacson https://podcasts.jellystyle.com/topical/rss
-Transfert https://feeds.podcasts.dell.com/trailblazers
-Troldspejlet - podcast http://feeds.megaphone.fm/transfert
-Twenty Thousand Hertz https://www.dr.dk/mu/feed/troldspejlet-podcast.xml?format=podcast
-Two White Chicks in China: Live in China | Learn Chinese | Make Money in Asia | Shenzhen http://feeds.megaphone.fm/20k
-Under The Skin with Russell Brand https://www.writtenchinese.com/feed/podcast
-Undiscovered https://feeds.megaphone.fm/LM1344278906
-Undone https://feeds.feedburner.com/pri/undiscovered
-Unhappy Hour with Matt Bellassai https://feeds.megaphone.fm/undone
-Unregistered with Thaddeus Russell https://feeds.megaphone.fm/unhappy-hour-matt-bellassai
-Useful Idiots with Matt Taibbi and Katie Halper https://unregistered.blubrry.net/feed/podcast/
-Vector https://feeds.megaphone.fm/usefulidiots
-Verden ifølge Gram https://vector.libsyn.com/rss
-Very Bad Wizards https://www.dr.dk/mu/feed/verden-ifoelge-gram.xml?format=podcast&amp;limit=100
-Vidundergrunden https://feeds.fireside.fm/verybadwizards/rss
-Vince in the Bay Podcast https://www.dr.dk/mu/feed/vidundergrunden.xml?format=podcast
-Vox Conversations http://thesplashpage.com/VITB_podcast1.xml
-wach &amp; wichtig https://feeds.megaphone.fm/theezrakleinshow
-Waveform: The MKBHD Podcast https://www.radioeins.de/archiv/podcast/wachundwichtig.xml/feed=podcast.xml
-We Are Influencers https://feeds.megaphone.fm/STU4418364045
-We Have Concerns https://feeds.acast.com/public/shows/1c5dde9c-8aeb-470b-864c-5f4805e720a0
-Web Security Warriors https://feeds.simplecast.com/2V4dK4EE
-What Roman Mars Can Learn About Con Law https://feeds.feedwrench.com/websecwarriors.rss
-What's Tech? https://feeds.simplecast.com/jZLi00b4
-Who Are These Podcasts? https://feeds.megaphone.fm/whats-tech
-Why'd You Push That Button? https://watps.libsyn.com/rss
-Windows Central Podcast https://feeds.megaphone.fm/wyptb
-Windows Weekly (Video) https://windowscentral.libsyn.com/rss
-Women in Math: The Limit Does Not Exist https://feeds.twit.tv/ww_video_hd.xml
-WorkandTravel20.de - Der Weltreise Podcast über Reisen, Planung und Finanzierung einer Weltreise mit Michael Blömeke https://feeds.soundcloud.com/users/soundcloud:users:265080741/sounds.rss
-WTF with Marc Maron Podcast https://workandtravel20.libsyn.com/rss
-Y Combinator https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/8a755b22-8f72-4d44-8ff9-ab79013fda25/6b8a5068-9bea-439f-bd4d-ab79013fda2b/podcast.rss
-You Are Not So Smart http://feeds.backtracks.fm/feeds/ycombinator/ycombinator/feed.xml
-You're Wrong About https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/da047861-7121-4447-8ccb-ab1a00165c0e/337ad035-d2e9-4942-9e4d-ab1a00165c1c/podcast.rss
-Your Kickstarter Sucks https://feeds.buzzsprout.com/1112270.rss
-Your Undivided Attention https://feeds.acast.com/public/shows/5d137ece8b774eb816199f63
-一席YiXi https://feeds.simplecast.com/rZ0cYk12
-声东击西 http://www.ximalaya.com/album/242812.xml
-打個電話給你 One Call Away https://feeds.fireside.fm/shengdongjixi/rss
-故事 FM https://feeds.soundcloud.com/users/soundcloud:users:688207190/sounds.rss
-旅歐三小事 https://storyfm.cn/feed/episodes
-无业游民 The Unemployable https://open.firstory.me/rss/user/ck9b14iw550vv0873antkcq74
-日谈公园 https://theue.me/feed/podcast
-机核网 GADIO 游戏广播 http://www.ximalaya.com/album/5574153.xml
-疯投圈 http://feed.tangsuanradio.com/gadio.xml
-随机波动StochasticVolatility https://crazy.capital/feed
-馬力歐陪你喝一杯 https://feeds.fireside.fm/stovol/rss
+.NET Rocks!: https://feeds.feedburner.com/netRocksFullMp3Downloads
+《The Real Story》By 報導者: https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml
+/Film Daily: https://feeds.redcircle.com/2c557d25-e308-43fd-a875-b6ef76535c2b
+#EdChat Radio: https://www.bamradionetwork.com/feeds/Edchat.xml
+#GeekTalk Podcast - News: https://geektalk.ch/category/podcast/news-podcast/feed/
+100 % Berlin: https://www.rbb888.de/podcast/100ProzentBerlin.xml/feed=podcast.xml
+2 Bears, 1 Cave with Tom Segura &amp; Bert Kreischer: https://feeds.megaphone.fm/YMH8516456556
+2 Heures De Perdues: https://feed.ausha.co/Loa7srdWGm1b
+42 with Razzle Dangerously: https://todaywelearned.libsyn.com/rss
+50 Things That Made the Modern Economy: https://podcasts.files.bbci.co.uk/p04b1g3c.rss
+99% Invisible: https://feeds.simplecast.com/BqbsxVfO
+a16z Podcast: https://feeds.simplecast.com/JGE3yC0V
+Adrift with Geoff Lloyd and Annabel Port: https://feeds.acast.com/public/shows/c6d80f60-4ad1-4850-a231-628c674db178
+Affaires sensibles: https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_13940.xml
+AFLYTTET - i garagen: https://feeds.soundcloud.com/users/soundcloud:users:9572226/sounds.rss
+AI Engineering Podcast: https://serve.podhome.fm/rss/c9abdd38-a5dc-5eb2-96fd-f833f93208a7
+Akimbo: A Podcast from Seth Godin: https://feeds.acast.com/public/shows/07058b20-e537-4225-9c56-3adf0e2a669a
+Akkurat med Clement: https://api.dr.dk/podcasts/v1/feeds/akkurat-med-clement.xml?format=podcast
+Al Filo de la Realidad (Podcast): http://feeds2.feedburner.com/AlFiloDeLaRealidad
+All About Android (Video): https://feeds.twit.tv/aaa_video_hd.xml
+All In The Mind: https://www.abc.net.au/feeds/2888650/podcast.xml
+All Jupiter Broadcasting Shows: https://feed.jupiter.zone/allshows
+All the Books!: https://feeds.megaphone.fm/RNMG8904712943
+All-In with Chamath, Jason, Sacks &amp; Friedberg: https://allinchamathjason.libsyn.com/rss
+Always Take Notes: https://anchor.fm/s/281d5664/podcast/rss
+Analysis: https://podcasts.files.bbci.co.uk/b006r4vz.rss
+Android App Addicts - Podnutz: https://feeds.feedburner.com/androidappaddicts
+Android Central Podcast: https://androidcentral.libsyn.com/rss
+Android Developers Backstage: https://adbackstage.libsyn.com/rss
+Angeklickt: https://www1.wdr.de/mediathek/video/podcast/channel-angeklickt-100.podcast
+Åpen bok: https://podkast.nrk.no/program/bok_i_p2.rss
+AppStories: https://appstories.net/episodes/feed/
+Aria Code: https://feeds.simplecast.com/hiClsTmV
+ASCD  Learn  Teach  Lead Radio: https://www.bamradionetwork.com/feeds/ASCD.xml
+Ask Noah Show: https://feeds.fireside.fm/asknoah/rss
+Auf ein Bier von Gamespodcast.de: https://feeds.soundcloud.com/users/soundcloud:users:21436304/sounds.rss
+Aufwachen!: https://feed.aufwachen-podcast.de/iTunes
+b3c - DER MATHEPODCAST: https://b3c.podigee.io/feed/mp3
+Back to Work: https://feeds.fireside.fm/backtowork/rss
+Banking Information Security Podcast: https://www.bankinfosecurity.com/itunes_rss_podcasts.php
+Bear Grease: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8bc7753f-b108-49b7-915f-ae280065a716/dd773bcc-2806-4ab9-9e57-ae280065a75d/podcast.rss
+Bericht aus Berlin (1280x720): https://www.tagesschau.de/export/video-podcast/webxl/bab/
+Berlin direkt (VIDEO): https://www.zdf.de/rss/podcast/video/zdf/politik/berlin-direkt
+Best of the Spectator: https://audioboom.com/channels/4905579.rss
+Better Offline: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss
+Between Worlds: https://feeds.soundcloud.com/users/soundcloud:users:1241091/sounds.rss
+Biotech 2050 Podcast: https://feeds.soundcloud.com/users/soundcloud:users:703839116/sounds.rss
+Blue Moon: https://www.fritz.de/programm/sendungen/blue_moon.xml/feed=podcast.xml
+Bombshell: https://bombshell.libsyn.com/rss
+Book Riot - The Podcast: https://feeds.megaphone.fm/RNMG7301081241
+BorgenUdenFilter: https://feeds.simplecast.com/OvoXT1qQ
+BorgenUnplugged: https://feeds.soundcloud.com/users/soundcloud:users:154832827/sounds.rss
+Borgerlig Tabloid: https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/a8df889a-1ef0-40fd-94bb-af1e00cff416/89869564-4bca-4df0-bca3-af1e00d05284/podcast.rss
+Børsen brænder: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/a7b3af98-7e08-44ad-a6bb-b1cb00980d8c/a3f749bf-ae0b-45f0-8523-b1cb009ade4f/podcast.rss
+BrakeSec Education Podcast: https://brakeingsecurity.libsyn.com/rss
+Brave New Weed: https://feed.podbean.com/bravenewweed/feed.xml
+Breaking Math Podcast: https://feeds.zencastr.com/f/FisVYUQH.rss
+Brinkmanns briks: https://api.dr.dk/podcasts/v1/feeds/brinkmanns-briks.xml?format=podcast
+Byte Podcast: https://feedpress.me/Byte
+Ça Vient De Là: https://feeds.soundcloud.com/users/soundcloud:users:147878999/sounds.rss
+CaSE: Conversations about Software Engineering: https://www.case-podcast.org/feed/aac
+Cashflow Ninja: https://anchor.fm/s/f2254138/podcast/rss
+Chaosradio: https://chaosradio.de/feed/m4a
+Chapo Trap House: https://feeds.soundcloud.com/users/soundcloud:users:211911700/sounds.rss
+Chemistry in its element: https://chemistryinitselement.libsyn.com/rss
+China Business Cast: https://feeds.simplecast.com/WeHw_1yx
+China Tech Talk: https://feeds.simplecast.com/400uRY7l
+China Unscripted: https://chinaunscripted.libsyn.com/rss
+Christopher Kimball’s Milk Street Radio: https://publicfeeds.net/f/9135/feed-rss.xml
+ClandesTime: https://feeds.feedburner.com/ClandesTime
+Clear To Send: Wireless Network Engineering: https://www.cleartosend.net/feed/podcast/
+Code Switch: https://feeds.npr.org/510312/podcast.xml
+CodeNewbie: http://feeds.codenewbie.org/cnpodcast.xml
+Coder Radio: https://feeds.jupiterbroadcasting.com/coder
+Coding Blocks: https://www.codingblocks.net/podcast-feed.xml
+Cold Call: http://feeds.harvardbusiness.org/harvardbusiness/cold-call
+Comedy of the Week: https://podcasts.files.bbci.co.uk/p02pc9x6.rss
+Command Line Heroes: https://feeds.simplecast.com/vUHP7wpf
+Common Sense with Dan Carlin: https://feeds.feedburner.com/dancarlin/commonsense?format=xml
+COMPLEXITY: https://feeds.simplecast.com/OzDH_At2
+Computer und Kommunikation: https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml
+Conclusiones: https://feeds.megaphone.fm/WMHY7152026350
+Containers: https://feeds.megaphone.fm/PPY8156500299
+Conversations with Tyler: https://cowenconvos.libsyn.com/rss
+Cool Tools: https://feedpress.me/cooltoolsshow
+Cordkillers (All Video): https://feeds.feedburner.com/VideoCordkillersPodcast
+Cordua &amp; Steno: https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/11be95b1-c60a-4309-9373-ad0800af350b/dc38aa15-5fbc-4e99-b066-ad0800af351d/podcast.rss
+core.py: https://anchor.fm/s/eb6edc3c/podcast/rss
+Crazy/Genius: https://feeds.megaphone.fm/crazygenius
+CRE: Technik, Kultur, Gesellschaft: https://feeds.metaebene.me/cre/mp3
+Criminal: https://feeds.megaphone.fm/VMP7924981569
+Crypto-Gram Security Podcast: https://crypto-gram.libsyn.com/rss
+Culture Kings: https://feeds.simplecast.com/w5jNkCr8
+Curious Cases: https://podcasts.files.bbci.co.uk/b07dx75g.rss
+CyberWire Daily: https://rss.pdrl.fm/85df76/feeds.megaphone.fm/cyberwire-daily-podcast
+Daily Tech Headlines: http://rss.acast.com/dth
+Daily Tech News Show (VIDEO): https://feeds.feedburner.com/daily_tech_news_show
+Damerne først: https://api.dr.dk/podcasts/v1/feeds/damerne-foerst.xml?format=podcast
+Damn Fine Podcast - A Twin Peaks Podcast: https://feeds.feedburner.com/damnfinepodcast/qpYn
+Dan Carlin's Hardcore History: https://feeds.feedburner.com/dancarlin/history?format=xml
+Dan Carlin's Hardcore History: Addendum: https://dchhaddendum.libsyn.com/rss
+DarkHorse Podcast: https://feeds.buzzsprout.com/424075.rss
+Data Engineering Podcast: https://serve.podhome.fm/rss/1c0357c0-6aba-5766-a2d5-2090d8dab6bc
+Data Skeptic: https://dataskeptic.libsyn.com/rss
+Data Stories: https://datastori.es/feed/podcast/
+Data Viz Today: https://dataviztoday.libsyn.com/rss
+DataFramed: https://feeds.captivate.fm/dataframed/
+De hemmelige aktionærer: https://api.dr.dk/podcasts/v1/feeds/de-hemmelige-aktionaerer.xml?format=podcast
+Decoder with Nilay Patel: https://feeds.megaphone.fm/recodedecode
+defn: https://feeds.zencastr.com/f/8BBgc1Lp.rss
+Den Nordiske Odyssé: https://api.dr.dk/podcasts/v1/feeds/den-nordiske-odysse.xml?format=podcast
+Der Panzerknacker - DER Finanz Podcast von Markus Habermehl: https://panzerknacker.libsyn.com/rss
+Desert Island Discs: https://podcasts.files.bbci.co.uk/b006qnmr.rss
+Design Matters with Debbie Millman: https://feeds.acast.com/public/shows/67572f5f7205a5bc68e9792a
+Det Hemmeligste Af Det Hemmelige: https://www.spreaker.com/show/5326314/episodes/feed
+DHUnplugged Podcast: https://www.dhunplugged.com/feed/podcast/
+DIE ZEIT: Hinter der Geschichte: https://feeds.simplecast.com/o3Geakg2
+Digital Forensic Survival Podcast: https://digitalforensicsurvivalpodcast.libsyn.com/rss
+Displaced: https://feeds.megaphone.fm/displaced
+Disruption: https://www.relay.fm/disruption/feed
+Distillations | Science History Institute: https://chemheritage.libsyn.com/rss
+DLC: https://audioboom.com/channels/5104635.rss
+Dlf Doku: https://www.hoerspielundfeature.de/das-feature-104.xml
+Do By Friday: https://feeds.simplecast.com/5nKJV82u
+Down the Security Rabbithole Podcast (DtSR): https://feeds.buzzsprout.com/2153215.rss
+Download: https://www.relay.fm/download/feed
+Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern: https://proxyfeed.svmaudio.com/feeds/easygerman/feed.xml
+Ekko: https://podkast.nrk.no/program/ekko_-_et_aktuelt_samfunnsprogram.rss
+Elbilsveckan: https://feeds.acast.com/public/shows/6ec1ff9b-7486-411a-8d0d-edb10d125ec3
+Eliten fra Rosenørns Alle: https://api.dr.dk/podcasts/v1/feeds/eliten-fra-rosenoerns-alle.xml?format=podcast
+Elixir Talk: https://feeds.soundcloud.com/users/soundcloud:users:334579745/sounds.rss
+Embedded: https://makingembeddedsystems.libsyn.com/rss
+Endless Thread: https://rss.wbur.org/endlessthread/podcast
+Energy Intelligence: https://feed.podbean.com/energyintelwebinars/feed.xml
+Engineering and Leadership Podcast: https://www.engineeringandleadership.com/feed/podcast/
+Enter - Internettets skygge: https://api.dr.dk/podcasts/v1/feeds/enter-internettets-skygge.xml?format=podcast
+Entiende Tu Mente: https://www.spreaker.com/show/2630773/episodes/feed
+Entrepreneur Mastermind Podcast: https://entreprogrammers.libsyn.com/rss
+Es Salud: https://esradio.libertaddigital.com/es-salud/podcast.xml
+Essay und Diskurs: https://www.deutschlandfunk.de/essay-und-diskurs-102.xml
+Europæiske Ideer: https://europaeiskeideer.podbean.com/feed.xml
+Eventual Millionaire Podcast: https://eventualmillionaire.libsyn.com/rss
+Everything is Alive: https://feeds.feedburner.com/everythingisalive
+Fallo de sistema: http://api.rtve.es/api/programas/46690/audios.rss
+FARSIGHT: https://anchor.fm/s/df4fcb14/podcast/rss
+Filmpolitiets podkast: https://podkast.nrk.no/program/filmpolitiet.rss
+Filosofiska rummet: https://api.sr.se/api/rss/pod/itunes/3963
+FLOSS Weekly (Video): https://feeds.twit.tv/floss_video_hd.xml
+Flying Solo: https://feed.podbean.com/flyingsolose/feed.xml
+Fokus: https://api.dr.dk/podcasts/v1/feeds/fokus.xml?format=podcast
+Forensic Transmissions: https://mikitabrottman.com/feed/podcast/
+Foundering: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss
+Founders Talk: Startups, CEOs, Leadership: https://changelog.com/founderstalk/feed
+Fragmented - Android Developer Podcast: https://feeds.simplecast.com/LpAGSLnY
+Freakonomics Radio: https://feeds.simplecast.com/Y8lFbOT4
+Fremtidsministeriet: https://anchor.fm/s/dbed75d4/podcast/rss
+Fresh Air: https://feeds.npr.org/381444908/podcast.xml
+From the New World: https://www.fromthenew.world/feed
+Frontlinjen: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/26a394b6-bb29-44cb-86ae-ad4800e68f25/53456d7d-3279-4ec3-916e-ad4800e68f2e/podcast.rss
+FT Tech Tonic: https://feeds.acast.com/public/shows/125ef5a6-6c61-4024-b70e-3487a971a26c
+Full Stack Journey - Packet Pushers: https://feeds.packetpushers.net/fullstackjourney/
+Function with Anil Dash: https://feeds.megaphone.fm/function
+Functional Design in Clojure: https://clojuredesign.club/index.xml
+Futuremakers: https://audioboom.com/channels/4973983.rss
+Game Over, el programa sobre videojuegos más veterano.: https://feeds.feedburner.com/portalgameover
+Gamefully Unemployed: https://feeds.soundcloud.com/users/soundcloud:users:395741505/sounds.rss
+GEEKWEEK.DE - Aus San Francisco: https://www.geekweek.de/feed.xml
+Genau: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/46360733-232a-4a5a-8919-ad4800e68f41/dbfe1158-1fd6-474c-a45f-ad4800e68f4a/podcast.rss
+GenreVision: https://thedrewreviews.libsyn.com/rss
+Genstart: https://api.dr.dk/podcasts/v1/feeds/genstart.xml?format=podcast
+Getting Things Done: https://gettingthingsdone.libsyn.com/rss
+Ghibliotheque - A Podcast About Animation and Studio Ghibli: https://access.acast.com/rss/611e92fc06c05e0accf40b30
+Giant Bombcast: https://www.giantbomb.com/podcast-xml/giant-bombcast/
+Giant Robots Smashing Into Other Giant Robots: https://feeds.fireside.fm/giantrobots/rss
+Girlboss Radio: https://feeds.megaphone.fm/girlbossradio
+Global From Asia Podcast: https://www.globalfromasia.com/category/podcast/feed/
+Go Time: Golang, Software Engineering: https://changelog.com/gotime/feed
+Google DeepMind: The Podcast: https://feeds.simplecast.com/JT6pbPkg
+Great Night Video Feed: https://greatnight.tv/feed/video
+Grownups Read Things They Wrote as Kids: https://feeds.grownupsreadthingstheywroteaskids.com/podcast
+Guld og grønne skove: https://api.dr.dk/podcasts/v1/feeds/guld-og-groenne-skove.xml?format=podcast
+Hablando de Tecnología con Orlando Mergal | Podcast En Español | Puerto Rico | Discusión inteligente Una Vez Por Semana: http://www.hablandodetecnologia.com/feed/podcast/
+Hackaday Podcast: https://hackaday.libsyn.com/rss
+Hacker Daily: https://pinecast.com/feed/hacker-daily
+Hacker Public Radio: https://hackerpublicradio.org/hpr_rss.php
+Hanselminutes with Scott Hanselman: https://feeds.simplecast.com/gvtxUiIf
+happy, holy &amp;amp; confident® Dein Podcast fürs Herz und den Verstand: https://anchor.fm/s/dd11f458/podcast/rss
+Hard Fork: https://feeds.simplecast.com/6HKOhNgS
+HBR IdeaCast: http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+Health Via Modern Nutrition with Dr. Latt Mansor: https://thinkingpodcast.libsyn.com/rss
+Heavy Networking: https://feeds.packetpushers.net/PacketPushersWeeklyPodcast
+Hele historien: https://podkast.nrk.no/program/hele_historien.rss
+Hello Internet: http://www.hellointernet.fm/podcast?format=rss
+Herding Code: https://feeds.feedburner.com/herdingcode
+Hi-Phi Nation: https://feeds.megaphone.fm/hiphination
+Hidden Brain: https://feeds.simplecast.com/kwWc0lhf
+Hidden Forces: https://hiddenforces.libsyn.com/rss
+Highly Optimized: https://feeds.buzzsprout.com/862555.rss
+HistoCast: https://feeds.feedburner.com/histocast
+Historier fra virkeligheten: https://podkast.nrk.no/program/radiodokumentaren.rss
+Hondelatte Raconte - Christophe Hondelatte: https://feeds.audiomeans.fr/feed/7773697e-dd5d-4650-808b-158712520883.xml
+Hörbar Rust: https://hoerbar-rust-radioeins-rbbm.podigee.io/feed/mp3
+Hot Money: The New Narcos: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss
+Hotboxin' With Mike Tyson: https://feeds.libsyn.com/480678/rss
+How to Fix the Internet: https://feeds.eff.org/howtofixtheinternet
+How to Lose Money: https://howtolosemoney.libsyn.com/rss
+Huberman Lab: https://feeds.megaphone.fm/hubermanlab
+In Our Time: https://podcasts.files.bbci.co.uk/b006qykl.rss
+In the Studio: https://podcasts.files.bbci.co.uk/p05c17wy.rss
+Indie Hackers: https://feeds.transistor.fm/the-indie-hackers-podcast
+Ingen kommentarer: https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/d9f966dd-2ae3-4351-8282-b111007f8c9a/5e47dc65-0b45-43ea-9b94-b111007f8f2b/podcast.rss
+Inside the Strategy Room: https://www.omnycontent.com/d/playlist/708664bd-6843-4623-8066-aede00ce0c8a/a7ee33f2-d500-4226-b99c-af04013945d6/36587f70-89f9-4631-ac19-af04013945e0/podcast.rss
+Intelligence Squared: https://feeds.megaphone.fm/NSR6363847171
+Intelligent Machines (Video): https://feeds.twit.tv/twig_video_hd.xml
+Interview der Woche: https://www.deutschlandfunk.de/interview-der-woche-102.xml
+Invisibilia: https://feeds.npr.org/510307/podcast.xml
+IRL: Online Life is Real Life: https://feeds.simplecast.com/lP7owBq8
+Iron Sysadmin Podcast: https://ironsysadmin.libsyn.com/rss
+It's A Thing: https://feeds.acast.com/public/shows/7f7c57dd-db5b-4209-b1d7-9e934ca4a861
+Jocko Podcast: https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+Judge John Hodgman: https://feeds.simplecast.com/q8x9cVws
+JuRY: https://feeds.feedburner.com/jurytalks/ldKY
+K-Live: https://api.dr.dk/podcasts/v1/feeds/kulturen-pa-p1.xml?format=podcast
+Kampagnesporet: https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/30c6307d-3d45-480a-b104-b118008dde17/7ac091a9-3203-47ef-8491-b118008dde38/podcast.rss
+Klog på Sprog: https://api.dr.dk/podcasts/v1/feeds/klog-pa-sprog.xml?format=podcast
+Konflikt: https://api.sr.se/api/rss/pod/itunes/3967
+Krimiland: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/14a56dcd-916d-49f6-9f69-ad4800e69178/132a6534-d359-4aa6-977b-ad4800e69182/podcast.rss
+L'Heure Du Crime: https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml
+La Poudre: https://feeds.audiomeans.fr/feed/f421f90d-cee9-47c4-9105-bca8e46fe952.xml
+Lage der Nation - der Politik-Podcast aus Berlin: https://feeds.lagedernation.org/feeds/ldn-mp3.xml
+Land of the Giants: https://feeds.megaphone.fm/landofthegiants
+Le Cours de l'histoire: https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_10076.xml
+Le masque et la plume: https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14007.xml
+Le rendez-vous Tech: https://feedpress.me/rdvtech
+Le Show: https://www.wwno.org/podcast/le-show/rss.xml
+Learn Chinese | ChineseClass101.com: https://www.chineseclass101.com/wp-feed-audio-video.php
+Learn to Code With Me: https://learntocodewithme.libsyn.com/rss
+Les Gentilshommes: https://feeds.acast.com/public/shows/8e09f3b5-d4e2-4486-a690-e861898033fa
+LeVar Burton Reads: https://feeds.simplecast.com/LDNgBXht
+Lex Fridman Podcast: https://lexfridman.com/feed/podcast/
+Linear Digressions: https://feeds.feedburner.com/udacity-linear-digressions?format=xml
+Linux Action News: https://feeds.fireside.fm/linuxactionnews/rss
+Linux in the Ham Shack: https://lhspodcast.info/category/podcast-mp3/feed/
+Literary Disco: https://feeds.feedburner.com/literarydisco
+Little Atoms: https://feeds.acast.com/public/shows/b5fe8d16-7518-4208-861b-e1ec5ce88192
+Lobo – Der Debatten-Podcast: https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/008f004b-055e-4e0c-9fd0-abc000ffb04a/3b93bc3f-52cb-4a3b-91ef-abc000ffb053/podcast.rss
+LOOTEN &amp; LEVELN: https://www.rocketbeans.tv/podcasts/lootenleveln.xml
+Lore: https://feeds.libsyn.com/65267/rss
+Lovett or Leave It: https://feeds.simplecast.com/pdSmCK46
+Lucid Dreaming - Conversations on Cinema, Art and Moving Image: https://anchor.fm/s/246429e4/podcast/rss
+Lykkeberg og Corydon: https://feed.podbean.com/corydon/feed.xml
+Lyssky: https://api.dr.dk/podcasts/v1/feeds/lyssky.xml?format=podcast
+Machine Learning Street Talk (MLST): https://anchor.fm/s/1e4a0eac/podcast/rss
+Make No Law: The First Amendment Podcast: https://feeds.megaphone.fm/LTN4153488764
+Marketing Smarts from MarketingProfs: https://www.marketingprofs.com/feeds/rss/podcasts/all.xml
+Marketplace Tech: https://www.marketplace.org/feed/podcast/marketplace-tech
+Martial Arts Media™ Business Podcast: https://feeds.captivate.fm/martialartsmedia/
+Materialism: A Materials Science Podcast: https://pinecast.com/feed/materialism
+Math &amp; Magic: Stories from the Frontiers of Marketing with Bob Pittman: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1dc8e179-7be7-43b3-96bd-ae320081d9ff/718ab1ad-4882-4192-b532-ae320081da1b/podcast.rss
+Mathematical Objects: https://aperiodical.com/category/main/podcasts/mathematical-objects/feed/?redirect=no
+Mathematics Simplified: https://anchor.fm/s/206763ec/podcast/rss
+Maths on the Move: http://plus.maths.org/content/podcast-feed/rss.xml
+Medium Playback: https://feeds.simplecast.com/LNvxlxLx
+Mere Rhetoric: https://mererhetoric.libsyn.com/rss
+Mine levende råd: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/190a1fa1-3cbe-4949-a71d-b25f00933ed1/ce9d7731-6de7-45f7-b44d-b25f0093423e/podcast.rss
+Mixed Mental Arts: https://mixedmentalarts.libsyn.com/rss
+Mobile Tech Podcast with tnkgrl Myriam Joire: https://feeds.simplecast.com/D6WO3ndr
+Mobycast: https://feeds.transistor.fm/mobycast
+Moe Factz with Adam Curry: http://feed.nashownotes.com/mfrss.xml
+Mogul: https://feeds.megaphone.fm/mogul
+Monocle on Design: https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/0fccd071-0f91-49e2-80e0-ab8a0121089e/29beb406-a8dd-446c-80d0-ab8a012108a3/podcast.rss
+Moonshot: https://feeds.lawson.media/moonshot
+More or Less: Behind the Stats: https://podcasts.files.bbci.co.uk/p02nrss1.rss
+Most Useful Podcast Ever: https://feeds.megaphone.fm/mupe
+Moving at the Speed of Creativity Podcasts: https://feeds.feedburner.com/speedofcreativity/podcasts
+My Favorite Theorem: https://kpknudson.com/my-favorite-theorem?format=rss
+Mysteries Abound: https://app.talkshoe.com/rss-mysteries-abound.xml
+Mystery Show: https://feeds.megaphone.fm/mysteryshow
+Myths and Legends: https://audioboom.com/channels/5094626.rss
+Nadie Sabe Nada: https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml
+Nasjonal sikkerhetsmyndighet (NSM): https://feeds.soundcloud.com/users/soundcloud:users:466268865/sounds.rss
+NDA: Geschichten, die nicht erzählt werden sollen: https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/78026ed4-a536-4f9e-b741-b12d00c83dc7/3fd53ec0-ae17-4264-8ddc-b12d00c9e9c2/podcast.rss
+Nerd Forensics: https://anchor.fm/s/419c1738/podcast/rss
+New Books in History: https://feeds.megaphone.fm/LIT3360275696
+New Books in Mathematics: https://feeds.megaphone.fm/LIT8989774512
+New Books in Middle Eastern Studies: https://feeds.megaphone.fm/LIT1877366845
+New Books in Science: https://feeds.megaphone.fm/LIT2591788808
+New Rustacean: https://newrustacean.com/feed.xml
+New Scientist Podcasts: https://feeds.megaphone.fm/ARML6831509338
+News in Slow French: https://nsf.libsyn.com/rss
+News Roast: https://audioboom.com/channels/4901871.rss
+Nintendo Power Podcast: http://podcast.nintendopower.com/feed.xml
+Nir And Far: Business, Behaviour and the Brain: https://anchor.fm/s/bcc500/podcast/rss
+No Agenda Show: https://feeds.noagendaassets.com/noagenda.xml
+No Such Thing As A Fish: https://audioboom.com/channels/2399216.rss
+NoLimitSecu: https://www.nolimitsecu.fr/feed/podcast/
+Nómadas: https://www.rtve.es/api/adapter/programas/23730/audios.rss
+Non Breaking Space Show: https://goodstuff.network/nbsp/feed.xml
+Norsken, svensken og dansken: https://api.dr.dk/podcasts/v1/feeds/norsken-svensken-og-dansken.xml?format=podcast
+Not So Standard Deviations: https://nssdeviations.libsyn.com/rss
+Note to Self: https://feeds.simplecast.com/DM6Z9TeF
+Notes from America with Kai Wright: https://feeds.simplecast.com/cUAB56sw
+O'Reilly Programming Podcast - O'Reilly Media Podcast: https://cdn.oreillystatic.com/radar/oreilly-programming-podcast/feed.rss
+Odd Lots: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss
+Off The Hook: https://www.2600.com/oth-broadband.xml
+Off/On – der Podcast von netzpolitik.org – netzpolitik.org: https://netzpolitik.org/category/netzpolitik-podcast/feed/
+Ohhh! TV Podcast: https://sons.red/podcast/ohhh-tv-podcast/feed/
+Omnibus: https://audioboom.com/channels/5127257.rss
+Open Source Security: https://opensourcesecuritypodcast.libsyn.com/rss
+Open Source with Christopher Lydon: https://radioopensource.org/feed/podcast/
+Open to Debate: https://feeds.megaphone.fm/PNP1207584390
+Our Fake History: https://rss.art19.com/our-fake-history
+Over the Road: https://feed.overtheroad.fm/
+Overdue: https://rss.art19.com/overdue
+Overthink: https://feeds.buzzsprout.com/1455199.rss
+P1 Debat: https://api.dr.dk/podcasts/v1/feeds/p1-debat.xml?format=podcast&amp;limit=500
+P1 Dokumentär: https://api.sr.se/api/rss/pod/itunes/4013
+P1 Morgen: https://api.dr.dk/podcasts/v1/feeds/p1-morgen.xml?format=podcast&amp;limit=100
+P3 Dokumentär: https://api.sr.se/api/rss/pod/itunes/3966
+Packet Pushers - Priority Queue: https://feeds.packetpushers.net/PriorityQueue/
+Part-Time Genius: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3330cb46-e122-4797-bc0c-ae32006cd1f8/bcfb0fa6-e85d-4c5f-a52f-ae32006cd206/podcast.rss
+Partially Derivative: https://feeds.feedburner.com/PartiallyDerivative
+Patterson in Pursuit: https://api.substack.com/feed/podcast/1219659.rss
+Pengeland: https://www.spreaker.com/show/1304456/episodes/feed
+Pengesnakk: https://www.omnycontent.com/d/playlist/d79bdbb3-8eae-4ad2-b1f6-b0bc00cd1540/55801ec8-b1ca-4294-a791-b109009297da/d11929d0-267e-4ede-b18b-b109009297f6/podcast.rss
+Pentacast: https://www.c3d2.de/pentacast.xml
+Pentaradio: https://www.c3d2.de/pentaradio.xml
+People Behind the Science Podcast Stories from Scientists about Science, Life, Research, and Science Careers: https://peoplebehindthescience.libsyn.com/rss
+Perpetual Traffic: https://feeds.captivate.fm/perpetual-traffic/
+Philosophize This!: https://feeds.megaphone.fm/QCD6036500916
+Physics Frontiers: https://physicsfrontiers-rantschler.podomatic.com/rss2.xml
+Physics World Stories Podcast: https://physicsworld.com/feed/podcast/
+Pi ist genau 3: https://pi-ist-genau-3.de/feed/mp3/
+Pixels: https://feeds.acast.com/public/shows/1b1bc64d-1602-417c-be04-b7fa4f7ccf0f
+Planet Money: https://feeds.npr.org/510289/podcast.xml
+Pluralistic: Daily links from Cory Doctorow: https://pluralistic.net/feed/
+pluspluspodcast: https://feeds.acast.com/public/shows/7229e56a-60cd-4607-90c0-dd6d3632e742
+Pocketnow Weekly Podcast: https://feeds.captivate.fm/pocketnow/
+Pod Save America: https://feeds.simplecast.com/dxZsm5kX
+Podcast – Cory Doctorow's craphound.com: https://craphound.com/feed/doctorow_podcast
+Podcasts – Weird Things: https://feeds.feedburner.com/WeirdThingsPodcast
+Poetry Unbound: https://feeds.simplecast.com/p9JRgDEG
+Point of Inquiry: https://pointofinquiry.libsyn.com/rss
+Politics Politics Politics: https://api.substack.com/feed/podcast/3108447/s/155197.rss
+PRETEND: https://feeds.megaphone.fm/ADV1293150108
+Product Startup: https://feeds.podcastmirror.com/product-startup
+Programming Electronics Academy Podcast: https://programmingelectronics.libsyn.com/rss
+Programming Throwdown: https://feeds.transistor.fm/programming-throwdown
+Prompt: https://api.dr.dk/podcasts/v1/feeds/prompt.xml?format=podcast
+Psychology of Video Games Podcast: https://www.spreaker.com/show/3329893/episodes/feed
+Python Bytes: https://pythonbytes.fm/episodes/rss
+Python on Hardware: http://adafruit-podcasts.s3.amazonaws.com/python_on_hardware/podcast.xml
+Python People: https://feeds.transistor.fm/python-people
+Python Podcast: https://python-podcast.de/show/feed/podcast/m4a/rss.xml
+Q&amp;CO på B.T.: https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/9bb41e53-28fa-4a3d-899b-ad0800ae3d37/00ad7c08-8a51-46d7-8e8f-ad0800ae3d41/podcast.rss
+Rabbits: https://rabbits.libsyn.com/rss
+Rachel Maddow Presents: Ultra: https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra
+Radio Ambulante: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/092b66a8-4329-4183-bb12-b1e7012d216f/podcast.rss
+Radio Information: https://radioinformation.podbean.com/feed.xml
+Radioklassikeren: https://api.dr.dk/podcasts/v1/feeds/radioklassikeren.xml?format=podcast&amp;limit=100
+Radiolab: https://feeds.simplecast.com/EmVW7VGp
+radioWissen: https://feeds.br.de/radiowissen/feed.xml
+RÆSON - dansk og international politik: https://feeds.soundcloud.com/users/soundcloud:users:271528940/sounds.rss
+Rational Security: https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d
+Reading Glasses: https://feeds.simplecast.com/SMcNunjG
+RedScare: https://www.patreon.com/rss/RedScare?auth=_oJCTYjC-DU3qBy1N8sbhyF7289ix2c8
+Relatively Prime: Stories from the Mathematical Domain: https://feeds.feedburner.com/relprime
+Rendez-vous avec X: https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14726.xml
+Reply All: https://feeds.megaphone.fm/replyall
+Resound Podcast: https://feeds.feedburner.com/resoundchurchpodcast
+Retroist Retro Podcast: https://feed.podbean.com/retroist/feed.xml
+Revisionist History: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss
+Rhetoricity: https://rhetoricity.libsyn.com/rss
+Risky Business: https://risky.biz/feeds/risky-business/
+Roderick on the Line: HTTP://feeds.feedburner.com/RoderickOnTheLine
+Rust Belt Startup: https://rustbeltstartup.com/feed/podcast/
+Rust Game Dev: https://feeds.simplecast.com/C6NQglnL
+Rustacean Station: https://rustacean-station.org/podcast.rss
+Säkerhetspodcasten: https://sakerhetspodcasten.libsyn.com/rss
+Savvy Painter Podcast with Antrese Wood: https://feeds.buzzsprout.com/2424109.rss
+Science Vs: https://feeds.megaphone.fm/sciencevs
+Science Weekly: https://www.theguardian.com/science/series/science/podcast.xml
+Security Now (Audio): https://feeds.twit.tv/sn.xml
+Security Now (Video): https://feeds.twit.tv/sn_video_hd.xml
+Selfie: https://feeds.podcastmirror.com/selfie
+Serial: https://feeds.simplecast.com/xl36XBC2
+Seriously...: https://podcasts.files.bbci.co.uk/p02pc9qx.rss
+Shared Security Podcast: https://sharedsecurity.net/feed/podcast/
+Show Me Your Mic: https://goodstuff.network/smym/feed.xml
+Side Hustle School: https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/938adda7-7996-48c0-af83-b248016bcac9/b3d91cd9-913b-495c-9dc4-b248016bcadd/podcast.rss
+Sidedoor: http://feeds.si.edu/SmithsonianSidedoor
+Sig det' løgn: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/5dc13326-10a9-4001-a42a-ae89005d1415/ec5db2e9-c7c2-4115-b6a7-ae89005efd15/podcast.rss
+Siglo 21: http://api.rtve.es/api/programas/2082/audios.rss
+Simon Mayo's Books Of The Year: https://feeds.megaphone.fm/AUDD1666051198
+Sincerely, X: https://feeds.feedburner.com/SincerelyX
+SinnSyn: https://access.acast.com/rss/5b9e7ed2f1badce55455ddad/
+Skønlitteratur: https://api.dr.dk/podcasts/v1/feeds/skoenlitteratur-pa-p1.xml?format=podcast&amp;limit=100
+Skyggeflåden: https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/b130448d-441f-4e21-8f01-b25d0088b413/412c521a-0198-44c4-87b2-b25d0088b4f8/podcast.rss
+Slate Debates: https://feeds.megaphone.fm/slatelexiconvalley
+Slavoj Žižek - Collected Recordings: http://zizekpodcast.com/category/zizek/feed/
+Småt Brændbart: https://feeds.simplecast.com/k6_NKTGD
+Snap Judgment: https://snap.feed.snapjudgment.org
+Software Engineering Radio - the podcast for professional software developers: https://seradio.libsyn.com/rss
+Song Exploder: https://feed.songexploder.net/SongExploder
+Sorte tal: https://api.dr.dk/podcasts/v1/feeds/foelg-pengene.xml?format=podcast
+Sound of Cinema: https://podcasts.files.bbci.co.uk/b03bzf92.rss
+Sound School Podcast: http://feeds.prx.org/HowSound
+Source Code Berlin archive: https://fourble.co.uk/scb-211110-7.rss
+Spirits: Mythology, Legends, &amp; Folklore: https://rss.art19.com/spirits
+Språket: https://api.sr.se/api/rss/pod/itunes/46690
+Språksnakk: https://podkast.nrk.no/program/spraakteigen.rss
+Stafetten med Clement: https://api.dr.dk/podcasts/v1/feeds/clement-pa-p1-p1d.xml?format=podcast
+Stay Tuned with Preet: https://feeds.megaphone.fm/VMP5489734702
+Stegelcast: https://stegelcast.libsyn.com/rss
+Stephen Fry's 7 Deadly Sins: https://feeds.acast.com/public/shows/c5991091-ef9c-4c8c-905c-4f66968ff6bd
+Stereo Chemistry: https://stereochemistry.libsyn.com/rss
+Store Penge: https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/3fbe8edc-3bc4-464e-9bcf-b11100854baf/077d3658-064a-4a8d-8f3d-b11100854dff/podcast.rss
+Stuff Mom Never Told You: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29ee4014-65ab-4d60-812e-ae4c00549b7f/3889a49b-3697-48af-9765-ae4c00549b97/podcast.rss
+Stuff To Blow Your Mind: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss
+Stuff You Missed in History Class: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+Stuff You Should Know: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss
+Super Data Science: ML &amp; AI Podcast with Jon Krohn: https://feeds.megaphone.fm/SUPERDATASCIENCEPTYLTD9836501887
+Supertanker: https://api.dr.dk/podcasts/v1/feeds/supertanker.xml?format=podcast
+Switched On: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/01a10738-3608-4dec-883c-ae3c00026b36/6d114f63-833d-4b78-bbf5-ae3c00026b44/podcast.rss
+Tabloid: https://api.dr.dk/podcasts/v1/feeds/tabloid-3.xml?format=podcast
+tagesschau: https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-video-100~podcast.xml
+Talk Nerdy with Cara Santa Maria: https://www.spreaker.com/show/4530061/episodes/feed
+Talk Python To Me: https://talkpython.fm/episodes/rss
+Talking Biotech with Dr. Kevin Folta: https://feeds.transistor.fm/talking-biotech
+Teaching Math Teaching Podcast: https://feeds.fireside.fm/tmt/rss
+Teaching Python: https://feeds.fireside.fm/teachingpython/rss
+Team Human: https://access.acast.com/rss/58ad887a1608b1752663b04a
+Tech Life: https://podcasts.files.bbci.co.uk/p01plr2p.rss
+Tech Policy Podcast: https://feeds.simplecast.com/WSi6AvnS
+Tech Stories from HackerNoon: https://feed.podbean.com/podcast.hackernoon.com/feed.xml
+Tech's Message: https://feeds.acast.com/public/shows/935be082-c794-4143-9f66-179c9d665333
+TechTopia: https://tv.ida.dk/audiopodcast?album%5fid=16944635
+TED Radio Hour: https://feeds.npr.org/510298/podcast.xml
+Teknologimagasinet Aftenposten: https://podcast.stream.schibsted.media/ap/100186?podcast
+Test &amp; Code: https://feeds.transistor.fm/test-and-code
+The AEC Leadership Podcast: https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+The All Turtles Podcast: https://allturtles.libsyn.com/rss
+The Allusionist: https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss
+The Anthropocene Reviewed: https://feeds.simplecast.com/p7S4nr_h
+The Art of Manliness: https://feeds.simplecast.com/azy33G8_
+The Art of Mathematics: https://anchor.fm/s/2da99340/podcast/rss
+The Art of Online Business: https://feeds.buzzsprout.com/1866710.rss
+The Audio Long Read: https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml
+The Big Rhetorical Podcast: https://anchor.fm/s/d4f5d28/podcast/rss
+The Bitcoin Standard Podcast: https://feeds.buzzsprout.com/1849151.rss
+The Blacklist Exposed: https://theblacklist.libsyn.com/rss
+The Book Review: https://feeds.simplecast.com/zyaxg_KL
+The Brothers Karamazov by Fyodor Dostoyevsky: http://www.loyalbooks.com/book/Brothers-Karamazov/feed
+The Bugle: https://rss.pdrl.fm/955b43/feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607
+The Business: https://feed.cdnstream1.com/zjb/feed/download/34/5c/36/345c36a7-a587-4220-8c3e-bba344564908.xml
+The Cartesian Cafe: https://feed.podbean.com/cartesiancafe/feed.xml
+The Changelog: Software Development, Open Source: https://changelog.com/podcast/feed
+The Civil Engineering Podcast: https://engineeringmanagementinstitute.org/category/cep-podcast/feed/
+The Cult of Pedagogy Podcast: https://cultofpedagogy.libsyn.com/rss
+The Daily: https://feeds.simplecast.com/Sl5CSM3S
+The Digital Human: https://podcasts.files.bbci.co.uk/b01n7094.rss
+The Disciplined Investor: https://feeds.feedburner.com/tdicasts
+The Documentary Podcast: https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+The Dream: https://feeds.acast.com/public/shows/6658b69029c9180011547e68
+The Edge: https://feeds.soundcloud.com/users/soundcloud:users:562785240/sounds.rss
+The Emerald: https://feeds.buzzsprout.com/317042.rss
+The EntreLeadership Podcast: https://feeds.megaphone.fm/RM6855404952
+The Entrepreneurs: https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/bbd0c3e8-b286-4cad-be8c-a94400ec34c5/077fda1a-01f4-4749-a638-a94400ec34d3/podcast.rss
+The Eric Normand Podcast: https://feeds.transistor.fm/thoughts-on-functional-programming-podcast-by-eric-normand
+The Evolution of Horror: https://evolutionofhorror.libsyn.com/rss
+The Failure Factor: https://thefailurefactor.libsyn.com/rss
+The Fifth Column: https://api.substack.com/feed/podcast/815642.rss
+The Film Comment Podcast: https://feeds.soundcloud.com/users/soundcloud:users:50057063/sounds.rss
+The Filmcast: https://audioboom.com/channels/4997224.rss
+The Foreign Desk: https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/7b9f282e-1b97-4d40-a38f-ab8a0123a4e7/ed6a263e-d325-4e94-a10c-ab8a0123a4ec/podcast.rss
+The Forensic Lunch with David Cowen and Matthew Seyer: https://forensiclunch.libsyn.com/rss
+The Get Paid Podcast: The Stark Reality of Entrepreneurship and Being Your Own Boss: https://clairepells.libsyn.com/rss
+The Goodstuff Morning Show: https://goodstuff.network/morningshow/feed.xml
+The Grant Williams Podcast: https://feed.podbean.com/ttmygh/feed.xml
+The Gray Area with Sean Illing: https://feeds.megaphone.fm/theezrakleinshow
+The Grift: https://feeds.megaphone.fm/thegrift
+The Growth Show: https://feeds.megaphone.fm/HS8360247339
+The Guardian Books podcast: https://www.theguardian.com/books/series/books/podcast.xml
+The Incomparable Mothership: https://feeds.theincomparable.com/theincomparable
+The Indicator from Planet Money: https://feeds.npr.org/510325/podcast.xml
+The Infinite Monkey Cage: https://podcasts.files.bbci.co.uk/b00snr0w.rss
+The Intelligence from The Economist: https://access.acast.com/rss/d556eb54-6160-4c85-95f4-47d9f5216c49
+The Intercept Briefing: https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6
+The Internet of Things Podcast - Stacey On IoT: https://iotpodcast.com/feed/podcast/
+The Joe Rogan Experience: https://feeds.megaphone.fm/GLT1412515089
+The Joy of Why: https://joy.quantamagazine.org/
+The Joy of x: https://www.quantamagazine.org/feed/feed/the-joy-of-x/
+The Kåss Furuseths: https://podkast.nrk.no/program/the_kaass_furuseths.rss
+The Kevin Rose Show: https://api.substack.com/feed/podcast/2776405.rss
+The Knowledge Project with Shane Parrish: https://feeds.megaphone.fm/FSMI7575968096
+The Lawfare Podcast: https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c
+The Lazy Genius Podcast: https://feeds.megaphone.fm/lazy-genius
+The LRB Podcast: https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1
+The MeatEater Podcast: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss
+The Michael Shermer Show: https://sciencesalon.libsyn.com/rss
+The Mikhaila Peterson Podcast: https://anchor.fm/s/bfa90cbc/podcast/rss
+The Monocle Weekly: https://feeds.feedburner.com/TheMonocleWeekly
+The Moth: https://feeds.feedburner.com/themothpodcast
+The Next Picture Show: https://feeds.megaphone.fm/nps
+The Numberphile Podcast: https://www.numberphile.com/podcast?format=rss
+The OWASP Podcast Series: https://feeds.soundcloud.com/users/soundcloud:users:63303345/sounds.rss
+The Penguin Podcast: https://feeds.acast.com/public/shows/d2a69c65-3300-4484-abcb-ea3e7d712478
+The Phileas Club: https://feedpress.me/thephileasclub
+The Portal: https://feed.cdnstream1.com/zjb/feed/download/d9/8a/71/d98a71ac-d1a3-4d92-ab64-64b4ff3192d1.xml
+The PowerShell News Podcast: https://feed.podbean.com/powershellnews/feed.xml
+The Privacy, Security, &amp; OSINT Show: https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
+The Prof G Pod with Scott Galloway: https://feeds.megaphone.fm/WWO6655869236
+The Python Podcast.__init__: https://serve.podhome.fm/rss/0e91aeb8-10b7-54d0-8ded-d832dd2d857b
+The Q&amp;amp;A with Jeff Goldsmith: https://feeds.feedburner.com/TheQaWithJeffGoldsmith
+The Random Show Podcast: http://www.squealingrat.org/random/feed/
+The Real Chemistry Podcast: https://feeds.megaphone.fm/real-chemistry
+The Real Python Podcast: https://realpython.com/podcasts/rpp/feed
+The Realignment: https://feeds.simplecast.com/BaFYCGSi
+The REPL: https://feeds.therepl.net/therepl
+The Rewatchables: https://feeds.megaphone.fm/the-rewatchables
+The Secrets of Mathematics: http://mediapub.it.ox.ac.uk/feeds/134618/video.xml
+The Social-Engineer Podcast: https://socialengineer.libsyn.com/rss
+The Specialist: https://feeds.acast.com/public/shows/e579f841-8545-4b67-8420-0e3f76e18742
+The Sporkful: https://feeds.simplecast.com/n91GPFY5
+The Tobolowsky Files: https://feeds.simplecast.com/3m9JNpFU
+The Truth: http://feeds.thetruthpodcast.com/thetruthapm
+The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence): https://feeds.megaphone.fm/MLN2155636147
+The University of Chicago Law School Faculty Podcast: https://feeds.feedburner.com/UChicagoLawFacultyPodcast
+The Vergecast: https://feeds.megaphone.fm/vergecast
+The Video Archives Podcast with Quentin Tarantino &amp; Roger Avary: https://feeds.libsyn.com/540572/rss
+The WAN Show: https://feeds.megaphone.fm/LMG3928170156
+The Watercooler: https://www.spreaker.com/show/5964456/episodes/feed
+The Wealth Elevator Podcast: Real Estate, Taxes, Investing: https://feeds.acast.com/public/shows/596ee8b36b3475a168b0d8f5
+The Weekly Show with Jon Stewart: https://feeds.megaphone.fm/BVLLC2163264914
+The Windows Central Podcast: https://windowscentral.libsyn.com/rss
+The WIRED Podcast: https://publicfeeds.net/f/6661/wired-podcast
+The Writers Panel: https://feeds.acast.com/public/shows/64136d56d4086100118cc769
+thedailybitcoinshow: https://feeds.feedburner.com/TheDailyBitcoinShow
+Third Ear: https://feeds.acast.com/public/shows/62a1d88513e14d0011ebc309
+This American Life: https://www.thisamericanlife.org/podcast/rss.xml
+This Day in AI Podcast: https://feeds.transistor.fm/this-day-in-ai
+This Developer's Life: https://feeds.zencastr.com/f/Donxfwf3.rss
+This Is Uncomfortable: https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais
+This Week in Enterprise Tech (Audio): https://feeds.twit.tv/twiet.xml
+This Week in Enterprise Tech (Video): https://feeds.twit.tv/twiet_video_hd.xml
+This Week In Free Speech with Jacob Mchangama: https://feeds.megaphone.fm/TIF5526873110
+This Week in Linux: https://feeds.fireside.fm/thisweekinlinux/rss
+This Week in Startups: https://anchor.fm/s/7c624c84/podcast/rss
+This Week in Startups - Video: https://feeds.feedburner.com/twistvid
+This Week in Tech (Video): https://feeds.twit.tv/twit_video_hd.xml
+Thoughtworks Technology Podcast: https://thoughtworks.libsyn.com/rss
+Three Moves Ahead: http://www.idlethumbs.net/feeds/3ma
+Tiden: https://api.dr.dk/podcasts/v1/feeds/tiden.xml?format=podcast
+TIDLØS - historien om en mestertyv: https://pinecast.com/feed/tidl-s
+Tjenesten og truslerne: https://channels.podcastfeed.eu/008dc408-dd22-48f7-976b-c9262ca5396d/feed.xml
+Topical: https://podcasts.jellystyle.com/topical/rss
+Trailblazers with Walter Isaacson: https://feeds.simplecast.com/excgs68S
+Transfert: https://feeds.360.audion.fm/EZqjvOzZXgWIKWg0EETBQ
+Trapping Today: https://www.trappingtoday.com/feed/podcast/
+Trial by Content: https://anchor.fm/s/886952fc/podcast/rss
+Troldspejlet - podcast: https://api.dr.dk/podcasts/v1/feeds/troldspejlet-podcast.xml?format=podcast
+Twenty Thousand Hertz: https://feeds.megaphone.fm/20k
+Two White Chicks in China: Live in China | Learn Chinese | Make Money in Asia | Shenzhen: https://www.writtenchinese.com/feed/podcast
+Udsyn: https://api.dr.dk/podcasts/v1/feeds/orientering.xml?format=podcast&amp;limit=100
+Ugens gæst: https://api.dr.dk/podcasts/v1/feeds/ugens-gaest-p1.xml?format=podcast
+Uncanny Valley | WIRED: https://publicfeeds.net/f/5901/gadget-lab
+Uncharted with Hannah Fry: https://podcasts.files.bbci.co.uk/m001qw8x.rss
+Under The Skin with Russell Brand: https://feeds.acast.com/public/shows/64f8ce195a10c0001168ca47
+Undiscovered: https://feeds.simplecast.com/6VBaBewk
+Undone: https://feeds.megaphone.fm/undone
+Unhappy Hour with Matt Bellassai: https://feeds.megaphone.fm/unhappy-hour-matt-bellassai
+Unregistered with Thaddeus Russell: https://feeds.libsyn.com/407174/rss
+Useful Idiots with Katie Halper and Aaron Maté: https://feeds.redcircle.com/7090379b-af2f-4972-a14d-b4041f474ee4
+Utviklingslandet: https://utviklingslandet.no/rss.xml
+Vaulted by PROOF: https://anchor.fm/s/9caee380/podcast/rss
+Verden ifølge Gram: https://api.dr.dk/podcasts/v1/feeds/verden-ifoelge-gram.xml?format=podcast&amp;limit=100
+Very Bad Wizards: https://feeds.libsyn.com/474285/rss
+Vince in the Bay Podcast: http://thesplashpage.com/VITB_podcast1.xml
+wach &amp; wichtig – Der Schöne Morgen: https://www.radioeins.de/archiv/podcast/wachundwichtig.xml/feed=podcast.xml
+Waveform: The MKBHD Podcast: https://feeds.megaphone.fm/STU4418364045
+We Have Concerns: https://feeds.simplecast.com/2V4dK4EE
+Web Security Warriors: https://feeds.feedwrench.com/websecwarriors.rss
+Well There‘s Your Problem: https://feed.podbean.com/wtyppod/feed.xml
+What Roman Mars Can Learn About Con Law: https://feeds.simplecast.com/jZLi00b4
+What's Tech?: https://feeds.megaphone.fm/whats-tech
+Who Are These Podcasts?: https://feeds.megaphone.fm/KHWTP7757216280
+Why'd You Push That Button?: https://feeds.megaphone.fm/wyptb
+Windows Weekly (Video): https://feeds.twit.tv/ww_video_hd.xml
+Wired To Hunt Podcast: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fc712b63-a21e-49e9-a45b-ae280065a8f9/117dc6ca-56a3-4b9e-932e-ae280065a907/podcast.rss
+Women in Math: The Limit Does Not Exist: https://feeds.soundcloud.com/users/soundcloud:users:265080741/sounds.rss
+WorkandTravel20.de der Weltreise Podcast: https://workandtravel20.libsyn.com/rss
+World Economic Forum: https://feeds.soundcloud.com/users/soundcloud:users:140381685/sounds.rss
+WTF with Marc Maron Podcast: https://access.acast.com/rss/62a222737c02140013aa4c03/
+Y Combinator Startup Podcast: https://anchor.fm/s/8c1524bc/podcast/rss
+You Are Not So Smart: https://feeds.simplecast.com/N5eKDxJI
+You Must Remember This: https://feeds.megaphone.fm/YMRT7068253588
+You're Wrong About: https://feeds.buzzsprout.com/1112270.rss
+Your Mom's House with Christina P. and Tom Segura: https://feeds.megaphone.fm/YMH5847489315
+Your Undivided Attention: https://feeds.simplecast.com/rZ0cYk12
+一席: https://feed.xyzfm.space/jq7xytwpykrg
+声东击西: https://feeds.fireside.fm/shengdongjixi/rss
+打個電話給你 One Call Away: https://feeds.soundcloud.com/users/soundcloud:users:688207190/sounds.rss
+故事FM: https://feeds.storyfm.cn/storyfm.xml
+旅歐三小事: https://feed.firstory.me/rss/user/ck9b14iw550vv0873antkcq74
+无业游民 The Unemployable: https://theue.me/feed/podcast
+日谈公园: http://www.ximalaya.com/album/5574153.xml
+机核游戏频道: https://alioss.gcores.com/feeds/apple_podcast_v1.xml
+疯投圈: https://crazy.capital/feed
+随机波动StochasticVolatility: https://feeds.fireside.fm/stovol/rss
+馬力歐陪你喝一杯: https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/b7a04983-22ba-406b-b1c4-ac9a00368a25/podcast.rss
 Downloaded https://feeds.feedburner.com/netRocksFullMp3Downloads
 
 Downloaded https://feeds.soundon.fm/podcasts/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc.xml
 
-Downloaded https://daily.slashfilm.com/feed.xml
+Downloaded https://feeds.redcircle.com/2c557d25-e308-43fd-a875-b6ef76535c2b
 
 Downloaded https://www.bamradionetwork.com/feeds/Edchat.xml
 
 Downloaded https://geektalk.ch/category/podcast/news-podcast/feed/
 
-failed: #python
-Downloaded #python
+Downloaded https://www.rbb888.de/podcast/100ProzentBerlin.xml/feed=podcast.xml
 
-failed: #security
-Downloaded #security
+Downloaded https://feeds.megaphone.fm/YMH8516456556
 
-Downloaded http://www.2hdp.fr/2HDP.xml
+Downloaded https://feed.ausha.co/Loa7srdWGm1b
+
+Downloaded https://todaywelearned.libsyn.com/rss
 
 Downloaded https://podcasts.files.bbci.co.uk/p04b1g3c.rss
-
-Downloaded https://www.spreaker.com/show/3469652/episodes/feed
-
-Downloaded https://www.omnycontent.com/d/playlist/9cedf38b-6ec7-4ba2-a1c6-adb301309160/a093dc3b-ad44-4e38-a9aa-adb301311d22/f4469c60-32af-4058-8a24-adb301311d39/podcast.rss
 
 Downloaded https://feeds.simplecast.com/BqbsxVfO
 
 Downloaded https://feeds.simplecast.com/JGE3yC0V
 
-Downloaded http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss
-
 Downloaded https://feeds.acast.com/public/shows/c6d80f60-4ad1-4850-a231-628c674db178
 
 Downloaded https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_13940.xml
 
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:9572226/sounds.rss
+
+Downloaded https://serve.podhome.fm/rss/c9abdd38-a5dc-5eb2-96fd-f833f93208a7
+
 Downloaded https://feeds.acast.com/public/shows/07058b20-e537-4225-9c56-3adf0e2a669a
 
-Downloaded https://feeds.feedburner.com/AlFiloDeLaRealidad
+Downloaded https://api.dr.dk/podcasts/v1/feeds/akkurat-med-clement.xml?format=podcast
+
+Downloaded http://feeds2.feedburner.com/AlFiloDeLaRealidad
 
 Downloaded https://feeds.twit.tv/aaa_video_hd.xml
 
-Downloaded https://www.abc.net.au/radionational/feed/2888650/podcast.xml
+Downloaded https://www.abc.net.au/feeds/2888650/podcast.xml
 
 Downloaded https://feed.jupiter.zone/allshows
 
-Downloaded https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/fe793c6c-d2e8-43cc-a2db-ab220127b4ce/c1b2f8be-226f-47ae-ab66-ab220127b4f4/podcast.rss
+Downloaded https://feeds.megaphone.fm/RNMG8904712943
 
 Downloaded https://allinchamathjason.libsyn.com/rss
 
@@ -611,11 +668,11 @@ Downloaded https://adbackstage.libsyn.com/rss
 
 Downloaded https://www1.wdr.de/mediathek/video/podcast/channel-angeklickt-100.podcast
 
-Downloaded https://angelpodcast.libsyn.com/rss
+Downloaded https://podkast.nrk.no/program/bok_i_p2.rss
 
 Downloaded https://appstories.net/episodes/feed/
 
-Downloaded http://feeds.wnyc.org/aria-code
+Downloaded https://feeds.simplecast.com/hiClsTmV
 
 Downloaded https://www.bamradionetwork.com/feeds/ASCD.xml
 
@@ -623,21 +680,23 @@ Downloaded https://feeds.fireside.fm/asknoah/rss
 
 Downloaded https://feeds.soundcloud.com/users/soundcloud:users:21436304/sounds.rss
 
-Downloaded https://aufwachen-podcast.de/feed/itunesarchiv/
+Downloaded https://feed.aufwachen-podcast.de/iTunes
+
+Downloaded https://b3c.podigee.io/feed/mp3
 
 Downloaded https://feeds.fireside.fm/backtowork/rss
 
-Downloaded https://www.dr.dk/mu/feed/bagklog-pa-p1.xml?format=podcast&amp;limit=100
+Downloaded https://www.bankinfosecurity.com/itunes_rss_podcasts.php
 
-Downloaded http://www.bankinfosecurity.com/itunes_rss_podcasts.php
-
-Downloaded https://listen.warroom.org/feed.xml
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8bc7753f-b108-49b7-915f-ae280065a716/dd773bcc-2806-4ab9-9e57-ae280065a75d/podcast.rss
 
 Downloaded https://www.tagesschau.de/export/video-podcast/webxl/bab/
 
 Downloaded https://www.zdf.de/rss/podcast/video/zdf/politik/berlin-direkt
 
 Downloaded https://audioboom.com/channels/4905579.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss
 
 Downloaded https://feeds.soundcloud.com/users/soundcloud:users:1241091/sounds.rss
 
@@ -647,25 +706,31 @@ Downloaded https://www.fritz.de/programm/sendungen/blue_moon.xml/feed=podcast.xm
 
 Downloaded https://bombshell.libsyn.com/rss
 
-Downloaded https://www.omnycontent.com/d/playlist/16548b29-db2d-4300-989f-ab2101195bb8/73f21c02-2ff7-4f9e-8681-ab220127b535/ee240580-02de-42c0-ac16-ab220127b543/podcast.rss
+Downloaded https://feeds.megaphone.fm/RNMG7301081241
+
+Downloaded https://feeds.simplecast.com/OvoXT1qQ
 
 Downloaded https://feeds.soundcloud.com/users/soundcloud:users:154832827/sounds.rss
 
+Downloaded https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/a8df889a-1ef0-40fd-94bb-af1e00cff416/89869564-4bca-4df0-bca3-af1e00d05284/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/a7b3af98-7e08-44ad-a6bb-b1cb00980d8c/a3f749bf-ae0b-45f0-8523-b1cb009ade4f/podcast.rss
+
 Downloaded https://brakeingsecurity.libsyn.com/rss
 
-Downloaded https://anchor.fm/s/7a32d64/podcast/rss
+Downloaded https://feed.podbean.com/bravenewweed/feed.xml
 
-Downloaded https://feeds.buzzsprout.com/424075.rss
+Downloaded https://feeds.zencastr.com/f/FisVYUQH.rss
 
-Downloaded https://rss.art19.com/bunga-bunga
-
-Downloaded https://rss.art19.com/business-wars
+Downloaded https://api.dr.dk/podcasts/v1/feeds/brinkmanns-briks.xml?format=podcast
 
 Downloaded https://feedpress.me/Byte
 
 Downloaded https://feeds.soundcloud.com/users/soundcloud:users:147878999/sounds.rss
 
-Downloaded https://cashflowninja.libsyn.com/rss
+Downloaded https://www.case-podcast.org/feed/aac
+
+Downloaded https://anchor.fm/s/f2254138/podcast/rss
 
 Downloaded https://chaosradio.de/feed/m4a
 
@@ -677,11 +742,11 @@ Downloaded https://feeds.simplecast.com/WeHw_1yx
 
 Downloaded https://feeds.simplecast.com/400uRY7l
 
-Downloaded https://rss.acast.com/christopher-kimballs-milk-street-radio
+Downloaded https://chinaunscripted.libsyn.com/rss
 
-Downloaded https://feeds.feedburner.com/clandestime
+Downloaded https://publicfeeds.net/f/9135/feed-rss.xml
 
-Downloaded https://freespeechhistory.libsyn.com/rss
+Downloaded https://feeds.feedburner.com/ClandesTime
 
 Downloaded https://www.cleartosend.net/feed/podcast/
 
@@ -689,7 +754,7 @@ Downloaded https://feeds.npr.org/510312/podcast.xml
 
 Downloaded http://feeds.codenewbie.org/cnpodcast.xml
 
-Downloaded https://coder.show/rss
+Downloaded https://feeds.jupiterbroadcasting.com/coder
 
 Downloaded https://www.codingblocks.net/podcast-feed.xml
 
@@ -697,13 +762,15 @@ Downloaded http://feeds.harvardbusiness.org/harvardbusiness/cold-call
 
 Downloaded https://podcasts.files.bbci.co.uk/p02pc9x6.rss
 
-Downloaded https://feeds.pacific-content.com/commandlineheroes
+Downloaded https://feeds.simplecast.com/vUHP7wpf
 
 Downloaded https://feeds.feedburner.com/dancarlin/commonsense?format=xml
 
+Downloaded https://feeds.simplecast.com/OzDH_At2
+
 Downloaded https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml
 
-Downloaded https://www.omnycontent.com/d/playlist/d83f52e4-2455-47f4-982e-ab790120b954/02d506f8-265c-4052-ba18-ab850141c78d/575d2417-888f-470c-8d08-ab850141c79b/podcast.rss
+Downloaded https://feeds.megaphone.fm/WMHY7152026350
 
 Downloaded https://feeds.megaphone.fm/PPY8156500299
 
@@ -711,27 +778,31 @@ Downloaded https://cowenconvos.libsyn.com/rss
 
 Downloaded https://feedpress.me/cooltoolsshow
 
-Downloaded https://feeds.feedburner.com/Cordkillers
-
 Downloaded https://feeds.feedburner.com/VideoCordkillersPodcast
 
-Downloaded https://www.omnycontent.com/d/playlist/c292b3ac-094e-4616-a956-a99800ed54e9/fec21408-6901-41c5-a176-aa550091499a/bc806937-6743-4d24-b7ac-ab0500b4204f/podcast.rss
+Downloaded https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/11be95b1-c60a-4309-9373-ad0800af350b/dc38aa15-5fbc-4e99-b066-ad0800af351d/podcast.rss
+
+Downloaded https://anchor.fm/s/eb6edc3c/podcast/rss
 
 Downloaded https://feeds.megaphone.fm/crazygenius
 
-Downloaded https://feeds.metaebene.me/cre/m4a
+Downloaded https://feeds.metaebene.me/cre/mp3
 
 Downloaded https://feeds.megaphone.fm/VMP7924981569
 
 Downloaded https://crypto-gram.libsyn.com/rss
 
-Downloaded https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/ed398ce4-deb8-4096-8d27-ab090143a27e/0a5cc439-f4d7-47f9-8b88-ab090143a291/podcast.rss
+Downloaded https://feeds.simplecast.com/w5jNkCr8
 
-Downloaded https://feeds.megaphone.fm/cyberwire-daily-podcast
+Downloaded https://podcasts.files.bbci.co.uk/b07dx75g.rss
 
-Downloaded https://feeds.feedburner.com/DailyTechHeadlines
+Downloaded https://rss.pdrl.fm/85df76/feeds.megaphone.fm/cyberwire-daily-podcast
+
+Downloaded http://rss.acast.com/dth
 
 Downloaded https://feeds.feedburner.com/daily_tech_news_show
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/damerne-foerst.xml?format=podcast
 
 Downloaded https://feeds.feedburner.com/damnfinepodcast/qpYn
 
@@ -739,9 +810,9 @@ Downloaded https://feeds.feedburner.com/dancarlin/history?format=xml
 
 Downloaded https://dchhaddendum.libsyn.com/rss
 
-Downloaded https://www.hoerspielundfeature.de/das-feature-104.xml
+Downloaded https://feeds.buzzsprout.com/424075.rss
 
-Downloaded https://www.dataengineeringpodcast.com/feed/mp3/
+Downloaded https://serve.podhome.fm/rss/1c0357c0-6aba-5766-a2d5-2090d8dab6bc
 
 Downloaded https://dataskeptic.libsyn.com/rss
 
@@ -749,33 +820,27 @@ Downloaded https://datastori.es/feed/podcast/
 
 Downloaded https://dataviztoday.libsyn.com/rss
 
-Downloaded https://feeds.buzzsprout.com/147669.rss
+Downloaded https://feeds.captivate.fm/dataframed/
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/de-hemmelige-aktionaerer.xml?format=podcast
 
 Downloaded https://feeds.megaphone.fm/recodedecode
 
-Downloaded https://feeds.simplecast.com/JT6pbPkg
+Downloaded https://feeds.zencastr.com/f/8BBgc1Lp.rss
 
-Downloaded https://defensivesecurity.org/feed/podcast/
-
-Downloaded https://feeds.soundcloud.com/users/soundcloud:users:220484243/sounds.rss
-
-Downloaded https://www.spreaker.com/show/5025652/episodes/feed
-
-Downloaded https://www.dr.dk/mu/feed/den-nordiske-odysse.xml?format=podcast
+Downloaded https://api.dr.dk/podcasts/v1/feeds/den-nordiske-odysse.xml?format=podcast
 
 Downloaded https://panzerknacker.libsyn.com/rss
 
 Downloaded https://podcasts.files.bbci.co.uk/b006qnmr.rss
 
-Downloaded https://feeds.feedburner.com/DesignMattersWithDebbieMillman
+Downloaded https://feeds.acast.com/public/shows/67572f5f7205a5bc68e9792a
 
-Downloaded https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/7c506dcb-254e-4bcb-ab39-ad0800ae3be4/f4a73d93-4aa2-4676-a568-ad0800ae3bed/podcast.rss
+Downloaded https://www.spreaker.com/show/5326314/episodes/feed
 
-Downloaded http://feeds.dhunplugged.com/DHUnplugged
+Downloaded https://www.dhunplugged.com/feed/podcast/
 
-Downloaded https://www.zdf.de/rss/podcast/video/zdf/comedy/die-anstalt
-
-Downloaded https://freundederzeit.podigee.io/feed/mp3
+Downloaded https://feeds.simplecast.com/o3Geakg2
 
 Downloaded https://digitalforensicsurvivalpodcast.libsyn.com/rss
 
@@ -785,19 +850,980 @@ Downloaded https://www.relay.fm/disruption/feed
 
 Downloaded https://chemheritage.libsyn.com/rss
 
-Downloaded https://feeds.fireside.fm/dlc/rss
+Downloaded https://audioboom.com/channels/5104635.rss
+
+Downloaded https://www.hoerspielundfeature.de/das-feature-104.xml
 
 Downloaded https://feeds.simplecast.com/5nKJV82u
 
-Downloaded http://podcast.wh1t3rabbit.net/rss
+Downloaded https://feeds.buzzsprout.com/2153215.rss
 
 Downloaded https://www.relay.fm/download/feed
 
-Downloaded https://easygerman.libsyn.com/rss
+Downloaded https://proxyfeed.svmaudio.com/feeds/easygerman/feed.xml
 
 Downloaded https://podkast.nrk.no/program/ekko_-_et_aktuelt_samfunnsprogram.rss
 
-Downloaded http://cloud.gladyspalmera.net/api/sets/35/rss
+Downloaded https://feeds.acast.com/public/shows/6ec1ff9b-7486-411a-8d0d-edb10d125ec3
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/eliten-fra-rosenoerns-alle.xml?format=podcast
 
 Downloaded https://feeds.soundcloud.com/users/soundcloud:users:334579745/sounds.rss
+
+Downloaded https://makingembeddedsystems.libsyn.com/rss
+
+Downloaded https://rss.wbur.org/endlessthread/podcast
+
+Downloaded https://feed.podbean.com/energyintelwebinars/feed.xml
+
+Downloaded https://www.engineeringandleadership.com/feed/podcast/
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/enter-internettets-skygge.xml?format=podcast
+
+Downloaded https://www.spreaker.com/show/2630773/episodes/feed
+
+Downloaded https://entreprogrammers.libsyn.com/rss
+
+Downloaded https://esradio.libertaddigital.com/es-salud/podcast.xml
+
+Downloaded https://www.deutschlandfunk.de/essay-und-diskurs-102.xml
+
+Downloaded https://europaeiskeideer.podbean.com/feed.xml
+
+Downloaded https://eventualmillionaire.libsyn.com/rss
+
+Downloaded https://feeds.feedburner.com/everythingisalive
+
+Downloaded http://api.rtve.es/api/programas/46690/audios.rss
+
+Downloaded https://anchor.fm/s/df4fcb14/podcast/rss
+
+Downloaded https://podkast.nrk.no/program/filmpolitiet.rss
+
+Downloaded https://api.sr.se/api/rss/pod/itunes/3963
+
+Downloaded https://feeds.twit.tv/floss_video_hd.xml
+
+Downloaded https://feed.podbean.com/flyingsolose/feed.xml
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/fokus.xml?format=podcast
+
+Downloaded https://mikitabrottman.com/feed/podcast/
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss
+
+Downloaded https://changelog.com/founderstalk/feed
+
+Downloaded https://feeds.simplecast.com/LpAGSLnY
+
+Downloaded https://feeds.simplecast.com/Y8lFbOT4
+
+Downloaded https://anchor.fm/s/dbed75d4/podcast/rss
+
+Downloaded https://feeds.npr.org/381444908/podcast.xml
+
+Downloaded https://www.fromthenew.world/feed
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/26a394b6-bb29-44cb-86ae-ad4800e68f25/53456d7d-3279-4ec3-916e-ad4800e68f2e/podcast.rss
+
+Downloaded https://feeds.acast.com/public/shows/125ef5a6-6c61-4024-b70e-3487a971a26c
+
+Downloaded https://feeds.packetpushers.net/fullstackjourney/
+
+Downloaded https://feeds.megaphone.fm/function
+
+Downloaded https://clojuredesign.club/index.xml
+
+Downloaded https://audioboom.com/channels/4973983.rss
+
+Downloaded https://feeds.feedburner.com/portalgameover
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:395741505/sounds.rss
+
+Downloaded https://www.geekweek.de/feed.xml
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/46360733-232a-4a5a-8919-ad4800e68f41/dbfe1158-1fd6-474c-a45f-ad4800e68f4a/podcast.rss
+
+Downloaded https://thedrewreviews.libsyn.com/rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/genstart.xml?format=podcast
+
+Downloaded https://gettingthingsdone.libsyn.com/rss
+
+Downloaded https://access.acast.com/rss/611e92fc06c05e0accf40b30
+
+Downloaded https://www.giantbomb.com/podcast-xml/giant-bombcast/
+
+Downloaded https://feeds.fireside.fm/giantrobots/rss
+
+Downloaded https://feeds.megaphone.fm/girlbossradio
+
+Downloaded https://www.globalfromasia.com/category/podcast/feed/
+
+Downloaded https://changelog.com/gotime/feed
+
+Downloaded https://feeds.simplecast.com/JT6pbPkg
+
+Downloaded https://greatnight.tv/feed/video
+
+Downloaded https://feeds.grownupsreadthingstheywroteaskids.com/podcast
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/guld-og-groenne-skove.xml?format=podcast
+
+Downloaded http://www.hablandodetecnologia.com/feed/podcast/
+
+Downloaded https://hackaday.libsyn.com/rss
+
+Downloaded https://pinecast.com/feed/hacker-daily
+
+Downloaded https://hackerpublicradio.org/hpr_rss.php
+
+Downloaded https://feeds.simplecast.com/gvtxUiIf
+
+Downloaded https://anchor.fm/s/dd11f458/podcast/rss
+
+Downloaded https://feeds.simplecast.com/6HKOhNgS
+
+Downloaded http://feeds.harvardbusiness.org/harvardbusiness/ideacast
+
+Downloaded https://thinkingpodcast.libsyn.com/rss
+
+Downloaded https://feeds.packetpushers.net/PacketPushersWeeklyPodcast
+
+Downloaded https://podkast.nrk.no/program/hele_historien.rss
+
+Downloaded http://www.hellointernet.fm/podcast?format=rss
+
+Downloaded https://feeds.feedburner.com/herdingcode
+
+Downloaded https://feeds.megaphone.fm/hiphination
+
+Downloaded https://feeds.simplecast.com/kwWc0lhf
+
+Downloaded https://hiddenforces.libsyn.com/rss
+
+Downloaded https://feeds.buzzsprout.com/862555.rss
+
+Downloaded https://feeds.feedburner.com/histocast
+
+Downloaded https://podkast.nrk.no/program/radiodokumentaren.rss
+
+Downloaded https://feeds.audiomeans.fr/feed/7773697e-dd5d-4650-808b-158712520883.xml
+
+Downloaded https://hoerbar-rust-radioeins-rbbm.podigee.io/feed/mp3
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6a4a4e0f-8e8d-40e5-9d99-ae8601259b78/0f0d9558-3e6e-4af7-971b-ae860127535c/podcast.rss
+
+Downloaded https://feeds.libsyn.com/480678/rss
+
+Downloaded https://feeds.eff.org/howtofixtheinternet
+
+Downloaded https://howtolosemoney.libsyn.com/rss
+
+Downloaded https://feeds.megaphone.fm/hubermanlab
+
+Downloaded https://podcasts.files.bbci.co.uk/b006qykl.rss
+
+Downloaded https://podcasts.files.bbci.co.uk/p05c17wy.rss
+
+Downloaded https://feeds.transistor.fm/the-indie-hackers-podcast
+
+Downloaded https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/d9f966dd-2ae3-4351-8282-b111007f8c9a/5e47dc65-0b45-43ea-9b94-b111007f8f2b/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/708664bd-6843-4623-8066-aede00ce0c8a/a7ee33f2-d500-4226-b99c-af04013945d6/36587f70-89f9-4631-ac19-af04013945e0/podcast.rss
+
+Downloaded https://feeds.megaphone.fm/NSR6363847171
+
+Downloaded https://feeds.twit.tv/twig_video_hd.xml
+
+Downloaded https://www.deutschlandfunk.de/interview-der-woche-102.xml
+
+Downloaded https://feeds.npr.org/510307/podcast.xml
+
+Downloaded https://feeds.simplecast.com/lP7owBq8
+
+Downloaded https://ironsysadmin.libsyn.com/rss
+
+Downloaded https://feeds.acast.com/public/shows/7f7c57dd-db5b-4209-b1d7-9e934ca4a861
+
+Downloaded https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74
+
+Downloaded https://feeds.simplecast.com/q8x9cVws
+
+Downloaded https://feeds.feedburner.com/jurytalks/ldKY
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/kulturen-pa-p1.xml?format=podcast
+
+Downloaded https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/30c6307d-3d45-480a-b104-b118008dde17/7ac091a9-3203-47ef-8491-b118008dde38/podcast.rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/klog-pa-sprog.xml?format=podcast
+
+Downloaded https://api.sr.se/api/rss/pod/itunes/3967
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/14a56dcd-916d-49f6-9f69-ad4800e69178/132a6534-d359-4aa6-977b-ad4800e69182/podcast.rss
+
+Downloaded https://feeds.audiomeans.fr/feed/de5ba943-e720-4988-a518-40404f231ff3.xml
+
+Downloaded https://feeds.audiomeans.fr/feed/f421f90d-cee9-47c4-9105-bca8e46fe952.xml
+
+Downloaded https://feeds.lagedernation.org/feeds/ldn-mp3.xml
+
+Downloaded https://feeds.megaphone.fm/landofthegiants
+
+Downloaded https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_10076.xml
+
+Downloaded https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14007.xml
+
+Downloaded https://feedpress.me/rdvtech
+
+Downloaded https://www.wwno.org/podcast/le-show/rss.xml
+
+Downloaded https://www.chineseclass101.com/wp-feed-audio-video.php
+
+Downloaded https://learntocodewithme.libsyn.com/rss
+
+Downloaded https://feeds.acast.com/public/shows/8e09f3b5-d4e2-4486-a690-e861898033fa
+
+Downloaded https://feeds.simplecast.com/LDNgBXht
+
+Downloaded https://lexfridman.com/feed/podcast/
+
+Downloaded https://feeds.feedburner.com/udacity-linear-digressions?format=xml
+
+Downloaded https://feeds.fireside.fm/linuxactionnews/rss
+
+Downloaded https://lhspodcast.info/category/podcast-mp3/feed/
+
+Downloaded https://feeds.feedburner.com/literarydisco
+
+Downloaded https://feeds.acast.com/public/shows/b5fe8d16-7518-4208-861b-e1ec5ce88192
+
+Downloaded https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/008f004b-055e-4e0c-9fd0-abc000ffb04a/3b93bc3f-52cb-4a3b-91ef-abc000ffb053/podcast.rss
+
+Downloaded https://www.rocketbeans.tv/podcasts/lootenleveln.xml
+
+Downloaded https://feeds.libsyn.com/65267/rss
+
+Downloaded https://feeds.simplecast.com/pdSmCK46
+
+Downloaded https://anchor.fm/s/246429e4/podcast/rss
+
+Downloaded https://feed.podbean.com/corydon/feed.xml
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/lyssky.xml?format=podcast
+
+Downloaded https://anchor.fm/s/1e4a0eac/podcast/rss
+
+Downloaded https://feeds.megaphone.fm/LTN4153488764
+
+Downloaded https://www.marketingprofs.com/feeds/rss/podcasts/all.xml
+
+Downloaded https://www.marketplace.org/feed/podcast/marketplace-tech
+
+Downloaded https://feeds.captivate.fm/martialartsmedia/
+
+Downloaded https://pinecast.com/feed/materialism
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1dc8e179-7be7-43b3-96bd-ae320081d9ff/718ab1ad-4882-4192-b532-ae320081da1b/podcast.rss
+
+Downloaded https://aperiodical.com/category/main/podcasts/mathematical-objects/feed/?redirect=no
+
+Downloaded https://anchor.fm/s/206763ec/podcast/rss
+
+Downloaded http://plus.maths.org/content/podcast-feed/rss.xml
+
+Downloaded https://feeds.simplecast.com/LNvxlxLx
+
+Downloaded https://mererhetoric.libsyn.com/rss
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/190a1fa1-3cbe-4949-a71d-b25f00933ed1/ce9d7731-6de7-45f7-b44d-b25f0093423e/podcast.rss
+
+Downloaded https://mixedmentalarts.libsyn.com/rss
+
+Downloaded https://feeds.simplecast.com/D6WO3ndr
+
+Downloaded https://feeds.transistor.fm/mobycast
+
+Downloaded http://feed.nashownotes.com/mfrss.xml
+
+Downloaded https://feeds.megaphone.fm/mogul
+
+Downloaded https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/0fccd071-0f91-49e2-80e0-ab8a0121089e/29beb406-a8dd-446c-80d0-ab8a012108a3/podcast.rss
+
+Downloaded https://feeds.lawson.media/moonshot
+
+Downloaded https://podcasts.files.bbci.co.uk/p02nrss1.rss
+
+Downloaded https://feeds.megaphone.fm/mupe
+
+Downloaded https://feeds.feedburner.com/speedofcreativity/podcasts
+
+Downloaded https://kpknudson.com/my-favorite-theorem?format=rss
+
+Downloaded https://app.talkshoe.com/rss-mysteries-abound.xml
+
+Downloaded https://feeds.megaphone.fm/mysteryshow
+
+Downloaded https://audioboom.com/channels/5094626.rss
+
+Downloaded https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:466268865/sounds.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/78026ed4-a536-4f9e-b741-b12d00c83dc7/3fd53ec0-ae17-4264-8ddc-b12d00c9e9c2/podcast.rss
+
+Downloaded https://anchor.fm/s/419c1738/podcast/rss
+
+Downloaded https://feeds.megaphone.fm/LIT3360275696
+
+Downloaded https://feeds.megaphone.fm/LIT8989774512
+
+Downloaded https://feeds.megaphone.fm/LIT1877366845
+
+Downloaded https://feeds.megaphone.fm/LIT2591788808
+
+Downloaded https://newrustacean.com/feed.xml
+
+Downloaded https://feeds.megaphone.fm/ARML6831509338
+
+Downloaded https://nsf.libsyn.com/rss
+
+Downloaded https://audioboom.com/channels/4901871.rss
+
+Downloaded http://podcast.nintendopower.com/feed.xml
+
+Downloaded https://anchor.fm/s/bcc500/podcast/rss
+
+Downloaded https://feeds.noagendaassets.com/noagenda.xml
+
+Downloaded https://audioboom.com/channels/2399216.rss
+
+Downloaded https://www.nolimitsecu.fr/feed/podcast/
+
+Downloaded https://www.rtve.es/api/adapter/programas/23730/audios.rss
+
+Downloaded https://goodstuff.network/nbsp/feed.xml
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/norsken-svensken-og-dansken.xml?format=podcast
+
+Downloaded https://nssdeviations.libsyn.com/rss
+
+Downloaded https://feeds.simplecast.com/DM6Z9TeF
+
+Downloaded https://feeds.simplecast.com/cUAB56sw
+
+Downloaded https://cdn.oreillystatic.com/radar/oreilly-programming-podcast/feed.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss
+
+Downloaded https://www.2600.com/oth-broadband.xml
+
+Downloaded https://netzpolitik.org/category/netzpolitik-podcast/feed/
+
+Failed to process Ohhh! TV Podcast (https://sons.red/podcast/ohhh-tv-podcast/feed/): HTTPSConnectionPool(host='sons.red', port=443): Read timed out. (read timeout=15)
+Downloaded https://audioboom.com/channels/5127257.rss
+
+Downloaded https://opensourcesecuritypodcast.libsyn.com/rss
+
+Downloaded https://radioopensource.org/feed/podcast/
+
+Downloaded https://feeds.megaphone.fm/PNP1207584390
+
+Downloaded https://rss.art19.com/our-fake-history
+
+Downloaded https://feed.overtheroad.fm/
+
+Downloaded https://rss.art19.com/overdue
+
+Downloaded https://feeds.buzzsprout.com/1455199.rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/p1-debat.xml?format=podcast&amp;limit=500
+
+Downloaded https://api.sr.se/api/rss/pod/itunes/4013
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/p1-morgen.xml?format=podcast&amp;limit=100
+
+Downloaded https://api.sr.se/api/rss/pod/itunes/3966
+
+Downloaded https://feeds.packetpushers.net/PriorityQueue/
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3330cb46-e122-4797-bc0c-ae32006cd1f8/bcfb0fa6-e85d-4c5f-a52f-ae32006cd206/podcast.rss
+
+Downloaded https://feeds.feedburner.com/PartiallyDerivative
+
+Downloaded https://api.substack.com/feed/podcast/1219659.rss
+
+Downloaded https://www.spreaker.com/show/1304456/episodes/feed
+
+Downloaded https://www.omnycontent.com/d/playlist/d79bdbb3-8eae-4ad2-b1f6-b0bc00cd1540/55801ec8-b1ca-4294-a791-b109009297da/d11929d0-267e-4ede-b18b-b109009297f6/podcast.rss
+
+Downloaded https://www.c3d2.de/pentacast.xml
+
+Downloaded https://www.c3d2.de/pentaradio.xml
+
+Downloaded https://peoplebehindthescience.libsyn.com/rss
+
+Downloaded https://feeds.captivate.fm/perpetual-traffic/
+
+Downloaded https://feeds.megaphone.fm/QCD6036500916
+
+Downloaded https://physicsfrontiers-rantschler.podomatic.com/rss2.xml
+
+Downloaded https://physicsworld.com/feed/podcast/
+
+Downloaded https://pi-ist-genau-3.de/feed/mp3/
+
+Downloaded https://feeds.acast.com/public/shows/1b1bc64d-1602-417c-be04-b7fa4f7ccf0f
+
+Downloaded https://feeds.npr.org/510289/podcast.xml
+
+Downloaded https://pluralistic.net/feed/
+
+Downloaded https://feeds.acast.com/public/shows/7229e56a-60cd-4607-90c0-dd6d3632e742
+
+Downloaded https://feeds.captivate.fm/pocketnow/
+
+Downloaded https://feeds.simplecast.com/dxZsm5kX
+
+Downloaded https://craphound.com/feed/doctorow_podcast
+
+Downloaded https://feeds.feedburner.com/WeirdThingsPodcast
+
+Downloaded https://feeds.simplecast.com/p9JRgDEG
+
+Downloaded https://pointofinquiry.libsyn.com/rss
+
+Downloaded https://api.substack.com/feed/podcast/3108447/s/155197.rss
+
+Downloaded https://feeds.megaphone.fm/ADV1293150108
+
+Downloaded https://feeds.podcastmirror.com/product-startup
+
+Downloaded https://programmingelectronics.libsyn.com/rss
+
+Downloaded https://feeds.transistor.fm/programming-throwdown
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/prompt.xml?format=podcast
+
+Downloaded https://www.spreaker.com/show/3329893/episodes/feed
+
+Downloaded https://pythonbytes.fm/episodes/rss
+
+Downloaded http://adafruit-podcasts.s3.amazonaws.com/python_on_hardware/podcast.xml
+
+Downloaded https://feeds.transistor.fm/python-people
+
+Downloaded https://python-podcast.de/show/feed/podcast/m4a/rss.xml
+
+Downloaded https://www.omnycontent.com/d/playlist/1283f5f4-2508-4981-a99f-acb500e64dcf/9bb41e53-28fa-4a3d-899b-ad0800ae3d37/00ad7c08-8a51-46d7-8e8f-ad0800ae3d41/podcast.rss
+
+Downloaded https://rabbits.libsyn.com/rss
+
+Downloaded https://podcastfeeds.nbcnews.com/rachel-maddow-presents-ultra
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/092b66a8-4329-4183-bb12-b1e7012d216f/podcast.rss
+
+Downloaded https://radioinformation.podbean.com/feed.xml
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/radioklassikeren.xml?format=podcast&amp;limit=100
+
+Downloaded https://feeds.simplecast.com/EmVW7VGp
+
+Downloaded https://feeds.br.de/radiowissen/feed.xml
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:271528940/sounds.rss
+
+Downloaded https://feeds.acast.com/public/shows/60427f9d34b9a27f4b6e3a8d
+
+Downloaded https://feeds.simplecast.com/SMcNunjG
+
+Downloaded https://www.patreon.com/rss/RedScare?auth=_oJCTYjC-DU3qBy1N8sbhyF7289ix2c8
+
+Downloaded https://feeds.feedburner.com/relprime
+
+Downloaded https://radiofrance-podcast.net/podcast09/d4463877-caa3-4507-9399-f5eb00fde027/rss_14726.xml
+
+Downloaded https://feeds.megaphone.fm/replyall
+
+Downloaded https://feeds.feedburner.com/resoundchurchpodcast
+
+Downloaded https://feed.podbean.com/retroist/feed.xml
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0e563f45-9d14-4ce8-8ef0-ae32006cd7e7/0d4cc74d-fff7-4b89-8818-ae32006cd7f0/podcast.rss
+
+Downloaded https://rhetoricity.libsyn.com/rss
+
+Downloaded https://risky.biz/feeds/risky-business/
+
+Downloaded HTTP://feeds.feedburner.com/RoderickOnTheLine
+
+Downloaded https://rustbeltstartup.com/feed/podcast/
+
+Downloaded https://feeds.simplecast.com/C6NQglnL
+
+Downloaded https://rustacean-station.org/podcast.rss
+
+Downloaded https://sakerhetspodcasten.libsyn.com/rss
+
+Downloaded https://feeds.buzzsprout.com/2424109.rss
+
+Downloaded https://feeds.megaphone.fm/sciencevs
+
+Downloaded https://www.theguardian.com/science/series/science/podcast.xml
+
+Downloaded https://feeds.twit.tv/sn.xml
+
+Downloaded https://feeds.twit.tv/sn_video_hd.xml
+
+Downloaded https://feeds.podcastmirror.com/selfie
+
+Downloaded https://feeds.simplecast.com/xl36XBC2
+
+Downloaded https://podcasts.files.bbci.co.uk/p02pc9qx.rss
+
+Downloaded https://sharedsecurity.net/feed/podcast/
+
+Downloaded https://goodstuff.network/smym/feed.xml
+
+Downloaded https://www.omnycontent.com/d/playlist/796469f9-ea34-46a2-8776-ad0f015d6beb/938adda7-7996-48c0-af83-b248016bcac9/b3d91cd9-913b-495c-9dc4-b248016bcadd/podcast.rss
+
+Downloaded http://feeds.si.edu/SmithsonianSidedoor
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/5dc13326-10a9-4001-a42a-ae89005d1415/ec5db2e9-c7c2-4115-b6a7-ae89005efd15/podcast.rss
+
+Downloaded http://api.rtve.es/api/programas/2082/audios.rss
+
+Downloaded https://feeds.megaphone.fm/AUDD1666051198
+
+Downloaded https://feeds.feedburner.com/SincerelyX
+
+Downloaded https://access.acast.com/rss/5b9e7ed2f1badce55455ddad/
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/skoenlitteratur-pa-p1.xml?format=podcast&amp;limit=100
+
+Downloaded https://www.omnycontent.com/d/playlist/414edbb4-4b91-4960-8650-ad4000dbc027/b130448d-441f-4e21-8f01-b25d0088b413/412c521a-0198-44c4-87b2-b25d0088b4f8/podcast.rss
+
+Downloaded https://feeds.megaphone.fm/slatelexiconvalley
+
+Downloaded http://zizekpodcast.com/category/zizek/feed/
+
+Downloaded https://feeds.simplecast.com/k6_NKTGD
+
+Downloaded https://snap.feed.snapjudgment.org
+
+Downloaded https://seradio.libsyn.com/rss
+
+Downloaded https://feed.songexploder.net/SongExploder
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/foelg-pengene.xml?format=podcast
+
+Downloaded https://podcasts.files.bbci.co.uk/b03bzf92.rss
+
+Downloaded http://feeds.prx.org/HowSound
+
+Downloaded https://fourble.co.uk/scb-211110-7.rss
+
+Downloaded https://rss.art19.com/spirits
+
+Downloaded https://api.sr.se/api/rss/pod/itunes/46690
+
+Downloaded https://podkast.nrk.no/program/spraakteigen.rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/clement-pa-p1-p1d.xml?format=podcast
+
+Downloaded https://feeds.megaphone.fm/VMP5489734702
+
+Downloaded https://stegelcast.libsyn.com/rss
+
+Downloaded https://feeds.acast.com/public/shows/c5991091-ef9c-4c8c-905c-4f66968ff6bd
+
+Downloaded https://stereochemistry.libsyn.com/rss
+
+Downloaded https://www.omnycontent.com/d/playlist/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/3fbe8edc-3bc4-464e-9bcf-b11100854baf/077d3658-064a-4a8d-8f3d-b11100854dff/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/29ee4014-65ab-4d60-812e-ae4c00549b7f/3889a49b-3697-48af-9765-ae4c00549b97/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/d8936746-9e22-4dba-b762-ae2f0056b126/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss
+
+Downloaded https://feeds.megaphone.fm/SUPERDATASCIENCEPTYLTD9836501887
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/supertanker.xml?format=podcast
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/01a10738-3608-4dec-883c-ae3c00026b36/6d114f63-833d-4b78-bbf5-ae3c00026b44/podcast.rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/tabloid-3.xml?format=podcast
+
+Downloaded https://www.tagesschau.de/multimedia/sendung/tagesschau_20_uhr/podcast-ts2000-video-100~podcast.xml
+
+Downloaded https://www.spreaker.com/show/4530061/episodes/feed
+
+Downloaded https://talkpython.fm/episodes/rss
+
+Downloaded https://feeds.transistor.fm/talking-biotech
+
+Downloaded https://feeds.fireside.fm/tmt/rss
+
+Downloaded https://feeds.fireside.fm/teachingpython/rss
+
+Downloaded https://access.acast.com/rss/58ad887a1608b1752663b04a
+
+Downloaded https://podcasts.files.bbci.co.uk/p01plr2p.rss
+
+Downloaded https://feeds.simplecast.com/WSi6AvnS
+
+Downloaded https://feed.podbean.com/podcast.hackernoon.com/feed.xml
+
+Downloaded https://feeds.acast.com/public/shows/935be082-c794-4143-9f66-179c9d665333
+
+Downloaded https://tv.ida.dk/audiopodcast?album%5fid=16944635
+
+Downloaded https://feeds.npr.org/510298/podcast.xml
+
+Downloaded https://podcast.stream.schibsted.media/ap/100186?podcast
+
+Downloaded https://feeds.transistor.fm/test-and-code
+
+Downloaded https://engineeringmanagementinstitute.org/category/tecc-podcast/feed/
+
+Downloaded https://allturtles.libsyn.com/rss
+
+Downloaded https://www.omnycontent.com/d/playlist/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/e7e10a67-651c-4ddf-9c47-acb70155651d/podcast.rss
+
+Downloaded https://feeds.simplecast.com/p7S4nr_h
+
+Downloaded https://feeds.simplecast.com/azy33G8_
+
+Downloaded https://anchor.fm/s/2da99340/podcast/rss
+
+Downloaded https://feeds.buzzsprout.com/1866710.rss
+
+Downloaded https://www.theguardian.com/news/series/the-audio-long-read/podcast.xml
+
+Downloaded https://anchor.fm/s/d4f5d28/podcast/rss
+
+Downloaded https://feeds.buzzsprout.com/1849151.rss
+
+Downloaded https://theblacklist.libsyn.com/rss
+
+Downloaded https://feeds.simplecast.com/zyaxg_KL
+
+Downloaded http://www.loyalbooks.com/book/Brothers-Karamazov/feed
+
+Downloaded https://rss.pdrl.fm/955b43/feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607
+
+Downloaded https://feed.cdnstream1.com/zjb/feed/download/34/5c/36/345c36a7-a587-4220-8c3e-bba344564908.xml
+
+Downloaded https://feed.podbean.com/cartesiancafe/feed.xml
+
+Downloaded https://changelog.com/podcast/feed
+
+Downloaded https://engineeringmanagementinstitute.org/category/cep-podcast/feed/
+
+Downloaded https://cultofpedagogy.libsyn.com/rss
+
+Downloaded https://feeds.simplecast.com/Sl5CSM3S
+
+Downloaded https://podcasts.files.bbci.co.uk/b01n7094.rss
+
+Downloaded https://feeds.feedburner.com/tdicasts
+
+Downloaded https://podcasts.files.bbci.co.uk/p02nq0lx.rss
+
+Downloaded https://feeds.acast.com/public/shows/6658b69029c9180011547e68
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:562785240/sounds.rss
+
+Downloaded https://feeds.buzzsprout.com/317042.rss
+
+Downloaded https://feeds.megaphone.fm/RM6855404952
+
+Downloaded https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/bbd0c3e8-b286-4cad-be8c-a94400ec34c5/077fda1a-01f4-4749-a638-a94400ec34d3/podcast.rss
+
+Downloaded https://feeds.transistor.fm/thoughts-on-functional-programming-podcast-by-eric-normand
+
+Downloaded https://evolutionofhorror.libsyn.com/rss
+
+Downloaded https://thefailurefactor.libsyn.com/rss
+
+Downloaded https://api.substack.com/feed/podcast/815642.rss
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:50057063/sounds.rss
+
+Downloaded https://audioboom.com/channels/4997224.rss
+
+Downloaded https://www.omnycontent.com/d/playlist/e6127ab7-b81e-456b-893c-a8d600215365/7b9f282e-1b97-4d40-a38f-ab8a0123a4e7/ed6a263e-d325-4e94-a10c-ab8a0123a4ec/podcast.rss
+
+Downloaded https://forensiclunch.libsyn.com/rss
+
+Downloaded https://clairepells.libsyn.com/rss
+
+Downloaded https://goodstuff.network/morningshow/feed.xml
+
+Downloaded https://feed.podbean.com/ttmygh/feed.xml
+
+Downloaded https://feeds.megaphone.fm/theezrakleinshow
+
+Downloaded https://feeds.megaphone.fm/thegrift
+
+Downloaded https://feeds.megaphone.fm/HS8360247339
+
+Downloaded https://www.theguardian.com/books/series/books/podcast.xml
+
+Downloaded https://feeds.theincomparable.com/theincomparable
+
+Downloaded https://feeds.npr.org/510325/podcast.xml
+
+Downloaded https://podcasts.files.bbci.co.uk/b00snr0w.rss
+
+Downloaded https://access.acast.com/rss/d556eb54-6160-4c85-95f4-47d9f5216c49
+
+Downloaded https://feeds.acast.com/public/shows/f5b64019-68c3-57d4-b70b-043e63e5cbf6
+
+Downloaded https://iotpodcast.com/feed/podcast/
+
+Downloaded https://feeds.megaphone.fm/GLT1412515089
+
+Downloaded https://joy.quantamagazine.org/
+
+Downloaded https://www.quantamagazine.org/feed/feed/the-joy-of-x/
+
+Downloaded https://podkast.nrk.no/program/the_kaass_furuseths.rss
+
+Downloaded https://api.substack.com/feed/podcast/2776405.rss
+
+Downloaded https://feeds.megaphone.fm/FSMI7575968096
+
+Downloaded https://feeds.acast.com/public/shows/60518a52f69aa815d2dba41c
+
+Downloaded https://feeds.megaphone.fm/lazy-genius
+
+Downloaded https://feeds.acast.com/public/shows/f8abe2f0-7415-4247-bc89-e5f3f6eff6b1
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss
+
+Downloaded https://sciencesalon.libsyn.com/rss
+
+Downloaded https://anchor.fm/s/bfa90cbc/podcast/rss
+
+Downloaded https://feeds.feedburner.com/TheMonocleWeekly
+
+Downloaded https://feeds.feedburner.com/themothpodcast
+
+Downloaded https://feeds.megaphone.fm/nps
+
+Downloaded https://www.numberphile.com/podcast?format=rss
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:63303345/sounds.rss
+
+Downloaded https://feeds.acast.com/public/shows/d2a69c65-3300-4484-abcb-ea3e7d712478
+
+Downloaded https://feedpress.me/thephileasclub
+
+Downloaded https://feed.cdnstream1.com/zjb/feed/download/d9/8a/71/d98a71ac-d1a3-4d92-ab64-64b4ff3192d1.xml
+
+Downloaded https://feed.podbean.com/powershellnews/feed.xml
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss
+
+Downloaded https://feeds.megaphone.fm/WWO6655869236
+
+Downloaded https://serve.podhome.fm/rss/0e91aeb8-10b7-54d0-8ded-d832dd2d857b
+
+Downloaded https://feeds.feedburner.com/TheQaWithJeffGoldsmith
+
+Downloaded http://www.squealingrat.org/random/feed/
+
+Downloaded https://feeds.megaphone.fm/real-chemistry
+
+Downloaded https://realpython.com/podcasts/rpp/feed
+
+Downloaded https://feeds.simplecast.com/BaFYCGSi
+
+Downloaded https://feeds.therepl.net/therepl
+
+Downloaded https://feeds.megaphone.fm/the-rewatchables
+
+Downloaded http://mediapub.it.ox.ac.uk/feeds/134618/video.xml
+
+Downloaded https://socialengineer.libsyn.com/rss
+
+Downloaded https://feeds.acast.com/public/shows/e579f841-8545-4b67-8420-0e3f76e18742
+
+Downloaded https://feeds.simplecast.com/n91GPFY5
+
+Downloaded https://feeds.simplecast.com/3m9JNpFU
+
+Downloaded http://feeds.thetruthpodcast.com/thetruthapm
+
+Downloaded https://feeds.megaphone.fm/MLN2155636147
+
+Downloaded https://feeds.feedburner.com/UChicagoLawFacultyPodcast
+
+Downloaded https://feeds.megaphone.fm/vergecast
+
+Downloaded https://feeds.libsyn.com/540572/rss
+
+Downloaded https://feeds.megaphone.fm/LMG3928170156
+
+Downloaded https://www.spreaker.com/show/5964456/episodes/feed
+
+Downloaded https://feeds.acast.com/public/shows/596ee8b36b3475a168b0d8f5
+
+Downloaded https://feeds.megaphone.fm/BVLLC2163264914
+
+Downloaded https://windowscentral.libsyn.com/rss
+
+Downloaded https://publicfeeds.net/f/6661/wired-podcast
+
+Downloaded https://feeds.acast.com/public/shows/64136d56d4086100118cc769
+
+Failed to process https://feeds.feedburner.com/TheDailyBitcoinShow: HTTPSConnectionPool(host='feed.feedburster.com', port=443): Max retries exceeded with url: /thedailybitcoinshow/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fffe7568860>: Failed to resolve 'feed.feedburster.com' ([Errno -2] Name or service not known)"))
+Failed to process thedailybitcoinshow (https://feeds.feedburner.com/TheDailyBitcoinShow): HTTPSConnectionPool(host='feed.feedburster.com', port=443): Max retries exceeded with url: /thedailybitcoinshow/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fffe7569b50>: Failed to resolve 'feed.feedburster.com' ([Errno -2] Name or service not known)"))
+Downloaded https://feeds.acast.com/public/shows/62a1d88513e14d0011ebc309
+
+Downloaded https://www.thisamericanlife.org/podcast/rss.xml
+
+Downloaded https://feeds.transistor.fm/this-day-in-ai
+
+Downloaded https://feeds.zencastr.com/f/Donxfwf3.rss
+
+Downloaded https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais
+
+Downloaded https://feeds.twit.tv/twiet.xml
+
+Downloaded https://feeds.twit.tv/twiet_video_hd.xml
+
+Downloaded https://feeds.megaphone.fm/TIF5526873110
+
+Downloaded https://feeds.fireside.fm/thisweekinlinux/rss
+
+Downloaded https://anchor.fm/s/7c624c84/podcast/rss
+
+Downloaded https://feeds.feedburner.com/twistvid
+
+Downloaded https://feeds.twit.tv/twit_video_hd.xml
+
+Downloaded https://thoughtworks.libsyn.com/rss
+
+Downloaded http://www.idlethumbs.net/feeds/3ma
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/tiden.xml?format=podcast
+
+Downloaded https://pinecast.com/feed/tidl-s
+
+Downloaded https://channels.podcastfeed.eu/008dc408-dd22-48f7-976b-c9262ca5396d/feed.xml
+
+Downloaded https://podcasts.jellystyle.com/topical/rss
+
+Downloaded https://feeds.simplecast.com/excgs68S
+
+Downloaded https://feeds.360.audion.fm/EZqjvOzZXgWIKWg0EETBQ
+
+Downloaded https://www.trappingtoday.com/feed/podcast/
+
+Downloaded https://anchor.fm/s/886952fc/podcast/rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/troldspejlet-podcast.xml?format=podcast
+
+Downloaded https://feeds.megaphone.fm/20k
+
+Downloaded https://www.writtenchinese.com/feed/podcast
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/orientering.xml?format=podcast&amp;limit=100
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/ugens-gaest-p1.xml?format=podcast
+
+Downloaded https://publicfeeds.net/f/5901/gadget-lab
+
+Downloaded https://podcasts.files.bbci.co.uk/m001qw8x.rss
+
+Downloaded https://feeds.acast.com/public/shows/64f8ce195a10c0001168ca47
+
+Downloaded https://feeds.simplecast.com/6VBaBewk
+
+Downloaded https://feeds.megaphone.fm/undone
+
+Downloaded https://feeds.megaphone.fm/unhappy-hour-matt-bellassai
+
+Downloaded https://feeds.libsyn.com/407174/rss
+
+Downloaded https://feeds.redcircle.com/7090379b-af2f-4972-a14d-b4041f474ee4
+
+Downloaded https://utviklingslandet.no/rss.xml
+
+Downloaded https://anchor.fm/s/9caee380/podcast/rss
+
+Downloaded https://api.dr.dk/podcasts/v1/feeds/verden-ifoelge-gram.xml?format=podcast&amp;limit=100
+
+Downloaded https://feeds.libsyn.com/474285/rss
+
+Downloaded http://thesplashpage.com/VITB_podcast1.xml
+
+Downloaded https://www.radioeins.de/archiv/podcast/wachundwichtig.xml/feed=podcast.xml
+
+Downloaded https://feeds.megaphone.fm/STU4418364045
+
+Downloaded https://feeds.simplecast.com/2V4dK4EE
+
+Failed to process https://feeds.feedwrench.com/websecwarriors.rss: HTTPSConnectionPool(host='feeds.feedwrench.com', port=443): Max retries exceeded with url: /websecwarriors.rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fffe775bc50>, 'Connection to feeds.feedwrench.com timed out. (connect timeout=15)'))
+Failed to process Web Security Warriors (https://feeds.feedwrench.com/websecwarriors.rss): HTTPSConnectionPool(host='feeds.feedwrench.com', port=443): Max retries exceeded with url: /websecwarriors.rss (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fffe7568470>, 'Connection to feeds.feedwrench.com timed out. (connect timeout=15)'))
+Downloaded https://feed.podbean.com/wtyppod/feed.xml
+
+Downloaded https://feeds.simplecast.com/jZLi00b4
+
+Downloaded https://feeds.megaphone.fm/whats-tech
+
+Downloaded https://feeds.megaphone.fm/KHWTP7757216280
+
+Downloaded https://feeds.megaphone.fm/wyptb
+
+Downloaded https://feeds.twit.tv/ww_video_hd.xml
+
+Downloaded https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fc712b63-a21e-49e9-a45b-ae280065a8f9/117dc6ca-56a3-4b9e-932e-ae280065a907/podcast.rss
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:265080741/sounds.rss
+
+Downloaded https://workandtravel20.libsyn.com/rss
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:140381685/sounds.rss
+
+Downloaded https://access.acast.com/rss/62a222737c02140013aa4c03/
+
+Downloaded https://anchor.fm/s/8c1524bc/podcast/rss
+
+Downloaded https://feeds.simplecast.com/N5eKDxJI
+
+Downloaded https://feeds.megaphone.fm/YMRT7068253588
+
+Downloaded https://feeds.buzzsprout.com/1112270.rss
+
+Downloaded https://feeds.megaphone.fm/YMH5847489315
+
+Downloaded https://feeds.simplecast.com/rZ0cYk12
+
+Downloaded https://feed.xyzfm.space/jq7xytwpykrg
+
+Downloaded https://feeds.fireside.fm/shengdongjixi/rss
+
+Downloaded https://feeds.soundcloud.com/users/soundcloud:users:688207190/sounds.rss
+
+Downloaded https://feeds.storyfm.cn/storyfm.xml
+
+Downloaded https://feed.firstory.me/rss/user/ck9b14iw550vv0873antkcq74
+
+Downloaded https://theue.me/feed/podcast
+
+Downloaded http://www.ximalaya.com/album/5574153.xml
+
+Downloaded https://alioss.gcores.com/feeds/apple_podcast_v1.xml
+
+Downloaded https://crazy.capital/feed
+
+Downloaded https://feeds.fireside.fm/stovol/rss
+
+Downloaded https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/b7a04983-22ba-406b-b1c4-ac9a00368a25/podcast.rss
 
