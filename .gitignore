@@ -7,3 +7,7 @@ qrcode.png
 old/output*.txt
 .opml_parser_2.py.kate-swp
 opml_parsing_result.txt
+.clj-kondo
+podcasts_opml.json.orig
+podcast-addict-opml-parser/*
+newest_orig.py
