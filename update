@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
  python opml_parser_2.py podcasts_opml.xml > opml_parsing_result.txt
  ./parse_newest
