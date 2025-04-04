@@ -161,7 +161,7 @@ https://traffic.libsyn.com/secure/thedrewreviews/gv_demon_knight_bubba.mp3
 https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802560077/c9866c758a031f4e259cc5ac1fede316017af2baa162e7ebe8c41015e1039ddd.mp3
 https://traffic.libsyn.com/secure/gettingthingsdone/Episode_304_SOGTDL_Simon_Penhaligon.mp3
 https://sphinx.acast.com/p/acast/s/ghibliotheque/e/67d3161cc269297b2eeb5239/media.mp3
-https://dts.podtrac.com/redirect.mp3/www.giantbomb.com/podcasts/download/5595/download.mp3
+https://dts.podtrac.com/redirect.mp3/www.giantbomb.com/podcasts/download/5606/download.mp3
 https://aphid.fireside.fm/d/1437767933/124f6fb8-c1ce-4784-afd9-daeb5898e044/428e712a-e99d-4b8b-9cf4-97a223ff6454.mp3
 https://pdst.fm/e/chrt.fm/track/6A95B8/traffic.megaphone.fm/GBH8650782699.mp3
 https://media.blubrry.com/podcast_global_from_asia/podcast.globalfromasia.com/gfa458.mp3
@@ -292,6 +292,7 @@ http://cdn.oreillystatic.com/radar/programming-podcast/Kyle_Simpson_and_Tammy_Ev
 https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/721544b2-1dd3-4a4b-a4f6-b2b4014a8f12/audio.mp3
 https://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2025/off_the_hook__20250402-128.mp3
 https://cdn.netzpolitik.org/wp-upload/2025/03/OTR-25-03-Digitaler-Kolonialismus_1.mp3
+https://op3.dev/e/sons.red/archivo_podcast/archivo_ohhhtv/19/s19e04-mr-bean.mp3
 https://pscrb.fm/rss/p/clrtpod.com/m/p.podderapp.com/6482611741/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8699987.mp3
 https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2025-03-ambient-radicle-lars_wirzenius.mp3
 https://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/radioopensource/content.blubrry.com/radioopensource/03_27_2025_Patricia_Lockwood-2.mp3
@@ -546,7 +547,6 @@ https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802501113/452cba1206e
 https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11162508145/999f7ccd3d4ea2e7faf512ab3d815a24671cec3b8c7aee46d63d6a322cf2cac3.mp3
 https://pdrl.fm/e44d6f/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/dovetail.prxu.org/5901/eefbf7bb-7f96-410a-947e-b3a604f36e3d/WUV_S01E21_Libertarianism_Rerun_Mix1_040125.mp3
 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jnprgl.mp3
-https://sphinx.acast.com/p/open/s/64f8ce195a10c0001168ca47/e/698dd784-6d27-11e9-9193-2781f67e6226/media.mp3
 https://mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/c02c7ea9-36d9-43a4-befd-c771f493cf70/episodes/29751323-357b-49fc-8fcd-0a041c1b0e2d/audio/128/default.mp3
 https://pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD1929758594.mp3
 https://traffic.libsyn.com/secure/d7e7c5b9-a836-4bd2-82ed-3b75c5bf0854/Unregistered_Live_Stream_2.mp3
