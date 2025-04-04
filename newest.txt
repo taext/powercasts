@@ -1,5 +1,6 @@
 https://api.spreaker.com/v2/episodes/65115524/download.mp3
 https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/a51caffc-124e-40f8-ac5c-5a01eced2df4/rssFileVip.mp3
+https://www.bamradionetwork.com/wp-content/uploads/2024/12/WEDC.Chat_.CHEATING12224F-enha90F.mp3
 https:\/\/www.GeekTalk.ch\/podcast\/gt0324.mp3
 https:\/\/www.GeekTalk.ch\/podcast\/gt0324.mp3
 https:\/\/www.GeekTalk.ch\/podcast\/gt0324.mp3
@@ -22,6 +23,7 @@ http://www.podtrac.com/pts/redirect.mp3/http://podnutz.com/episodes/aaa/aaa605.m
 https://traffic.libsyn.com/secure/adbackstage/ADB213_V3.mp3
 https://traffic.libsyn.com/appstories/AppStories_regular_Episode_429.mp3
 https://pscrb.fm/rss/p/mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/e3badb5e-519c-4c8d-8363-ba9ab765a2d7/episodes/dcc6eb28-e8eb-49a6-be46-5bb115ecf92e/audio/128/default.mp3
+https://www.bamradionetwork.com/wp-content/uploads/2022/06/WASCD.51222MielkeChase1E.mp3
 https://aphid.fireside.fm/d/1437767933/305e3275-6919-4ed2-9ca1-b21e0cf904b2/b3e3d782-0c98-4d74-9281-e1df5c369b2c.mp3
 https://feeds.soundcloud.com/stream/2069719692-andre-peschke-warum-sind-spiele-zu-einfach.mp3
 https://aufwachen-podcast.de/podlove/file/9998/s/feed/c/itunesarchiv/462donaldduck.mp3
@@ -149,7 +151,7 @@ https://hub.hackerpublicradio.org/ccdn.php?filename=/eps/hpr4350/hpr4350.mp3
 https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/6a5629e9-8b8a-42eb-b795-84adb0aecde9/audio/d46c9a9c-edf2-40cc-a348-95e812d583fc/default_tc.mp3
 https://audio.hbr.org/ideacast/20250328163502-1020_NavigatingtheHybridWorkDilemma.mp3
 https://rss.art19.com/episodes/246e9727-d5d1-4bb5-95eb-01dc7453005b.mp3
-https://feeds.packetpushers.net/link/12486/16994193/HN774.mp3
+https://feeds.packetpushers.net/link/12486/16999271/HN775.mp3
 https://podkast.nrk.no/fil/hele_historien/ca4045c5-db38-482d-8bf1-7844c5f4aed1_0_ID192MP3.mp3
 http://traffic.libsyn.com/hellointernet/136FinalFinal.mp3
 https://herdingcode.com/wp-content/uploads/HerdingCode-0246-David-Ortinau-MAUI.mp3
@@ -159,7 +161,7 @@ https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hiddenforces/Ep.4
 http://www.podtrac.com/pts/redirect.mp3/archive.org/download/HistoCast315LaEnfermedadEnLaHistoriaII/HistoCast315-LaEnfermedadEnLaHistoriaII.mp3
 https://podkast.nrk.no/fil/radiodokumentaren/9ccc0672-41b5-4e83-9513-1fbc78b824d3_0_ID192MP3.mp3
 https://audio.audiomeans.fr/file/jwxjBmjWrg/15280a53-0457-497b-a13c-0305fc063b3f.mp3
-https://rbbmediapmdp-a.akamaihd.net/content/61/0b/610bac18-b74e-4a51-8256-a8bc807730f3/c1a98ebc-54f2-401b-b9b3-e6b5144a6068_39439032-739d-4aa7-9daa-08d738e98ea5.mp3
+https://rbbmediapmdp-a.akamaihd.net/content/91/7a/917a6b2e-7fbf-4511-bca7-b274a2632bd2/92d7414b-2df7-4c93-b7bd-f1f42e4f4f35_dd6c43d7-673f-49c7-ab98-d7e797fb69f1_256k.mp3
 https://rss.art19.com/episodes/e68670a4-8aa0-41d8-b9bc-579736125d7f.mp3
 https://cdn.simplecast.com/audio/1c515ea8-cb6d-4f72-8d17-bc9b7a566869/episodes/988938e8-8496-4ce4-874d-60e0fe967232/audio/5f530692-3aba-485f-bdf8-f371fdab1956/default_tc.mp3
 https://traffic.libsyn.com/secure/howtolosemoney/HTLM-_Final_Episode_Final.mp3
@@ -247,7 +249,7 @@ https://mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/b2
 https://podkast.nrk.no/fil/bok_i_p2/ff24bed6-248d-4ce0-af49-d64aae6e297b_0_ID192MP3.mp3
 http://cdn.oreillystatic.com/radar/programming-podcast/Kyle_Simpson_and_Tammy_Everts_on_the_challenges_of_the_modern_web.mp3
 https://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2025/off_the_hook__20250402-128.mp3
-https://download.2600.com/mediadownload/www.2600.com/offthehook/mp3files/2025/off_the_hook__20250402-128.mp3
+https://op3.dev/e/sons.red/archivo_podcast/archivo_ohhhtv/19/s19e04-mr-bean.mp3
 https://pscrb.fm/rss/p/clrtpod.com/m/p.podderapp.com/6482611741/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8699987.mp3
 https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2025-03-ambient-radicle-lars_wirzenius.mp3
 https://api.dr.dk/podcasts/v1/assets/urn:dr:podcast:item:11802501113/452cba1206e6bbe7a71549c5c170ec3e02cf7193f857b7aa632dcc02ff223915.mp3
@@ -365,7 +367,7 @@ https://www.buzzsprout.com/1866710/episodes/16860493-how-do-i-know-if-i-m-ready-
 https://flex.acast.com/audio.guim.co.uk/2025/03/28-47285-gdn.alr.040425.NA_HELEN_GORDON_METEOR.mp3
 https://anchor.fm/s/d4f5d28/podcast/play/99756023/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-12%2F4fad056c-2025-6589-8f74-edf9f6feba5c.mp3
 https://traffic.libsyn.com/secure/theblacklist/theblacklistexposed229.mp3
-https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/621229bd-2556-4ce6-8ae0-9fa3046f9da9/episodes/d76571a1-28c6-4fd1-9e55-fcd3633bb5e4/audio/128/default.mp3
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/621229bd-2556-4ce6-8ae0-9fa3046f9da9/episodes/20076bbe-2ff9-49f4-9723-6aaef5189767/audio/128/default.mp3
 https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/67e823c9e270d6e036c61799/media.mp3
 https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/the-business/studios-bet-big-at-cinem-c3c8f9/audio.mp3
 https://op3.dev/e/https://cdn.changelog.com/uploads/friends/87/changelog--friends-87.mp3
