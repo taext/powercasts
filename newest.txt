@@ -199,7 +199,7 @@ http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nond
 https://media.transistor.fm/f614549b/3ba6a35b.mp3
 https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/d9f966dd-2ae3-4351-8282-b111007f8c9a/8729cf1e-cc97-412a-a176-b19d00cbd4fd/audio.mp3
 https://traffic.omny.fm/d/clips/708664bd-6843-4623-8066-aede00ce0c8a/a7ee33f2-d500-4226-b99c-af04013945d6/23e26c18-6be7-4167-a008-b2b4000d36dc/audio.mp3
-https://pdst.fm/e/chrt.fm/track/C35921/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4186934823.mp3
+https://pdst.fm/e/chrt.fm/track/C35921/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8708694543.mp3
 https://pscrb.fm/rss/p/cdn.twit.tv/video/twig/twig0813/twig0813_h264m_1920x1080.mp4
 https://podcast-mp3.dradio.de/podcast/2025/04/06/interview_lauterbach_karl_geschaeftsfuehrender_dlf_20250406_1105_bf4c9cab.mp3
 https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510307/traffic.megaphone.fm/NPR5502242039.mp3
@@ -218,7 +218,7 @@ https://audio.audiomeans.fr/file/jwxjBmjWrg/c2c5280a-b713-4683-9925-00cb18e608d4
 https://audio.audiomeans.fr/file/jwxjBmjWrg/c9f56bea-d6f5-4b2a-b523-8fc91f45fc94.mp3
 https://dts.podtrac.com/redirect.mp3/files.lagedernation.org/lagedernation/LdN425.mp3
 https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8369406852.mp3
-https://rf.proxycast.org/4c7f19bc-ebc2-49ef-b5fe-3a1e9a89c154/10076-05.04.2025-ITEMA_24092425-2024C36128E0002-NET_MFC_42F834EF-13F0-4A7E-ABE7-A3360593FEF0-21.mp3
+https://rf.proxycast.org/0840cdf4-12fc-478d-a7b7-880a4f5928fb/10076-06.04.2025-ITEMA_24092426-2024C36128S0106-NET_MFC_1B0EBE56-E555-4245-8D17-C94CAB7516DF-21.mp3
 https://rf.proxycast.org/e13f5448-3b06-470a-b002-aabad4c8ef9b/14007-30.03.2025-ITEMA_24079927-2025F4007S0089-NET_MFI_A5039EC5-E240-4238-B87B-6B4030368EA6-22.mp3
 https://feedpress.me/link/22958/16996398/media.mp3
 https://cpa.ds.npr.org/s711/audio/2025/03/leshow-033025edit.mp3
