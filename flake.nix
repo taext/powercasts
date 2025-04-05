@@ -19,6 +19,7 @@
           requests
           more-itertools
           tqdm
+          aiohttp
           # Add more as needed
         ]);
       in {
