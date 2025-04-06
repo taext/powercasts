@@ -11,3 +11,5 @@ opml_parsing_result.txt
 podcasts_opml.json.orig
 podcast-addict-opml-parser/*
 newest_orig.py
+daily_update
+jabbedi.sh
