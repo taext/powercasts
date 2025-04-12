@@ -13,3 +13,6 @@ podcast-addict-opml-parser/*
 newest_orig.py
 daily_update
 jabbedi.sh
+all_mp3s.tar.gz
+all_mp3s.tar.gz.age
+.gitignore
