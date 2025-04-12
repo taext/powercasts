@@ -264,7 +264,7 @@ https://static1.squarespace.com/static/50e8abdce4b0404f376dbe62/t/67a50b2e1dc6b6
 https://app.talkshoe.com/recording/inline/key/3f0c0e5b963d802b7f592465f4d82d365b0801b6.mp3
 https://traffic.megaphone.fm/GLT9850047044.mp3
 https://p.podderapp.com/6482611741/pscrb.fm/rss/p/pdst.fm/e/pfx.vpixl.com/ejC8r/clrtpod.com/m/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8702407.mp3
-https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20254/03/4413908.mp3
+https://prisa-es.mc.tritondigital.com/NADIE_SABE_NADA_SER_PODCAST_488_P/media/playser/audio/20254/11/4425795.mp3
 https://feeds.soundcloud.com/stream/2074576192-nasjonal-sikkerhetsmyndighet-nsm-podkast-266-rapport-fra.mp3
 https://traffic.omny.fm/d/clips/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/78026ed4-a536-4f9e-b741-b12d00c83dc7/8ab15e7f-0e40-4bbb-a369-b25f01180b02/audio.mp3
 https://anchor.fm/s/419c1738/podcast/play/77202435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-14%2F79e0152a-7333-6a5b-1669-b07ceb3352f8.mp3
@@ -399,7 +399,7 @@ https://sphinx.acast.com/greatleapyears/s2ep9-wrappingup/media.mp3
 https://traffic.libsyn.com/secure/stereochemistry/uncovered_horseshoe_crab_blood.mp3
 https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/3fbe8edc-3bc4-464e-9bcf-b11100854baf/4ae10d0a-7c86-491e-8f3e-b2ba00d432bd/audio.mp3
 https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/29ee4014-65ab-4d60-812e-ae4c00549b7f/81aa064c-9151-4299-b2aa-b2ba0188c2ea/audio.mp3
-https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/04d60d0e-1ca9-4894-b6fc-b2bc012683cf/audio.mp3
+https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/6ea152c0-9e3a-45de-8672-ae2f0056b113/cf947a07-a702-43d4-ba8f-b2bc013e6e30/audio.mp3
 https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/6544df36-ad59-4688-9774-b2ba0132dd53/audio.mp3
 https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24014ca3-ea55-4cca-bfac-b2b9014628a9/audio.mp3
 https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD9510231873.mp3
@@ -440,7 +440,7 @@ https://mcdn.podbean.com/mf/web/anva6qkbhmsz3dtp/Justin_Clarke_Doane.mp4
 https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/636/the-changelog-636.mp3
 https://media.blubrry.com/engineeringcareercoach/traffic.libsyn.com/secure/civilengineeringpodcast/TCEP286.mp3
 https://traffic.libsyn.com/secure/cultofpedagogy/Episode-248.mp3
-https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fe9bac3f-2725-4e2f-ac1d-ffad45b47368/audio/128/default.mp3
+https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/02f60c5c-7d4e-47e2-aa88-ae09d5731132/audio/128/default.mp3
 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hcrvkj.mp3
 https://media.blubrry.com/tdi_podcast/thedisciplinedinvestor.com/blog/podcasts/tdi_episode915.mp3
 http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0l3xw62.mp3
@@ -455,7 +455,7 @@ https://traffic.libsyn.com/secure/thefailurefactor/Podcast_Audio_Eight_Sleep.mp3
 https://api.substack.com/feed/podcast/161017145/cbebb749269d3eea27f7f8a77d4b1226.mp3
 http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/2069339608-film-comment-new-directorsnew-films-2025-with-mark-asch-and-natalia-keogan.mp3
 https://pscrb.fm/rss/p/pdst.fm/e/clrtpod.com/m/p.podderapp.com/6482611741/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8701409.mp3
-https://traffic.omny.fm/d/clips/e6127ab7-b81e-456b-893c-a8d600215365/7b9f282e-1b97-4d40-a38f-ab8a0123a4e7/b42a43dc-c148-4b9e-a87b-b2ba00a300fe/audio.mp3
+https://traffic.omny.fm/d/clips/e6127ab7-b81e-456b-893c-a8d600215365/7b9f282e-1b97-4d40-a38f-ab8a0123a4e7/d413369a-f3ec-44f0-a6bb-b2bc00edb9c5/audio.mp3
 https://traffic.libsyn.com/secure/forensiclunch/Forensic_Lunch_8-28-20_-_Willi_Ballenthin.mp3
 https://traffic.libsyn.com/secure/clairepells/GPP_Ep245-Annie_Featuring_Claire.mp3
 https://chrt.fm/track/9E18G/media.transistor.fm/a3a7316c/95a05728.mp3
@@ -491,7 +491,7 @@ https://sphinx.acast.com/p/acast/s/thepenguinpodcast/e/67f6962a02787319784b9489/
 https://feedpress.me/link/23093/16998892/media.mp3
 https://mgln.ai/e/89/claritaspod.com/measure/verifi.podscribe.com/rss/p/arttrk.com/p/KSTA5/pdst.fm/e/dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kast/the-portal/42-cashing-out-my-trump-dcf24a/audio.mp3
 https://mcdn.podbean.com/mf/web/3mn433/Episode062.mp3
-https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP8574932478.mp3
+https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP9093726165.mp3
 https://serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6385253218687976247e01a0e5-0af4-4622-9f96-f3939076d123v1.mp3
 https://traffic.libsyn.com/theqandawjeffgoldsmith/DropQandAJillianJacobsChrisRoach.mp3
 http://traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_The_Random_Show_Japan.mp3
@@ -514,7 +514,7 @@ https://pdst.fm/e/chrt.fm/track/C76EG6/mgln.ai/e/94/claritaspod.com/measure/veri
 https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/65297526/2025_04_01wc.mp3
 https://sphinx.acast.com/p/open/s/596ee8b36b3475a168b0d8f5/e/67d7dc9aaf1d043055ea6835/media.mp3
 https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/47G541/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7355129726.mp3
-https://traffic.libsyn.com/secure/windowscentral/202512.mp3
+https://traffic.libsyn.com/secure/windowscentral/202513.mp3
 https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/dovetail.prxu.org/6661/0ed81677-7bd3-4d7a-a5a8-e694f70c53b5/WPL_S1E01_FOIA_Feed_Drop_Mix2_041024.mp3
 https://sphinx.acast.com/p/open/s/64136d56d4086100118cc769/e/67eb2d5b02e789100f2e769b/media.mp3
 https://sphinx.acast.com/p/open/s/62a1d88513e14d0011ebc309/e/675ded16272fba937c43a1b1/media.mp3
@@ -576,7 +576,6 @@ https://chrt.fm/track/48D18/cdn.simplecast.com/audio/1beb2301-b954-4718-ac31-006
 https://dts-api.xiaoyuzhoufm.com/track/5e285326418a84a04627343f/64380604a79cc814706ea87c/media.xyzcdn.net/nirusjWvmWGcwpsFkDSAOhWwwDzw.mp3
 https://chtbl.com/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/2aeaee02-44ba-459b-913f-9bf58c725a46.mp3
 https://sw.soundon.fm/p/R3OUS7/chtbl.com/track/7AEC28/http://feeds.soundcloud.com/stream/2047840340-wendyhasatail-05-mis-hongkong-05-girls-school-isnt-fun.mp3
-https://tk.wavpub.com/WPDL_YvgdzNBuYmFFEbBaHKnhNvKBGzhcGqwTfLfrCTtPPPJmFcQgvbvtcgvzqA-d6.mp3
 https://backend.endpoints.firstory-709db.cloud.goog/play.mp3
 https://theue.me/download-episode/2855/money-talk.mp3
 https://jt.ximalaya.com//GKwRIRwGhxYhACAAAAFvCVCa.mp3.m4a?channel=rss&amp;album_id=5574153&amp;track_id=541490891&amp;uid=59126029&amp;jt=https://aod.cos.tx.xmcdn.com/storages/cd59-audiofreehighqps/39/92/GKwRIRwGhxYhACAAAAFvCVCa.mp3
