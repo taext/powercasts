@@ -28,7 +28,6 @@
 
           shellHook = ''
             echo "🐍 Python development environment activated"
-            echo "Python: $(which python)"
             python --version
           '';
         };
