@@ -20,6 +20,7 @@
           more-itertools
           tqdm
           aiohttp
+          ipython
           # Add more as needed
         ]);
       in {
