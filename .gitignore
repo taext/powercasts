@@ -18,3 +18,4 @@ all_mp3s.tar.gz.age
 .gitignore
 get_newest_txt_through_time
 newest_txt_file_history/*
+.python-version
